@@ -1,0 +1,13 @@
+type=mech;name=Test Mech;variant=TM-A;tonnage=100;heatsinks=10;movement=2/3/0
+loc=1;structure10=1;structure11=0;structure00=2;structure01=0;slot11=lifesup;slot12=sensors;slot13=cockpit;;slot15=sensors;slot16=lifesup;slot16=Hit
+loc=2;structure10=2;structure11=0;structure20=1;structure21=0;structure00=2;structure01=0;slot11=engine;slot12=engine;slot13=engine;slot14=gyro;slot15=gyro;slot16=gyro;slot21=gyro;slot22=engine;slot23=engine;slot24=engine;;
+loc=3;structure10=3;structure11=0;structure20=1;structure21=0;structure00=2;structure01=0;slot11=AC2_1;slot12=AC2_1;slot13=AC2_1;slot14=AC2_1;slot15=AC2Ammo_1
+loc=4;structure10=4;structure11=0;structure20=1;structure21=0;structure00=2;structure01=0;slot11=AC2_2;slot12=AC2_2;slot13=AC2_2;slot14=AC2_2;slot15=AC2Ammo_2;slot14=Hit
+loc=5;structure10=5;structure11=0;structure00=2;structure01=0;
+loc=6;structure10=6;structure11=0;structure00=2;structure01=0;
+loc=7;structure10=7;structure11=0;structure00=2;structure01=0;
+loc=8;structure10=8;structure11=0;structure00=2;structure01=0;
+AC2_1;type=AC2;
+AC2_2;type=AC2;status=Jammed
+AC2Ammo_1;type=AC2Ammo;ammotype=Normal;ammoleft=41
+AC2Ammo_2;type=AC2Ammo;left=40;ammotype=Normal

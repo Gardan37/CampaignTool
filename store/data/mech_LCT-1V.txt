@@ -1,0 +1,11 @@
+name=Locust;variant=LCT-1V;tonnage=20;heatsinks=10
+Engine;type=engine;size=160
+Armor;H=8;CT=10/2;ST=8/2;A=4;L=8
+MedLaser_1;type=MedLaser;loc=2;crit=25
+MG_1;type=MG;loc=5;crit=13
+MG_2;type=MG;loc=6;crit=13
+MGAmmo_1;type=MGAmmo;loc=2;crit=26
+HS_1;type=HS;loc=3;crit=11
+HS_2;type=HS;loc=4;crit=11
+HS_3;type=HS;loc=7;crit=15
+HS_4;type=HS;loc=8;crit=15

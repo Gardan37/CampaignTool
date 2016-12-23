@@ -1,0 +1,17 @@
+type=MG;range=0/1/2/3;heat=0;damage=2;crit=1;tons=0.5;ammoton=200
+type=AC2;range=4/8/16/24;heat=1;damage=2;crit=1;tons=6;ammoton=45
+type=AC5;range=3/6/12/18;heat=1;damage=5;crit=4;tons=8;ammoton=20
+type=AC10;range=0/5/10/15;heat=3;damage=10;crit=7;tons=12;ammoton=10
+type=AC20;range=0/3/6/9;heat=7;damage=20;crit=10;tons=14;ammoton=5
+type=SRM2;range=0/3/6/9;heat=2;damage=2s;crit=1;tons=1;ammoton=50
+type=SRM4;range=0/3/6/9;heat=3;damage=4s;crit=1;tons=2;ammoton=25
+type=SRM6;range=0/3/6/9;heat=4;damage=6s;crit=2;tons=3;ammoton=15
+type=LRM5;range=6/7/14/21;heat=2;damage=5l;crit=1;tons=2;ammoton=24
+type=LRM10;range=6/7/14/21;heat=3;damage=10l;crit=2;tons=5;ammoton=12
+type=LRM15;range=6/7/14/21;heat=5;damage=15l;crit=3;tons=7;ammoton=8
+type=LRM20;range=6/7/14/21;heat=6;damage=20l;crit=5;tons=10;ammoton=6
+type=Fl;range=0/1/2/3;heat=3;damage=2;crit=1;tons=1
+type=SL;range=0/1/2/3;heat=1;damage=3;crit=1;tons=0.5
+type=ML;range=0/3/6/9;heat=3;damage=5;crit=1;tons=1
+type=LL;range=0/5/10/15;heat=8;damage=8;crit=2;tons=5
+type=PPC;range=3/6/12/18;heat=10;damage=10;crit=3;tons=7

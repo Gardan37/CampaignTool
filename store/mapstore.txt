@@ -1,0 +1,43 @@
+C=3;Cmin=0;Cmax=3;V=0;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=BCa;mapname=Box Canyon;amount=2
+C=1;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=4;W0=0;W1=0;W2=0;U=0;UR=0;UB=0;tag=BF2;mapname=Battleforce 2;amount=2
+C=0;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=Bla;mapname=Blank sheet;amount=6
+C=1;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=BM2;mapname=Battletech Map;amount=3
+C=3;Cmin=0;Cmax=3;V=0;V1=0;V2=0;V3=0;W=0;W0=0;W1=0;W2=0;U=3;UR=0;UB=0;tag=CDT;mapname=City (Downtown);amount=2
+C=0;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=0;UR=0;UB=0;tag=CR1;mapname=City Hills/Residential #1;amount=2
+C=0;Cmin=0;Cmax=3;V=0;V1=0;V2=0;V3=0;W=4;W0=0;W1=0;W2=0;U=0;UR=0;UB=0;tag=CR2;mapname=City Hills/Residential #2;amount=2
+C=2;Cmin=0;Cmax=3;V=0;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=3;UR=0;UB=0;tag=CRe;mapname=City (Residential);amount=2
+C=0;Cmin=0;Cmax=3;V=0;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=1;UR=0;UB=0;tag=CRu;mapname=City Ruins;amount=2
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=1;W0=0;W1=0;W2=0;U=0;UR=0;UB=0;tag=CS1;mapname=City Streets #1;amount=2
+C=0;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=0;UR=0;UB=0;tag=CS2;mapname=City Streets #2;amount=2
+C=3;Cmin=0;Cmax=3;V=0;V1=0;V2=0;V3=0;W=0;W0=0;W1=0;W2=0;U=3;UR=0;UB=0;tag=CSs;mapname=City (Skyscraper);amount=2
+C=1;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=1;W0=0;W1=0;W2=0;U=3;UR=0;UB=0;tag=CSU;mapname=City (Suburbs);amount=2
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=0;W0=0;W1=0;W2=0;U=1;UR=0;UB=0;tag=CTM;mapname=Citytech Map;amount=2
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=5;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DB1;mapname=Drainage Basin #1;amount=2
+C=0;Cmin=0;Cmax=3;V=2;V1=0;V2=0;V3=0;W=5;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DB2;mapname=Drainage Basin #2;amount=2
+C=2;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DC1;mapname=Deep Canyon #1;amount=2
+C=2;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DC2;mapname=Deep Canyon #2;amount=2
+C=1;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DHi;mapname=Desert Hills;amount=1
+C=3;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DM1;mapname=Desert Mountain #1;amount=2
+C=3;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DM2;mapname=Desert Mountain #2;amount=2
+C=1;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DS1;mapname=Desert Sinkhole #1;amount=2
+C=1;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=DS2;mapname=Desert Sinkhole #2;amount=2
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=HF1;mapname=Heavy Forest #1;amount=2
+C=1;Cmin=0;Cmax=3;V=3;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=HF2;mapname=Heavy Forest #2;amount=2
+C=1;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=4;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=LAM;mapname=Lake Area Map ;amount=1
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=2;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=LL1;mapname=Large Lake #1;amount=2
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=2;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=LL2;mapname=Large Lake #2;amount=2
+C=3;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=0;UR=0;UB=0;tag=LM1;mapname=Large Mountain #1;amount=2
+C=3;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=4;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=LM2;mapname=Large Mountain #2;amount=2
+C=1;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=4;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=MLa;mapname=Mountain Lakes;amount=2
+C=1;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=MS1;mapname=Moonscape #1;amount=2
+C=2;Cmin=0;Cmax=3;V=-1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=MS2;mapname=Moonscape #2;amount=2
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=OT1;mapname=Open Terrain #1;amount=2
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=OT2;mapname=Open Terrain #2;amount=2
+C=1;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=RH1;mapname=Rolling Hills #1;amount=2
+C=1;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=RH2;mapname=Rolling Hills #2;amount=2
+C=2;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=4;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=RVa;mapname=River Valley ;amount=1
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=SWo;mapname=Scattered woods;amount=1
+C=1;Cmin=0;Cmax=3;V=2;V1=0;V2=0;V3=0;W=-1;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=Woo;mapname=Woodland;amount=3
+C=0;Cmin=0;Cmax=3;V=1;V1=0;V2=0;V3=0;W=2;W0=0;W1=0;W2=0;U=-1;UR=0;UB=0;tag=WRi;mapname=Wide River;amount=2
+
+

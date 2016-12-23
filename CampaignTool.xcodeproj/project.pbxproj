@@ -1,0 +1,1133 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+		D7BA7D76DAB5DD13389D6332 = {
+			buildActionMask = 2147483647;
+			files = (
+				);
+			generatedFileNames = (
+				);
+			isa = PBXShellScriptBuildPhase;
+			name = "Qt Qmake";
+			neededFileNames = (
+				);
+			shellPath = "/bin/sh";
+			shellScript = "make\ -C\ /Users/gardan/Projects/CampaignTool\ -f\ \'CampaignTool.xcodeproj/qt_makeqmake.mak\'";
+		};
+		118FCBAABA162BA17933C789 = {
+			isa = PBXFileReference;
+			name = "main.cpp";
+			path = "main.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		2B093CA6F071B023A473CED0 = {
+			fileRef = "118FCBAABA162BA17933C789";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		FC56EC9B62613536DE51D94C = {
+			isa = PBXFileReference;
+			name = "campaigntool.cpp";
+			path = "campaigntool.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		D56A5C6D76A16E8E8C1AABA5 = {
+			fileRef = "FC56EC9B62613536DE51D94C";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		B4D78E361A6C2B5BC0FA3755 = {
+			isa = PBXFileReference;
+			name = "store.cpp";
+			path = "store.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		9DE4229758EF7E15F900B649 = {
+			fileRef = "B4D78E361A6C2B5BC0FA3755";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		EA590CB3AFBFC7FB96F3C4E6 = {
+			isa = PBXFileReference;
+			name = "mapstore.cpp";
+			path = "mapstore.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		97C1D9AA0EA3E9179FA0A1E7 = {
+			fileRef = "EA590CB3AFBFC7FB96F3C4E6";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		0D23A6D7E73328A20233B43F = {
+			isa = PBXFileReference;
+			name = "force.cpp";
+			path = "force.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		A039AEB0504A520E6D558F7B = {
+			fileRef = "0D23A6D7E73328A20233B43F";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		9839E18CBFD935E1FAC1C139 = {
+			isa = PBXFileReference;
+			name = "forcelance.cpp";
+			path = "forcelance.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		7ACDFD5DADC083F142E0CB2B = {
+			fileRef = "9839E18CBFD935E1FAC1C139";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		7F643E4828741B8D6B101F64 = {
+			isa = PBXFileReference;
+			name = "forcecompany.cpp";
+			path = "forcecompany.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		A294199E0EB06FC19B66C9CB = {
+			fileRef = "7F643E4828741B8D6B101F64";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		C909E8966C30AC0B6DAF5965 = {
+			isa = PBXFileReference;
+			name = "forcebattalion.cpp";
+			path = "forcebattalion.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		7080823E6E34C38D4669A10E = {
+			fileRef = "C909E8966C30AC0B6DAF5965";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		99F92CA6B968B484FD94F22C = {
+			isa = PBXFileReference;
+			name = "forceregiment.cpp";
+			path = "forceregiment.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		2769D115E6ED7C75A2B66176 = {
+			fileRef = "99F92CA6B968B484FD94F22C";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		0DA0FF2C8C7D5CED42FD26D2 = {
+			isa = PBXFileReference;
+			name = "forcerct.cpp";
+			path = "forcerct.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		C2E6D75FCEE634B18AC35792 = {
+			fileRef = "0DA0FF2C8C7D5CED42FD26D2";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		1F2B6AB12A676C66114D4443 = {
+			isa = PBXFileReference;
+			name = "mapnode.cpp";
+			path = "mapnode.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		722E5629A7E3E3774B9637FD = {
+			fileRef = "1F2B6AB12A676C66114D4443";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		483C35DB0EF1B6709D2A29B6 = {
+			isa = PBXFileReference;
+			name = "mapmodel.cpp";
+			path = "mapmodel.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		EFA5A43DB260B343E1D49F4D = {
+			fileRef = "483C35DB0EF1B6709D2A29B6";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		9BA621ACA9B157389C37BC39 = {
+			isa = PBXFileReference;
+			name = "mw.cpp";
+			path = "mw.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		9D6CC2EFD00AD426EE4AF116 = {
+			fileRef = "9BA621ACA9B157389C37BC39";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		26573FBDAC96A178C84431FB = {
+			isa = PBXFileReference;
+			name = "mwattribute.cpp";
+			path = "mwattribute.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		AFEA8895E6C85D5E4E119419 = {
+			fileRef = "26573FBDAC96A178C84431FB";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		4693A566F9DC0AF5E85779F6 = {
+			isa = PBXFileReference;
+			name = "mwskill.cpp";
+			path = "mwskill.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		708D3DBB1E541F4F6D81E286 = {
+			fileRef = "4693A566F9DC0AF5E85779F6";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		2D0D722E40DFDF0566B56540 = {
+			isa = PBXFileReference;
+			name = "mwtrait.cpp";
+			path = "mwtrait.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		B42B84ADB807068993F042DB = {
+			fileRef = "2D0D722E40DFDF0566B56540";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		49D2CA20E1D5CE811E894356 = {
+			isa = PBXFileReference;
+			name = "mech.cpp";
+			path = "mech.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		893FE0106CE832E2F2D7977F = {
+			fileRef = "49D2CA20E1D5CE811E894356";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		128AB023B4AF66341093A136 = {
+			isa = PBXFileReference;
+			name = "mechlocation.cpp";
+			path = "mechlocation.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		F29E6878FA8E694DE3E05482 = {
+			fileRef = "128AB023B4AF66341093A136";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		F765AD73CBAB94DC84291402 = {
+			isa = PBXFileReference;
+			name = "vehicle.cpp";
+			path = "vehicle.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		81D20E679C77E450E7C7E475 = {
+			fileRef = "F765AD73CBAB94DC84291402";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		D9EB28914BD4A2B5E4D1A323 = {
+			isa = PBXFileReference;
+			name = "vehiclelocation.cpp";
+			path = "vehiclelocation.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		07E6F2DDB67985318EBD4618 = {
+			fileRef = "D9EB28914BD4A2B5E4D1A323";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		55A2F0BAF80E5EE445ADA7E5 = {
+			isa = PBXFileReference;
+			name = "equipment.cpp";
+			path = "equipment.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		56A72BD04F247E48D3EEEBB1 = {
+			fileRef = "55A2F0BAF80E5EE445ADA7E5";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		6ABCA4EBD842CBDFB2B8909F = {
+			isa = PBXFileReference;
+			name = "weapon.cpp";
+			path = "weapon.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		1617611C305C35B3A62DDF3A = {
+			fileRef = "6ABCA4EBD842CBDFB2B8909F";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		39E5F55139EECA258B49E4FA = {
+			isa = PBXFileReference;
+			name = "weaponammo.cpp";
+			path = "weaponammo.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		75A38C44BEEA2AD851E9006D = {
+			fileRef = "39E5F55139EECA258B49E4FA";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		923C35F41A9C9DE3E2F4C57D = {
+			isa = PBXFileReference;
+			name = "dice.cpp";
+			path = "dice.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		004A8002561CC0FA6F242798 = {
+			fileRef = "923C35F41A9C9DE3E2F4C57D";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		1C58A04CBE64B79EE5EF1154 = {
+			isa = PBXFileReference;
+			name = "attributemodel.cpp";
+			path = "../CharacterGenerator/attributemodel.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		1AC5F326AD2E33C8AE742653 = {
+			fileRef = "1C58A04CBE64B79EE5EF1154";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		D7847E70D97244BE44210FAD = {
+			isa = PBXFileReference;
+			name = "moc_campaigntool.cpp";
+			path = "moc_campaigntool.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		AB6ECDBA17C4DC228D90C2B9 = {
+			fileRef = "D7847E70D97244BE44210FAD";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		11E8E5AB6B96977A7A63F510 = {
+			isa = PBXFileReference;
+			name = "moc_mapmodel.cpp";
+			path = "moc_mapmodel.cpp";
+			refType = 4;
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		589D162C51BC7B500FE33375 = {
+			fileRef = "11E8E5AB6B96977A7A63F510";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		33FA612C19780E8F11E87F14 = {
+			isa = PBXFileReference;
+			name = "ui_campaigntool.h";
+			path = "ui_campaigntool.h";
+			refType = 4;
+		};
+		AEE100B13F1545743E3C7356 = {
+			isa = PBXFileReference;
+			name = "campaigntool.h";
+			path = "campaigntool.h";
+			refType = 4;
+		};
+		EFDF17B4F2CA5DBA53251FAC = {
+			isa = PBXFileReference;
+			name = "store.h";
+			path = "store.h";
+			refType = 4;
+		};
+		9B951D779A6D9FA9DC3900E3 = {
+			isa = PBXFileReference;
+			name = "mapstore.h";
+			path = "mapstore.h";
+			refType = 4;
+		};
+		F02D4CE8E75A43042DFCEBEF = {
+			isa = PBXFileReference;
+			name = "force.h";
+			path = "force.h";
+			refType = 4;
+		};
+		62167D771B5341701A9DB1F5 = {
+			isa = PBXFileReference;
+			name = "forcelance.h";
+			path = "forcelance.h";
+			refType = 4;
+		};
+		0DD2E7502653035E961E0307 = {
+			isa = PBXFileReference;
+			name = "forcecompany.h";
+			path = "forcecompany.h";
+			refType = 4;
+		};
+		4A9520B085AD0B27DE1769DE = {
+			isa = PBXFileReference;
+			name = "forcebattalion.h";
+			path = "forcebattalion.h";
+			refType = 4;
+		};
+		AABC1075E4AF9740EE2FCC44 = {
+			isa = PBXFileReference;
+			name = "forceregiment.h";
+			path = "forceregiment.h";
+			refType = 4;
+		};
+		AC710F47D8C39D6C8B0BBA71 = {
+			isa = PBXFileReference;
+			name = "forcerct.h";
+			path = "forcerct.h";
+			refType = 4;
+		};
+		E5C3A563BC55039BEF1769D5 = {
+			isa = PBXFileReference;
+			name = "mapnode.h";
+			path = "mapnode.h";
+			refType = 4;
+		};
+		E6FDBC84AA1DFD86162686E7 = {
+			isa = PBXFileReference;
+			name = "mapmodel.h";
+			path = "mapmodel.h";
+			refType = 4;
+		};
+		6E574D56536D708B907B6098 = {
+			isa = PBXFileReference;
+			name = "mw.h";
+			path = "mw.h";
+			refType = 4;
+		};
+		E85AB61BCECB5833767C035D = {
+			isa = PBXFileReference;
+			name = "mwattribute.h";
+			path = "mwattribute.h";
+			refType = 4;
+		};
+		B1F71BB7E6A6D150C2325F80 = {
+			isa = PBXFileReference;
+			name = "mwskill.h";
+			path = "mwskill.h";
+			refType = 4;
+		};
+		10530E7C4C698E4E0A7303AD = {
+			isa = PBXFileReference;
+			name = "mwtrait.h";
+			path = "mwtrait.h";
+			refType = 4;
+		};
+		EB20A096C5030EAEB33ABF86 = {
+			isa = PBXFileReference;
+			name = "mech.h";
+			path = "mech.h";
+			refType = 4;
+		};
+		ED9AEDF3A97B7FBD261427E6 = {
+			isa = PBXFileReference;
+			name = "mechlocation.h";
+			path = "mechlocation.h";
+			refType = 4;
+		};
+		24BAA8193D4167EA33F4E292 = {
+			isa = PBXFileReference;
+			name = "vehicle.h";
+			path = "vehicle.h";
+			refType = 4;
+		};
+		231FCF48C5E1E31B029D21FA = {
+			isa = PBXFileReference;
+			name = "vehiclelocation.h";
+			path = "vehiclelocation.h";
+			refType = 4;
+		};
+		FB8AF94F2471316EE43DE2D8 = {
+			isa = PBXFileReference;
+			name = "equipment.h";
+			path = "equipment.h";
+			refType = 4;
+		};
+		72BE3471857744A4694B9F26 = {
+			isa = PBXFileReference;
+			name = "weapon.h";
+			path = "weapon.h";
+			refType = 4;
+		};
+		6613B46FEE76253D92436856 = {
+			isa = PBXFileReference;
+			name = "weaponammo.h";
+			path = "weaponammo.h";
+			refType = 4;
+		};
+		84530E6D355EDA92772FEBB9 = {
+			isa = PBXFileReference;
+			name = "dice.h";
+			path = "dice.h";
+			refType = 4;
+		};
+		3741E8172E68C11B5F53F819 = {
+			isa = PBXFileReference;
+			name = "attributemodel.h";
+			path = "../CharacterGenerator/attributemodel.h";
+			refType = 4;
+		};
+		DEA35E8DE4BAA5C758561585 = {
+			isa = PBXFileReference;
+			name = "CampaignTool.pro";
+			path = "CampaignTool.pro";
+			refType = 4;
+		};
+		B45C03637ABE120B141F7016 = {
+			isa = PBXFileReference;
+			name = "campaigntool.ui";
+			path = "campaigntool.ui";
+			refType = 4;
+		};
+		6AAF17059A529C1420E01EA4 = {
+			fileRef = "B45C03637ABE120B141F7016";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		883D7615C4D2DE3FA1218F12 = {
+			isa = PBXGroup;
+			children = (
+				"AEE100B13F1545743E3C7356",
+				"EFDF17B4F2CA5DBA53251FAC",
+				"9B951D779A6D9FA9DC3900E3",
+				"F02D4CE8E75A43042DFCEBEF",
+				"62167D771B5341701A9DB1F5",
+				"0DD2E7502653035E961E0307",
+				"4A9520B085AD0B27DE1769DE",
+				"AABC1075E4AF9740EE2FCC44",
+				"AC710F47D8C39D6C8B0BBA71",
+				"E5C3A563BC55039BEF1769D5",
+				"E6FDBC84AA1DFD86162686E7",
+				"6E574D56536D708B907B6098",
+				"E85AB61BCECB5833767C035D",
+				"B1F71BB7E6A6D150C2325F80",
+				"10530E7C4C698E4E0A7303AD",
+				"EB20A096C5030EAEB33ABF86",
+				"ED9AEDF3A97B7FBD261427E6",
+				"24BAA8193D4167EA33F4E292",
+				"231FCF48C5E1E31B029D21FA",
+				"FB8AF94F2471316EE43DE2D8",
+				"72BE3471857744A4694B9F26",
+				"6613B46FEE76253D92436856",
+				"84530E6D355EDA92772FEBB9",
+				"4458B98565818D7E2682FA2D");
+			name = "Headers";
+			refType = 4;
+		};
+		4458B98565818D7E2682FA2D = {
+			isa = PBXGroup;
+			children = (
+				"3556010819D523D1591D864C");
+			name = "..";
+			refType = 4;
+		};
+		3556010819D523D1591D864C = {
+			isa = PBXGroup;
+			children = (
+				"3741E8172E68C11B5F53F819");
+			name = "CharacterGenerator";
+			refType = 4;
+		};
+		BFA3A29D17FD123C907B6E35 = {
+			isa = PBXGroup;
+			children = (
+				"ADF3B03034C741B61F086884");
+			name = "..";
+			refType = 4;
+		};
+		ADF3B03034C741B61F086884 = {
+			isa = PBXGroup;
+			children = (
+				"1C58A04CBE64B79EE5EF1154");
+			name = "CharacterGenerator";
+			refType = 4;
+		};
+		FB61758D0F0FDA4BA867C3D5 = {
+			isa = PBXGroup;
+			children = (
+				"118FCBAABA162BA17933C789",
+				"FC56EC9B62613536DE51D94C",
+				"B4D78E361A6C2B5BC0FA3755",
+				"EA590CB3AFBFC7FB96F3C4E6",
+				"0D23A6D7E73328A20233B43F",
+				"9839E18CBFD935E1FAC1C139",
+				"7F643E4828741B8D6B101F64",
+				"C909E8966C30AC0B6DAF5965",
+				"99F92CA6B968B484FD94F22C",
+				"0DA0FF2C8C7D5CED42FD26D2",
+				"1F2B6AB12A676C66114D4443",
+				"483C35DB0EF1B6709D2A29B6",
+				"9BA621ACA9B157389C37BC39",
+				"26573FBDAC96A178C84431FB",
+				"4693A566F9DC0AF5E85779F6",
+				"2D0D722E40DFDF0566B56540",
+				"49D2CA20E1D5CE811E894356",
+				"128AB023B4AF66341093A136",
+				"F765AD73CBAB94DC84291402",
+				"D9EB28914BD4A2B5E4D1A323",
+				"55A2F0BAF80E5EE445ADA7E5",
+				"6ABCA4EBD842CBDFB2B8909F",
+				"39E5F55139EECA258B49E4FA",
+				"923C35F41A9C9DE3E2F4C57D",
+				"BFA3A29D17FD123C907B6E35");
+			name = "Sources";
+			refType = 4;
+		};
+		EEC299C65D5017EB9DD513B0 = {
+			isa = PBXGroup;
+			children = (
+				"B45C03637ABE120B141F7016");
+			name = "Sources [UIC]";
+			refType = 4;
+		};
+		7CABE3C80E79AD2B307756D2 = {
+			isa = PBXGroup;
+			children = (
+				"DEA35E8DE4BAA5C758561585");
+			name = "Sources [qmake]";
+			refType = 4;
+		};
+		46E892BBB6BB6952967E0561 = {
+			isa = PBXGroup;
+			children = (
+				"D7847E70D97244BE44210FAD",
+				"11E8E5AB6B96977A7A63F510",
+				"33FA612C19780E8F11E87F14");
+			name = "Temporary Sources";
+			refType = 4;
+		};
+		A0A52A2ADF7A1E2A99738674 = {
+			buildActionMask = 2147483647;
+			files = (
+				);
+			generatedFileNames = (
+				"2B093CA6F071B023A473CED0",
+				"D56A5C6D76A16E8E8C1AABA5",
+				"9DE4229758EF7E15F900B649",
+				"97C1D9AA0EA3E9179FA0A1E7",
+				"A039AEB0504A520E6D558F7B",
+				"7ACDFD5DADC083F142E0CB2B",
+				"A294199E0EB06FC19B66C9CB",
+				"7080823E6E34C38D4669A10E",
+				"2769D115E6ED7C75A2B66176",
+				"C2E6D75FCEE634B18AC35792",
+				"722E5629A7E3E3774B9637FD",
+				"EFA5A43DB260B343E1D49F4D",
+				"9D6CC2EFD00AD426EE4AF116",
+				"AFEA8895E6C85D5E4E119419",
+				"708D3DBB1E541F4F6D81E286",
+				"B42B84ADB807068993F042DB",
+				"893FE0106CE832E2F2D7977F",
+				"F29E6878FA8E694DE3E05482",
+				"81D20E679C77E450E7C7E475",
+				"07E6F2DDB67985318EBD4618",
+				"56A72BD04F247E48D3EEEBB1",
+				"1617611C305C35B3A62DDF3A",
+				"75A38C44BEEA2AD851E9006D",
+				"004A8002561CC0FA6F242798",
+				"1AC5F326AD2E33C8AE742653",
+				"AB6ECDBA17C4DC228D90C2B9",
+				"589D162C51BC7B500FE33375");
+			isa = PBXShellScriptBuildPhase;
+			name = "Qt Preprocessors";
+			neededFileNames = (
+				"2B093CA6F071B023A473CED0",
+				"D56A5C6D76A16E8E8C1AABA5",
+				"9DE4229758EF7E15F900B649",
+				"97C1D9AA0EA3E9179FA0A1E7",
+				"A039AEB0504A520E6D558F7B",
+				"7ACDFD5DADC083F142E0CB2B",
+				"A294199E0EB06FC19B66C9CB",
+				"7080823E6E34C38D4669A10E",
+				"2769D115E6ED7C75A2B66176",
+				"C2E6D75FCEE634B18AC35792",
+				"722E5629A7E3E3774B9637FD",
+				"EFA5A43DB260B343E1D49F4D",
+				"9D6CC2EFD00AD426EE4AF116",
+				"AFEA8895E6C85D5E4E119419",
+				"708D3DBB1E541F4F6D81E286",
+				"B42B84ADB807068993F042DB",
+				"893FE0106CE832E2F2D7977F",
+				"F29E6878FA8E694DE3E05482",
+				"81D20E679C77E450E7C7E475",
+				"07E6F2DDB67985318EBD4618",
+				"56A72BD04F247E48D3EEEBB1",
+				"1617611C305C35B3A62DDF3A",
+				"75A38C44BEEA2AD851E9006D",
+				"004A8002561CC0FA6F242798",
+				"1AC5F326AD2E33C8AE742653",
+				"AB6ECDBA17C4DC228D90C2B9",
+				"589D162C51BC7B500FE33375");
+			shellPath = "/bin/sh";
+			shellScript = "make\ -C\ /Users/gardan/Projects/CampaignTool\ -f\ \'CampaignTool.xcodeproj/qt_preprocess.mak\'";
+		};
+		C29B8785722055ED95EF7B57 = {
+			buildActionMask = 2147483647;
+			files = (
+				"2B093CA6F071B023A473CED0",
+				"D56A5C6D76A16E8E8C1AABA5",
+				"9DE4229758EF7E15F900B649",
+				"97C1D9AA0EA3E9179FA0A1E7",
+				"A039AEB0504A520E6D558F7B",
+				"7ACDFD5DADC083F142E0CB2B",
+				"A294199E0EB06FC19B66C9CB",
+				"7080823E6E34C38D4669A10E",
+				"2769D115E6ED7C75A2B66176",
+				"C2E6D75FCEE634B18AC35792",
+				"722E5629A7E3E3774B9637FD",
+				"EFA5A43DB260B343E1D49F4D",
+				"9D6CC2EFD00AD426EE4AF116",
+				"AFEA8895E6C85D5E4E119419",
+				"708D3DBB1E541F4F6D81E286",
+				"B42B84ADB807068993F042DB",
+				"893FE0106CE832E2F2D7977F",
+				"F29E6878FA8E694DE3E05482",
+				"81D20E679C77E450E7C7E475",
+				"07E6F2DDB67985318EBD4618",
+				"56A72BD04F247E48D3EEEBB1",
+				"1617611C305C35B3A62DDF3A",
+				"75A38C44BEEA2AD851E9006D",
+				"004A8002561CC0FA6F242798",
+				"1AC5F326AD2E33C8AE742653",
+				"AB6ECDBA17C4DC228D90C2B9",
+				"589D162C51BC7B500FE33375");
+			isa = PBXSourcesBuildPhase;
+			name = "Build Sources";
+		};
+		E0814A49DDD73EF0F620E7DB = {
+			isa = PBXFrameworkReference;
+			name = "QtSql.framework";
+			path = "/Library/Frameworks/QtSql.framework";
+			refType = 0;
+		};
+		C78BFE0DD4D0FC1F4B157F30 = {
+			fileRef = "E0814A49DDD73EF0F620E7DB";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		7BC2E65A5E699A5E5D834CA2 = {
+			isa = PBXFrameworkReference;
+			name = "QtCore.framework";
+			path = "/Library/Frameworks/QtCore.framework";
+			refType = 0;
+		};
+		069D05B0128AE5DC7EE31738 = {
+			fileRef = "7BC2E65A5E699A5E5D834CA2";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		9B36DA7E32F0304E780E7972 = {
+			isa = PBXFrameworkReference;
+			name = "QtGui.framework";
+			path = "/Library/Frameworks/QtGui.framework";
+			refType = 0;
+		};
+		501667F26B3C1FF6767A7C12 = {
+			fileRef = "9B36DA7E32F0304E780E7972";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		ED1E82605DD74B483AF3C982 = {
+			children = (
+				"E0814A49DDD73EF0F620E7DB",
+				"7BC2E65A5E699A5E5D834CA2",
+				"9B36DA7E32F0304E780E7972");
+			isa = PBXGroup;
+			name = "External Frameworks and Libraries";
+			path = "";
+			refType = 4;
+		};
+		2A1043669E6E5A7426EA502A = {
+			buildActionMask = 2147483647;
+			files = (
+				"C78BFE0DD4D0FC1F4B157F30",
+				"069D05B0128AE5DC7EE31738",
+				"501667F26B3C1FF6767A7C12");
+			isa = PBXFrameworksBuildPhase;
+			name = "Frameworks & Libraries";
+		};
+		3787F99312C85FF0073FD7BA = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXResourcesBuildPhase;
+			name = "Bundle Resources";
+		};
+		05596AB53D8D521C69802C27 = {
+			children = (
+				"FB61758D0F0FDA4BA867C3D5",
+				"46E892BBB6BB6952967E0561",
+				"883D7615C4D2DE3FA1218F12",
+				"7CABE3C80E79AD2B307756D2",
+				"EEC299C65D5017EB9DD513B0",
+				"ED1E82605DD74B483AF3C982");
+			isa = PBXGroup;
+			name = "CampaignTool";
+			path = "";
+			refType = 4;
+		};
+		2B97B861213824CD46ED1C83 = {
+			isa = PBXFileReference;
+			explicitFileType = "wrapper.application";
+			path = "CampaignTool.app";
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		068F80C7519D0528FB08E821 = {
+			children = (
+				"2B97B861213824CD46ED1C83");
+			isa = PBXGroup;
+			name = "Products";
+			refType = 4;
+		};
+		397300C5A96BDE3DC2B40E5B = {
+			buildPhases = (
+				"D7BA7D76DAB5DD13389D6332",
+				"A0A52A2ADF7A1E2A99738674",
+				"C29B8785722055ED95EF7B57",
+				"2A1043669E6E5A7426EA502A",
+				"3787F99312C85FF0073FD7BA");
+			buildSettings = {
+				CC = "/usr/bin/gcc";
+				CPLUSPLUS = "/usr/bin/g++";
+				LEXFLAGS = "";
+				YACCFLAGS = "-d";
+				OTHER_REZFLAGS = "";
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "";
+				PREBINDING = NO;
+				INFOPLIST_FILE = "Info.plist";
+				BUILD_ROOT = "/Users/gardan/Projects/CampaignTool";
+				OTHER_LDFLAGS = (
+						"-headerpad_max_install_names",
+						"-L/Library/Frameworks",
+						"-F/Library/Frameworks");
+				DYLIB_CURRENT_VERSION = "1.0.0";
+				DYLIB_COMPATIBILITY_VERSION = "1.0";
+				MACOSX_DEPLOYMENT_TARGET = "10.4";
+				PRODUCT_NAME = "CampaignTool";
+			};
+			conditionalBuildSettings = {
+			};
+			dependencies = (
+				);
+			productReference = "2B97B861213824CD46ED1C83";
+			shouldUseHeadermap = 1;
+			buildConfigurationList = 17B3380A4D6A7D415E7F2E1E;
+			isa = PBXNativeTarget;
+			productType = "com.apple.product-type.application";
+			productSettingsXML = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<!DOCTYPE plist SYSTEM \"file://localhost/System/Library/DTDs/PropertyList.dtd\">
+<plist version=\"0.9\">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+    <key>CFBundleGetInfoString</key>
+	<string>Created by Qt/QMake</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleExecutable</key>
+	<string>CampaignTool</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yourcompany.CampaignTool</string>
+	<key>NOTE</key>
+	<string>This file was generated by Qt/QMake.</string>
+</dict>
+</plist>
+";
+			name = "CampaignTool";
+			productName = "CampaignTool";
+			startupPath = "<<ProjectDirectory>>";
+		};
+		4B72B24813252891014BCF61 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = "NO";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "YES";
+				GCC_OPTIMIZATION_LEVEL = "0";
+				PRODUCT_NAME = "CampaignTool";
+				HEADER_SEARCH_PATHS = (
+					"/Library/Frameworks/QtCore.framework/Versions/4/Headers",
+					"/usr/include/QtCore",
+					"/Library/Frameworks/QtGui.framework/Versions/4/Headers",
+					"/usr/include/QtGui",
+					"/Library/Frameworks/QtSql.framework/Versions/4/Headers",
+					"/usr/include/QtSql",
+					"/usr/include",
+					".",
+					".",
+					"/usr/local/include",
+					"/System/Library/Frameworks/CarbonCore.framework/Headers",
+					"/usr/local/Qt4.8/mkspecs/macx-xcode");
+				LIBRARY_SEARCH_PATHS = (
+					"/Library/Frameworks");
+				FRAMEWORK_SEARCH_PATHS = (
+					"/Library/Frameworks",
+					"/Library/Frameworks");
+				INFOPLIST_FILE = "Info.plist";
+				OTHER_CFLAGS = (
+					"-pipe",
+					"-g",
+					"-Wall",
+					"-W",
+					"-DQT_SQL_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB",
+					"-DQT_SHARED");
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pipe",
+					"-g",
+					"-Wall",
+					"-W",
+					"-DQT_SQL_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB",
+					"-DQT_SHARED");
+				OTHER_LDFLAGS = (
+						"-headerpad_max_install_names",
+						"-L/Library/Frameworks",
+						"-F/Library/Frameworks");
+				ARCHS = "x86_64";
+			};
+			name = "Debug";
+		};
+		BEC09A62E69C3553534FF35E = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = "NO";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "YES";
+				GCC_OPTIMIZATION_LEVEL = "0";
+				PRODUCT_NAME = "CampaignTool";
+				PRODUCT_NAME = "CampaignTool";
+			};
+			name = "Debug";
+		};
+		2C641C3335766025DD51B7BD = {
+			buildRules = (
+				);
+			buildSettings = {
+				COPY_PHASE_STRIP = "NO";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "YES";
+				GCC_OPTIMIZATION_LEVEL = "0";
+				PRODUCT_NAME = "CampaignTool";
+			};
+			isa = "PBXBuildStyle";
+			name = "Debug";
+		};
+		D70590BEB531B51029F711BB = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = "YES";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+				PRODUCT_NAME = "CampaignTool";
+				HEADER_SEARCH_PATHS = (
+					"/Library/Frameworks/QtCore.framework/Versions/4/Headers",
+					"/usr/include/QtCore",
+					"/Library/Frameworks/QtGui.framework/Versions/4/Headers",
+					"/usr/include/QtGui",
+					"/Library/Frameworks/QtSql.framework/Versions/4/Headers",
+					"/usr/include/QtSql",
+					"/usr/include",
+					".",
+					".",
+					"/usr/local/include",
+					"/System/Library/Frameworks/CarbonCore.framework/Headers",
+					"/usr/local/Qt4.8/mkspecs/macx-xcode");
+				LIBRARY_SEARCH_PATHS = (
+					"/Library/Frameworks");
+				FRAMEWORK_SEARCH_PATHS = (
+					"/Library/Frameworks",
+					"/Library/Frameworks");
+				INFOPLIST_FILE = "Info.plist";
+				OTHER_CFLAGS = (
+					"-pipe",
+					"-g",
+					"-Wall",
+					"-W",
+					"-DQT_SQL_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB",
+					"-DQT_SHARED");
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pipe",
+					"-g",
+					"-Wall",
+					"-W",
+					"-DQT_SQL_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB",
+					"-DQT_SHARED");
+				OTHER_LDFLAGS = (
+						"-headerpad_max_install_names",
+						"-L/Library/Frameworks",
+						"-F/Library/Frameworks");
+				ARCHS = "x86_64";
+			};
+			name = "Release";
+		};
+		8C7174830A1E4DCBA0332EC1 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = "YES";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+				PRODUCT_NAME = "CampaignTool";
+				PRODUCT_NAME = "CampaignTool";
+			};
+			name = "Release";
+		};
+		26DE8D2AEA4B3714B41E931F = {
+			buildRules = (
+				);
+			buildSettings = {
+				COPY_PHASE_STRIP = "YES";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+				PRODUCT_NAME = "CampaignTool";
+			};
+			isa = "PBXBuildStyle";
+			name = "Release";
+		};
+		CC82A9286117DFED018F418F = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				"4B72B24813252891014BCF61",
+				"D70590BEB531B51029F711BB");
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationIsName = "Debug";
+		};
+		17B3380A4D6A7D415E7F2E1E = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				"BEC09A62E69C3553534FF35E",
+				"8C7174830A1E4DCBA0332EC1");
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationIsName = "Debug";
+		};
+		91B15E841AA80083484172DE = {
+			buildStyles = (
+				"2C641C3335766025DD51B7BD",
+				"26DE8D2AEA4B3714B41E931F");
+			hasScannedForEncodings = 1;
+			isa = PBXProject;
+			mainGroup = "05596AB53D8D521C69802C27";
+			buildConfigurationList = "CC82A9286117DFED018F418F";
+			projectDirPath = "";
+			targets = (
+				"397300C5A96BDE3DC2B40E5B");
+		};
+	};
+	rootObject = "91B15E841AA80083484172DE";
+}

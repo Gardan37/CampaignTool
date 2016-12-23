@@ -1,0 +1,2550 @@
+type=1;location=0,0;contour=3;vegetation=0;water=0
+type=1;location=0,1;contour=2;vegetation=0;water=0
+type=1;location=0,2;contour=2;vegetation=0;water=0
+type=1;location=0,3;contour=2;vegetation=1;water=0
+type=1;location=0,4;contour=0;vegetation=0;water=0
+type=1;location=0,5;contour=0;vegetation=0;water=0
+type=1;location=0,6;contour=1;vegetation=0;water=0
+type=1;location=0,7;contour=1;vegetation=0;water=0
+type=1;location=0,8;contour=2;vegetation=0;water=0
+type=1;location=0,9;contour=3;vegetation=0;water=0
+type=1;location=1,0;contour=3;vegetation=0;water=0
+type=1;location=1,1;contour=2;vegetation=0;water=0
+type=1;location=1,2;contour=1;vegetation=0;water=0
+type=1;location=1,3;contour=1;vegetation=0;water=0
+type=1;location=1,4;contour=0;vegetation=0;water=0
+type=1;location=1,5;contour=0;vegetation=0;water=0
+type=1;location=1,6;contour=1;vegetation=1;water=0
+type=1;location=1,7;contour=0;vegetation=0;water=0
+type=1;location=1,8;contour=2;vegetation=0;water=0
+type=1;location=1,9;contour=3;vegetation=0;water=0
+type=1;location=2,0;contour=3;vegetation=0;water=0
+type=1;location=2,1;contour=2;vegetation=0;water=0
+type=1;location=2,2;contour=1;vegetation=0;water=0
+type=1;location=2,3;contour=0;vegetation=0;water=0
+type=1;location=2,4;contour=0;vegetation=0;water=0
+type=1;location=2,5;contour=0;vegetation=0;water=0
+type=1;location=2,6;contour=2;vegetation=1;water=0
+type=1;location=2,7;contour=0;vegetation=0;water=0
+type=1;location=2,8;contour=2;vegetation=0;water=0
+type=1;location=2,9;contour=3;vegetation=0;water=0
+type=1;location=3,0;contour=3;vegetation=0;water=0
+type=1;location=3,1;contour=2;vegetation=0;water=0
+type=1;location=3,2;contour=0;vegetation=0;water=0
+type=1;location=3,3;contour=0;vegetation=1;water=0
+type=1;location=3,4;contour=0;vegetation=0;water=0
+type=1;location=3,5;contour=2;vegetation=0;water=0
+type=1;location=3,6;contour=0;vegetation=2;water=0
+type=1;location=3,7;contour=0;vegetation=0;water=0
+type=1;location=3,8;contour=2;vegetation=0;water=0
+type=1;location=3,9;contour=3;vegetation=0;water=0
+type=1;location=4,0;contour=3;vegetation=0;water=0
+type=1;location=4,1;contour=2;vegetation=0;water=0
+type=1;location=4,2;contour=1;vegetation=0;water=0
+type=1;location=4,3;contour=0;vegetation=1;water=0
+type=1;location=4,4;contour=0;vegetation=0;water=0
+type=1;location=4,5;contour=1;vegetation=0;water=0
+type=1;location=4,6;contour=0;vegetation=0;water=0
+type=1;location=4,7;contour=0;vegetation=0;water=0
+type=1;location=4,8;contour=2;vegetation=0;water=0
+type=1;location=4,9;contour=3;vegetation=0;water=0
+type=1;location=5,0;contour=3;vegetation=0;water=0
+type=1;location=5,1;contour=2;vegetation=0;water=0
+type=1;location=5,2;contour=1;vegetation=0;water=0
+type=1;location=5,3;contour=0;vegetation=2;water=0
+type=1;location=5,4;contour=1;vegetation=0;water=0
+type=1;location=5,5;contour=1;vegetation=0;water=0
+type=1;location=5,6;contour=0;vegetation=0;water=0
+type=1;location=5,7;contour=0;vegetation=0;water=0
+type=1;location=5,8;contour=2;vegetation=0;water=0
+type=1;location=5,9;contour=3;vegetation=0;water=0
+type=1;location=6,0;contour=3;vegetation=0;water=0
+type=1;location=6,1;contour=2;vegetation=0;water=0
+type=1;location=6,2;contour=0;vegetation=0;water=0
+type=1;location=6,3;contour=0;vegetation=0;water=0
+type=1;location=6,4;contour=0;vegetation=0;water=0
+type=1;location=6,5;contour=0;vegetation=0;water=0
+type=1;location=6,6;contour=2;vegetation=0;water=0
+type=1;location=6,7;contour=0;vegetation=1;water=0
+type=1;location=6,8;contour=2;vegetation=0;water=0
+type=1;location=6,9;contour=3;vegetation=0;water=0
+type=1;location=7,0;contour=3;vegetation=0;water=0
+type=1;location=7,1;contour=2;vegetation=0;water=0
+type=1;location=7,2;contour=0;vegetation=0;water=0
+type=1;location=7,3;contour=0;vegetation=1;water=0
+type=1;location=7,4;contour=0;vegetation=0;water=0
+type=1;location=7,5;contour=0;vegetation=0;water=0
+type=1;location=7,6;contour=1;vegetation=0;water=0
+type=1;location=7,7;contour=0;vegetation=1;water=0
+type=1;location=7,8;contour=2;vegetation=0;water=0
+type=1;location=7,9;contour=3;vegetation=0;water=0
+type=1;location=8,0;contour=3;vegetation=0;water=0
+type=1;location=8,1;contour=2;vegetation=0;water=0
+type=1;location=8,2;contour=1;vegetation=0;water=0
+type=1;location=8,3;contour=3;vegetation=1;water=4
+type=1;location=8,4;contour=0;vegetation=1;water=0
+type=1;location=8,5;contour=0;vegetation=0;water=0
+type=1;location=8,6;contour=1;vegetation=0;water=0
+type=1;location=8,7;contour=0;vegetation=0;water=0
+type=1;location=8,8;contour=2;vegetation=0;water=0
+type=1;location=8,9;contour=3;vegetation=0;water=0
+type=1;location=9,0;contour=3;vegetation=0;water=0
+type=1;location=9,1;contour=2;vegetation=0;water=0
+type=1;location=9,2;contour=0;vegetation=1;water=0
+type=1;location=9,3;contour=0;vegetation=0;water=0
+type=1;location=9,4;contour=0;vegetation=1;water=0
+type=1;location=9,5;contour=0;vegetation=1;water=0
+type=1;location=9,6;contour=0;vegetation=0;water=0
+type=1;location=9,7;contour=0;vegetation=1;water=0
+type=1;location=9,8;contour=2;vegetation=0;water=0
+type=1;location=9,9;contour=3;vegetation=0;water=0
+type=1;location=10,0;contour=3;vegetation=0;water=0
+type=1;location=10,1;contour=2;vegetation=0;water=0
+type=1;location=10,2;contour=0;vegetation=1;water=0
+type=1;location=10,3;contour=1;vegetation=0;water=0
+type=1;location=10,4;contour=0;vegetation=0;water=0
+type=1;location=10,5;contour=1;vegetation=1;water=0
+type=1;location=10,6;contour=0;vegetation=1;water=0
+type=1;location=10,7;contour=0;vegetation=1;water=0
+type=1;location=10,8;contour=2;vegetation=0;water=0
+type=1;location=10,9;contour=3;vegetation=0;water=0
+type=1;location=11,0;contour=3;vegetation=0;water=0
+type=1;location=11,1;contour=2;vegetation=0;water=0
+type=1;location=11,2;contour=0;vegetation=0;water=0
+type=1;location=11,3;contour=2;vegetation=1;water=0
+type=1;location=11,4;contour=0;vegetation=0;water=0
+type=1;location=11,5;contour=2;vegetation=0;water=0
+type=1;location=11,6;contour=0;vegetation=1;water=0
+type=1;location=11,7;contour=0;vegetation=2;water=0
+type=1;location=11,8;contour=2;vegetation=0;water=0
+type=1;location=11,9;contour=3;vegetation=0;water=0
+type=1;location=12,0;contour=3;vegetation=0;water=0
+type=1;location=12,1;contour=2;vegetation=0;water=0
+type=1;location=12,2;contour=0;vegetation=2;water=0
+type=1;location=12,3;contour=0;vegetation=0;water=0
+type=1;location=12,4;contour=0;vegetation=1;water=0
+type=1;location=12,5;contour=1;vegetation=0;water=0
+type=1;location=12,6;contour=0;vegetation=0;water=0
+type=1;location=12,7;contour=1;vegetation=0;water=0
+type=1;location=12,8;contour=2;vegetation=0;water=0
+type=1;location=12,9;contour=3;vegetation=0;water=0
+type=1;location=13,0;contour=3;vegetation=0;water=0
+type=1;location=13,1;contour=2;vegetation=0;water=0
+type=1;location=13,2;contour=1;vegetation=1;water=0
+type=1;location=13,3;contour=1;vegetation=0;water=0
+type=1;location=13,4;contour=0;vegetation=1;water=0
+type=1;location=13,5;contour=0;vegetation=0;water=0
+type=1;location=13,6;contour=1;vegetation=1;water=0
+type=1;location=13,7;contour=1;vegetation=0;water=0
+type=1;location=13,8;contour=2;vegetation=0;water=0
+type=1;location=13,9;contour=3;vegetation=0;water=0
+type=1;location=14,0;contour=3;vegetation=0;water=0
+type=1;location=14,1;contour=2;vegetation=0;water=0
+type=1;location=14,2;contour=1;vegetation=0;water=0
+type=1;location=14,3;contour=1;vegetation=0;water=0
+type=1;location=14,4;contour=0;vegetation=0;water=0
+type=1;location=14,5;contour=1;vegetation=0;water=0
+type=1;location=14,6;contour=2;vegetation=1;water=0
+type=1;location=14,7;contour=2;vegetation=0;water=0
+type=1;location=14,8;contour=2;vegetation=0;water=0
+type=1;location=14,9;contour=3;vegetation=0;water=0
+type=2;parentlocation=0,0;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=0,0;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=0,0;location=0,2;mapname=Deep Canyon #1
+type=2;parentlocation=0,0;location=0,3;mapname=Large Mountain #1
+type=2;parentlocation=0,0;location=1,0;mapname=Deep Canyon #1
+type=2;parentlocation=0,0;location=1,1;mapname=City (Residential)
+type=2;parentlocation=0,0;location=1,2;mapname=City (Residential)
+type=2;parentlocation=0,0;location=1,3;mapname=Desert Mountain #2
+type=2;parentlocation=0,0;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=0,0;location=2,1;mapname=Box Canyon
+type=2;parentlocation=0,0;location=2,2;mapname=Large Mountain #1
+type=2;parentlocation=0,0;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=0,0;location=3,0;mapname=Moonscape #1
+type=2;parentlocation=0,0;location=3,1;mapname=Box Canyon
+type=2;parentlocation=0,0;location=3,2;mapname=Moonscape #1
+type=2;parentlocation=0,0;location=3,3;mapname=Blank sheet
+type=2;parentlocation=0,1;location=0,0;mapname=Box Canyon
+type=2;parentlocation=0,1;location=0,1;mapname=Large Mountain #2
+type=2;parentlocation=0,1;location=0,2;mapname=City (Residential)
+type=2;parentlocation=0,1;location=0,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=0,1;location=1,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=0,1;location=1,1;mapname=City (Residential)
+type=2;parentlocation=0,1;location=1,2;mapname=City Ruins
+type=2;parentlocation=0,1;location=1,3;mapname=Box Canyon
+type=2;parentlocation=0,1;location=2,0;mapname=Large Mountain #2
+type=2;parentlocation=0,1;location=2,1;mapname=Large Mountain #1
+type=2;parentlocation=0,1;location=2,2;mapname=Blank sheet
+type=2;parentlocation=0,1;location=2,3;mapname=Moonscape #2
+type=2;parentlocation=0,1;location=3,0;mapname=Deep Canyon #2
+type=2;parentlocation=0,1;location=3,1;mapname=City Ruins
+type=2;parentlocation=0,1;location=3,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=0,1;location=3,3;mapname=Moonscape #1
+type=2;parentlocation=0,2;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=0,2;location=0,1;mapname=Box Canyon
+type=2;parentlocation=0,2;location=0,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=0,2;location=0,3;mapname=Box Canyon
+type=2;parentlocation=0,2;location=1,0;mapname=City (Residential)
+type=2;parentlocation=0,2;location=1,1;mapname=City (Residential)
+type=2;parentlocation=0,2;location=1,2;mapname=Deep Canyon #2
+type=2;parentlocation=0,2;location=1,3;mapname=Blank sheet
+type=2;parentlocation=0,2;location=2,0;mapname=Deep Canyon #2
+type=2;parentlocation=0,2;location=2,1;mapname=Large Mountain #1
+type=2;parentlocation=0,2;location=2,2;mapname=Blank sheet
+type=2;parentlocation=0,2;location=2,3;mapname=Moonscape #2
+type=2;parentlocation=0,2;location=3,0;mapname=Large Mountain #2
+type=2;parentlocation=0,2;location=3,1;mapname=Moonscape #2
+type=2;parentlocation=0,2;location=3,2;mapname=City Ruins
+type=2;parentlocation=0,2;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=0,3;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=0,3;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=0,3;location=0,2;mapname=Blank sheet
+type=2;parentlocation=0,3;location=0,3;mapname=Large Mountain #2
+type=2;parentlocation=0,3;location=1,0;mapname=Large Mountain #2
+type=2;parentlocation=0,3;location=1,1;mapname=Rolling Hills #1
+type=2;parentlocation=0,3;location=1,2;mapname=City (Residential)
+type=2;parentlocation=0,3;location=1,3;mapname=Blank sheet
+type=2;parentlocation=0,3;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=0,3;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=0,3;location=2,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=0,3;location=2,3;mapname=Blank sheet
+type=2;parentlocation=0,3;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=0,3;location=3,1;mapname=River Valley
+type=2;parentlocation=0,3;location=3,2;mapname=Large Mountain #1
+type=2;parentlocation=0,3;location=3,3;mapname=City Streets #2
+type=2;parentlocation=0,4;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=0,4;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=0,4;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=0,4;location=0,3;mapname=City Ruins
+type=2;parentlocation=0,4;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=0,4;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=0,4;location=1,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=0,4;location=1,3;mapname=Blank sheet
+type=2;parentlocation=0,4;location=2,0;mapname=Open Terrain #2
+type=2;parentlocation=0,4;location=2,1;mapname=City Ruins
+type=2;parentlocation=0,4;location=2,2;mapname=City Hills/Residential #1
+type=2;parentlocation=0,4;location=2,3;mapname=Desert Hills
+type=2;parentlocation=0,4;location=3,0;mapname=City Hills/Residential #1
+type=2;parentlocation=0,4;location=3,1;mapname=Blank sheet
+type=2;parentlocation=0,4;location=3,2;mapname=Blank sheet
+type=2;parentlocation=0,4;location=3,3;mapname=Open Terrain #1
+type=2;parentlocation=0,5;location=0,0;mapname=Blank sheet
+type=2;parentlocation=0,5;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=0,5;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=0,5;location=0,3;mapname=City Ruins
+type=2;parentlocation=0,5;location=1,0;mapname=Blank sheet
+type=2;parentlocation=0,5;location=1,1;mapname=Moonscape #1
+type=2;parentlocation=0,5;location=1,2;mapname=Desert Hills
+type=2;parentlocation=0,5;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=0,5;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=0,5;location=2,1;mapname=City Ruins
+type=2;parentlocation=0,5;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=0,5;location=2,3;mapname=City Streets #2
+type=2;parentlocation=0,5;location=3,0;mapname=Open Terrain #2
+type=2;parentlocation=0,5;location=3,1;mapname=Blank sheet
+type=2;parentlocation=0,5;location=3,2;mapname=Blank sheet
+type=2;parentlocation=0,5;location=3,3;mapname=City Hills/Residential #1
+type=2;parentlocation=0,6;location=0,0;mapname=Rolling Hills #1
+type=2;parentlocation=0,6;location=0,1;mapname=City Streets #2
+type=2;parentlocation=0,6;location=0,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=0,6;location=0,3;mapname=City Ruins
+type=2;parentlocation=0,6;location=1,0;mapname=Rolling Hills #1
+type=2;parentlocation=0,6;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=0,6;location=1,2;mapname=Blank sheet
+type=2;parentlocation=0,6;location=1,3;mapname=City Streets #2
+type=2;parentlocation=0,6;location=2,0;mapname=City Ruins
+type=2;parentlocation=0,6;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=0,6;location=2,2;mapname=City Hills/Residential #1
+type=2;parentlocation=0,6;location=2,3;mapname=River Valley
+type=2;parentlocation=0,6;location=3,0;mapname=Desert Hills
+type=2;parentlocation=0,6;location=3,1;mapname=City (Residential)
+type=2;parentlocation=0,6;location=3,2;mapname=Citytech Map
+type=2;parentlocation=0,6;location=3,3;mapname=Moonscape #2
+type=2;parentlocation=0,7;location=0,0;mapname=City Streets #2
+type=2;parentlocation=0,7;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=0,7;location=0,2;mapname=River Valley
+type=2;parentlocation=0,7;location=0,3;mapname=City Hills/Residential #2
+type=2;parentlocation=0,7;location=1,0;mapname=Moonscape #2
+type=2;parentlocation=0,7;location=1,1;mapname=Rolling Hills #1
+type=2;parentlocation=0,7;location=1,2;mapname=Rolling Hills #1
+type=2;parentlocation=0,7;location=1,3;mapname=City Streets #1
+type=2;parentlocation=0,7;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=0,7;location=2,1;mapname=Blank sheet
+type=2;parentlocation=0,7;location=2,2;mapname=Open Terrain #2
+type=2;parentlocation=0,7;location=2,3;mapname=City Streets #2
+type=2;parentlocation=0,7;location=3,0;mapname=Open Terrain #2
+type=2;parentlocation=0,7;location=3,1;mapname=City Ruins
+type=2;parentlocation=0,7;location=3,2;mapname=Citytech Map
+type=2;parentlocation=0,7;location=3,3;mapname=City Ruins
+type=2;parentlocation=0,8;location=0,0;mapname=City Ruins
+type=2;parentlocation=0,8;location=0,1;mapname=Large Mountain #2
+type=2;parentlocation=0,8;location=0,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=0,8;location=0,3;mapname=City (Residential)
+type=2;parentlocation=0,8;location=1,0;mapname=Blank sheet
+type=2;parentlocation=0,8;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=0,8;location=1,2;mapname=Deep Canyon #2
+type=2;parentlocation=0,8;location=1,3;mapname=Deep Canyon #2
+type=2;parentlocation=0,8;location=2,0;mapname=Desert Hills
+type=2;parentlocation=0,8;location=2,1;mapname=City (Residential)
+type=2;parentlocation=0,8;location=2,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=0,8;location=2,3;mapname=Blank sheet
+type=2;parentlocation=0,8;location=3,0;mapname=Deep Canyon #1
+type=2;parentlocation=0,8;location=3,1;mapname=City Ruins
+type=2;parentlocation=0,8;location=3,2;mapname=Box Canyon
+type=2;parentlocation=0,8;location=3,3;mapname=Moonscape #2
+type=2;parentlocation=0,9;location=0,0;mapname=Desert Mountain #2
+type=2;parentlocation=0,9;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=0,9;location=0,2;mapname=Large Mountain #1
+type=2;parentlocation=0,9;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=0,9;location=1,0;mapname=Deep Canyon #1
+type=2;parentlocation=0,9;location=1,1;mapname=Woodland
+type=2;parentlocation=0,9;location=1,2;mapname=Desert Mountain #2
+type=2;parentlocation=0,9;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=0,9;location=2,0;mapname=Large Mountain #2
+type=2;parentlocation=0,9;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=0,9;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=0,9;location=2,3;mapname=City (Residential)
+type=2;parentlocation=0,9;location=3,0;mapname=Desert Mountain #1
+type=2;parentlocation=0,9;location=3,1;mapname=Blank sheet
+type=2;parentlocation=0,9;location=3,2;mapname=Box Canyon
+type=2;parentlocation=0,9;location=3,3;mapname=Moonscape #1
+type=2;parentlocation=1,0;location=0,0;mapname=Large Mountain #1
+type=2;parentlocation=1,0;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=1,0;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=1,0;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=1,0;location=1,0;mapname=Rolling Hills #2
+type=2;parentlocation=1,0;location=1,1;mapname=Deep Canyon #1
+type=2;parentlocation=1,0;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=1,0;location=1,3;mapname=Moonscape #2
+type=2;parentlocation=1,0;location=2,0;mapname=Heavy Forest #1
+type=2;parentlocation=1,0;location=2,1;mapname=River Valley
+type=2;parentlocation=1,0;location=2,2;mapname=Large Mountain #1
+type=2;parentlocation=1,0;location=2,3;mapname=Deep Canyon #1
+type=2;parentlocation=1,0;location=3,0;mapname=City (Residential)
+type=2;parentlocation=1,0;location=3,1;mapname=Rolling Hills #2
+type=2;parentlocation=1,0;location=3,2;mapname=Large Mountain #2
+type=2;parentlocation=1,0;location=3,3;mapname=Moonscape #1
+type=2;parentlocation=1,1;location=0,0;mapname=Large Mountain #2
+type=2;parentlocation=1,1;location=0,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=1,1;location=0,2;mapname=City (Residential)
+type=2;parentlocation=1,1;location=0,3;mapname=Large Mountain #1
+type=2;parentlocation=1,1;location=1,0;mapname=Deep Canyon #2
+type=2;parentlocation=1,1;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=1,1;location=1,2;mapname=Large Mountain #2
+type=2;parentlocation=1,1;location=1,3;mapname=Blank sheet
+type=2;parentlocation=1,1;location=2,0;mapname=City Ruins
+type=2;parentlocation=1,1;location=2,1;mapname=City (Residential)
+type=2;parentlocation=1,1;location=2,2;mapname=Large Mountain #1
+type=2;parentlocation=1,1;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=1,1;location=3,0;mapname=Box Canyon
+type=2;parentlocation=1,1;location=3,1;mapname=City Ruins
+type=2;parentlocation=1,1;location=3,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=1,1;location=3,3;mapname=City Hills/Residential #2
+type=2;parentlocation=1,2;location=0,0;mapname=Rolling Hills #1
+type=2;parentlocation=1,2;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=1,2;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=1,2;location=0,3;mapname=City Streets #2
+type=2;parentlocation=1,2;location=1,0;mapname=City Ruins
+type=2;parentlocation=1,2;location=1,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=1,2;location=1,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=1,2;location=1,3;mapname=Open Terrain #1
+type=2;parentlocation=1,2;location=2,0;mapname=Desert Mountain #2
+type=2;parentlocation=1,2;location=2,1;mapname=City Streets #2
+type=2;parentlocation=1,2;location=2,2;mapname=Open Terrain #1
+type=2;parentlocation=1,2;location=2,3;mapname=Rolling Hills #1
+type=2;parentlocation=1,2;location=3,0;mapname=City Ruins
+type=2;parentlocation=1,2;location=3,1;mapname=Open Terrain #2
+type=2;parentlocation=1,2;location=3,2;mapname=Citytech Map
+type=2;parentlocation=1,2;location=3,3;mapname=Rolling Hills #2
+type=2;parentlocation=1,3;location=0,0;mapname=City Streets #2
+type=2;parentlocation=1,3;location=0,1;mapname=City Streets #2
+type=2;parentlocation=1,3;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=1,3;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=1,3;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=1,3;location=1,1;mapname=Rolling Hills #1
+type=2;parentlocation=1,3;location=1,2;mapname=City Ruins
+type=2;parentlocation=1,3;location=1,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=1,3;location=2,0;mapname=Citytech Map
+type=2;parentlocation=1,3;location=2,1;mapname=Rolling Hills #1
+type=2;parentlocation=1,3;location=2,2;mapname=Moonscape #2
+type=2;parentlocation=1,3;location=2,3;mapname=Blank sheet
+type=2;parentlocation=1,3;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=1,3;location=3,1;mapname=River Valley
+type=2;parentlocation=1,3;location=3,2;mapname=City Ruins
+type=2;parentlocation=1,3;location=3,3;mapname=City Hills/Residential #1
+type=2;parentlocation=1,4;location=0,0;mapname=Woodland
+type=2;parentlocation=1,4;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=1,4;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=1,4;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=1,4;location=1,0;mapname=City Hills/Residential #1
+type=2;parentlocation=1,4;location=1,1;mapname=City Ruins
+type=2;parentlocation=1,4;location=1,2;mapname=Open Terrain #2
+type=2;parentlocation=1,4;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=1,4;location=2,0;mapname=City Ruins
+type=2;parentlocation=1,4;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=1,4;location=2,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=1,4;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=1,4;location=3,0;mapname=City Streets #2
+type=2;parentlocation=1,4;location=3,1;mapname=City Hills/Residential #2
+type=2;parentlocation=1,4;location=3,2;mapname=Blank sheet
+type=2;parentlocation=1,4;location=3,3;mapname=Battleforce 2
+type=2;parentlocation=1,5;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=1,5;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=1,5;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=1,5;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=1,5;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=1,5;location=1,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=1,5;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=1,5;location=1,3;mapname=Blank sheet
+type=2;parentlocation=1,5;location=2,0;mapname=City Ruins
+type=2;parentlocation=1,5;location=2,1;mapname=City Streets #2
+type=2;parentlocation=1,5;location=2,2;mapname=City Hills/Residential #1
+type=2;parentlocation=1,5;location=2,3;mapname=Blank sheet
+type=2;parentlocation=1,5;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=1,5;location=3,1;mapname=Blank sheet
+type=2;parentlocation=1,5;location=3,2;mapname=Desert Hills
+type=2;parentlocation=1,5;location=3,3;mapname=City Ruins
+type=2;parentlocation=1,6;location=0,0;mapname=City Ruins
+type=2;parentlocation=1,6;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=1,6;location=0,2;mapname=Rolling Hills #2
+type=2;parentlocation=1,6;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=1,6;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=1,6;location=1,1;mapname=River Valley
+type=2;parentlocation=1,6;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=1,6;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=1,6;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=1,6;location=2,1;mapname=Deep Canyon #2
+type=2;parentlocation=1,6;location=2,2;mapname=City Ruins
+type=2;parentlocation=1,6;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=1,6;location=3,0;mapname=City Hills/Residential #2
+type=2;parentlocation=1,6;location=3,1;mapname=Woodland
+type=2;parentlocation=1,6;location=3,2;mapname=Citytech Map
+type=2;parentlocation=1,6;location=3,3;mapname=City (Residential)
+type=2;parentlocation=1,7;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=1,7;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=1,7;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=1,7;location=0,3;mapname=Citytech Map
+type=2;parentlocation=1,7;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=1,7;location=1,1;mapname=Moonscape #1
+type=2;parentlocation=1,7;location=1,2;mapname=Moonscape #1
+type=2;parentlocation=1,7;location=1,3;mapname=City Hills/Residential #1
+type=2;parentlocation=1,7;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=1,7;location=2,1;mapname=Blank sheet
+type=2;parentlocation=1,7;location=2,2;mapname=Blank sheet
+type=2;parentlocation=1,7;location=2,3;mapname=Blank sheet
+type=2;parentlocation=1,7;location=3,0;mapname=City Hills/Residential #1
+type=2;parentlocation=1,7;location=3,1;mapname=City Ruins
+type=2;parentlocation=1,7;location=3,2;mapname=City Ruins
+type=2;parentlocation=1,7;location=3,3;mapname=Battleforce 2
+type=2;parentlocation=1,8;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=1,8;location=0,1;mapname=Large Mountain #1
+type=2;parentlocation=1,8;location=0,2;mapname=Blank sheet
+type=2;parentlocation=1,8;location=0,3;mapname=City Ruins
+type=2;parentlocation=1,8;location=1,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=1,8;location=1,1;mapname=City (Residential)
+type=2;parentlocation=1,8;location=1,2;mapname=City (Residential)
+type=2;parentlocation=1,8;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=1,8;location=2,0;mapname=Deep Canyon #2
+type=2;parentlocation=1,8;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=1,8;location=2,2;mapname=Moonscape #1
+type=2;parentlocation=1,8;location=2,3;mapname=Blank sheet
+type=2;parentlocation=1,8;location=3,0;mapname=Blank sheet
+type=2;parentlocation=1,8;location=3,1;mapname=Moonscape #2
+type=2;parentlocation=1,8;location=3,2;mapname=Blank sheet
+type=2;parentlocation=1,8;location=3,3;mapname=Blank sheet
+type=2;parentlocation=1,9;location=0,0;mapname=Rolling Hills #2
+type=2;parentlocation=1,9;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=1,9;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=1,9;location=0,3;mapname=Deep Canyon #1
+type=2;parentlocation=1,9;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=1,9;location=1,1;mapname=Large Mountain #1
+type=2;parentlocation=1,9;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=1,9;location=1,3;mapname=Desert Mountain #2
+type=2;parentlocation=1,9;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=1,9;location=2,1;mapname=Moonscape #2
+type=2;parentlocation=1,9;location=2,2;mapname=Desert Mountain #2
+type=2;parentlocation=1,9;location=2,3;mapname=Large Mountain #2
+type=2;parentlocation=1,9;location=3,0;mapname=Deep Canyon #1
+type=2;parentlocation=1,9;location=3,1;mapname=Box Canyon
+type=2;parentlocation=1,9;location=3,2;mapname=City (Residential)
+type=2;parentlocation=1,9;location=3,3;mapname=Box Canyon
+type=2;parentlocation=2,0;location=0,0;mapname=City (Residential)
+type=2;parentlocation=2,0;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=2,0;location=0,2;mapname=Deep Canyon #1
+type=2;parentlocation=2,0;location=0,3;mapname=Large Mountain #1
+type=2;parentlocation=2,0;location=1,0;mapname=Rolling Hills #2
+type=2;parentlocation=2,0;location=1,1;mapname=Desert Mountain #2
+type=2;parentlocation=2,0;location=1,2;mapname=City (Residential)
+type=2;parentlocation=2,0;location=1,3;mapname=Deep Canyon #2
+type=2;parentlocation=2,0;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=2,0;location=2,1;mapname=Desert Mountain #2
+type=2;parentlocation=2,0;location=2,2;mapname=Rolling Hills #2
+type=2;parentlocation=2,0;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=2,0;location=3,0;mapname=Moonscape #1
+type=2;parentlocation=2,0;location=3,1;mapname=Deep Canyon #1
+type=2;parentlocation=2,0;location=3,2;mapname=Large Mountain #1
+type=2;parentlocation=2,0;location=3,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=2,1;location=0,0;mapname=City (Residential)
+type=2;parentlocation=2,1;location=0,1;mapname=Heavy Forest #1
+type=2;parentlocation=2,1;location=0,2;mapname=Large Mountain #1
+type=2;parentlocation=2,1;location=0,3;mapname=Blank sheet
+type=2;parentlocation=2,1;location=1,0;mapname=Blank sheet
+type=2;parentlocation=2,1;location=1,1;mapname=Deep Canyon #2
+type=2;parentlocation=2,1;location=1,2;mapname=Deep Canyon #2
+type=2;parentlocation=2,1;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=2,1;location=2,0;mapname=City (Residential)
+type=2;parentlocation=2,1;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=2,1;location=2,2;mapname=City Ruins
+type=2;parentlocation=2,1;location=2,3;mapname=Large Mountain #2
+type=2;parentlocation=2,1;location=3,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=2,1;location=3,1;mapname=Box Canyon
+type=2;parentlocation=2,1;location=3,2;mapname=Desert Hills
+type=2;parentlocation=2,1;location=3,3;mapname=Box Canyon
+type=2;parentlocation=2,2;location=0,0;mapname=River Valley
+type=2;parentlocation=2,2;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=2,2;location=0,2;mapname=Rolling Hills #1
+type=2;parentlocation=2,2;location=0,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=2,2;location=1,0;mapname=City Streets #2
+type=2;parentlocation=2,2;location=1,1;mapname=Rolling Hills #1
+type=2;parentlocation=2,2;location=1,2;mapname=City Ruins
+type=2;parentlocation=2,2;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=2,2;location=2,0;mapname=City Streets #2
+type=2;parentlocation=2,2;location=2,1;mapname=City Ruins
+type=2;parentlocation=2,2;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=2,2;location=2,3;mapname=City Hills/Residential #1
+type=2;parentlocation=2,2;location=3,0;mapname=Moonscape #2
+type=2;parentlocation=2,2;location=3,1;mapname=Blank sheet
+type=2;parentlocation=2,2;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=2,2;location=3,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=2,3;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=2,3;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=2,3;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=2,3;location=0,3;mapname=City Hills/Residential #1
+type=2;parentlocation=2,3;location=1,0;mapname=City Hills/Residential #1
+type=2;parentlocation=2,3;location=1,1;mapname=City Ruins
+type=2;parentlocation=2,3;location=1,2;mapname=Open Terrain #2
+type=2;parentlocation=2,3;location=1,3;mapname=Open Terrain #1
+type=2;parentlocation=2,3;location=2,0;mapname=Moonscape #1
+type=2;parentlocation=2,3;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=2,3;location=2,2;mapname=Citytech Map
+type=2;parentlocation=2,3;location=2,3;mapname=Blank sheet
+type=2;parentlocation=2,3;location=3,0;mapname=City Ruins
+type=2;parentlocation=2,3;location=3,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=2,3;location=3,2;mapname=Desert Hills
+type=2;parentlocation=2,3;location=3,3;mapname=Blank sheet
+type=2;parentlocation=2,4;location=0,0;mapname=City Ruins
+type=2;parentlocation=2,4;location=0,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=2,4;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=2,4;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=2,4;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=2,4;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=2,4;location=1,2;mapname=Open Terrain #2
+type=2;parentlocation=2,4;location=1,3;mapname=City Hills/Residential #1
+type=2;parentlocation=2,4;location=2,0;mapname=City Hills/Residential #2
+type=2;parentlocation=2,4;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=2,4;location=2,2;mapname=Moonscape #1
+type=2;parentlocation=2,4;location=2,3;mapname=Blank sheet
+type=2;parentlocation=2,4;location=3,0;mapname=City Ruins
+type=2;parentlocation=2,4;location=3,1;mapname=Blank sheet
+type=2;parentlocation=2,4;location=3,2;mapname=Blank sheet
+type=2;parentlocation=2,4;location=3,3;mapname=Blank sheet
+type=2;parentlocation=2,5;location=0,0;mapname=Open Terrain #2
+type=2;parentlocation=2,5;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=2,5;location=0,2;mapname=City Ruins
+type=2;parentlocation=2,5;location=0,3;mapname=City Ruins
+type=2;parentlocation=2,5;location=1,0;mapname=Blank sheet
+type=2;parentlocation=2,5;location=1,1;mapname=City Hills/Residential #1
+type=2;parentlocation=2,5;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=2,5;location=1,3;mapname=Moonscape #1
+type=2;parentlocation=2,5;location=2,0;mapname=Open Terrain #2
+type=2;parentlocation=2,5;location=2,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=2,5;location=2,2;mapname=Blank sheet
+type=2;parentlocation=2,5;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=2,5;location=3,0;mapname=City Hills/Residential #1
+type=2;parentlocation=2,5;location=3,1;mapname=City Streets #2
+type=2;parentlocation=2,5;location=3,2;mapname=Blank sheet
+type=2;parentlocation=2,5;location=3,3;mapname=City Streets #1
+type=2;parentlocation=2,6;location=0,0;mapname=City Streets #2
+type=2;parentlocation=2,6;location=0,1;mapname=Large Mountain #2
+type=2;parentlocation=2,6;location=0,2;mapname=Large Mountain #2
+type=2;parentlocation=2,6;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=2,6;location=1,0;mapname=Rolling Hills #1
+type=2;parentlocation=2,6;location=1,1;mapname=Rolling Hills #1
+type=2;parentlocation=2,6;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=2,6;location=1,3;mapname=Moonscape #2
+type=2;parentlocation=2,6;location=2,0;mapname=River Valley
+type=2;parentlocation=2,6;location=2,1;mapname=Deep Canyon #1
+type=2;parentlocation=2,6;location=2,2;mapname=Rolling Hills #2
+type=2;parentlocation=2,6;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=2,6;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=2,6;location=3,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=2,6;location=3,2;mapname=Box Canyon
+type=2;parentlocation=2,6;location=3,3;mapname=City Hills/Residential #2
+type=2;parentlocation=2,7;location=0,0;mapname=Open Terrain #2
+type=2;parentlocation=2,7;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=2,7;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=2,7;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=2,7;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=2,7;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=2,7;location=1,2;mapname=City Ruins
+type=2;parentlocation=2,7;location=1,3;mapname=Rolling Hills #2
+type=2;parentlocation=2,7;location=2,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=2,7;location=2,1;mapname=City Ruins
+type=2;parentlocation=2,7;location=2,2;mapname=City Streets #2
+type=2;parentlocation=2,7;location=2,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=2,7;location=3,0;mapname=City Streets #2
+type=2;parentlocation=2,7;location=3,1;mapname=City Hills/Residential #1
+type=2;parentlocation=2,7;location=3,2;mapname=City Hills/Residential #1
+type=2;parentlocation=2,7;location=3,3;mapname=Desert Hills
+type=2;parentlocation=2,8;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=2,8;location=0,1;mapname=Deep Canyon #2
+type=2;parentlocation=2,8;location=0,2;mapname=Deep Canyon #2
+type=2;parentlocation=2,8;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=2,8;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=2,8;location=1,1;mapname=Large Mountain #1
+type=2;parentlocation=2,8;location=1,2;mapname=City (Residential)
+type=2;parentlocation=2,8;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=2,8;location=2,0;mapname=Blank sheet
+type=2;parentlocation=2,8;location=2,1;mapname=Rolling Hills #2
+type=2;parentlocation=2,8;location=2,2;mapname=City (Residential)
+type=2;parentlocation=2,8;location=2,3;mapname=City Ruins
+type=2;parentlocation=2,8;location=3,0;mapname=Large Mountain #2
+type=2;parentlocation=2,8;location=3,1;mapname=Moonscape #2
+type=2;parentlocation=2,8;location=3,2;mapname=Blank sheet
+type=2;parentlocation=2,8;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=2,9;location=0,0;mapname=Rolling Hills #2
+type=2;parentlocation=2,9;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=2,9;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=2,9;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=2,9;location=1,0;mapname=Moonscape #1
+type=2;parentlocation=2,9;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=2,9;location=1,2;mapname=Desert Mountain #2
+type=2;parentlocation=2,9;location=1,3;mapname=City (Residential)
+type=2;parentlocation=2,9;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=2,9;location=2,1;mapname=Deep Canyon #1
+type=2;parentlocation=2,9;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=2,9;location=2,3;mapname=City (Residential)
+type=2;parentlocation=2,9;location=3,0;mapname=Blank sheet
+type=2;parentlocation=2,9;location=3,1;mapname=Large Mountain #1
+type=2;parentlocation=2,9;location=3,2;mapname=Deep Canyon #2
+type=2;parentlocation=2,9;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=3,0;location=0,0;mapname=Large Mountain #1
+type=2;parentlocation=3,0;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=3,0;location=0,2;mapname=Moonscape #2
+type=2;parentlocation=3,0;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=3,0;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=3,0;location=1,1;mapname=Box Canyon
+type=2;parentlocation=3,0;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=3,0;location=1,3;mapname=City (Residential)
+type=2;parentlocation=3,0;location=2,0;mapname=Large Mountain #2
+type=2;parentlocation=3,0;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=3,0;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=3,0;location=2,3;mapname=City (Residential)
+type=2;parentlocation=3,0;location=3,0;mapname=Desert Mountain #1
+type=2;parentlocation=3,0;location=3,1;mapname=Deep Canyon #1
+type=2;parentlocation=3,0;location=3,2;mapname=Desert Mountain #1
+type=2;parentlocation=3,0;location=3,3;mapname=Rolling Hills #2
+type=2;parentlocation=3,1;location=0,0;mapname=Deep Canyon #2
+type=2;parentlocation=3,1;location=0,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,1;location=0,2;mapname=Large Mountain #2
+type=2;parentlocation=3,1;location=0,3;mapname=Large Mountain #2
+type=2;parentlocation=3,1;location=1,0;mapname=Deep Canyon #2
+type=2;parentlocation=3,1;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,1;location=1,2;mapname=Blank sheet
+type=2;parentlocation=3,1;location=1,3;mapname=City Ruins
+type=2;parentlocation=3,1;location=2,0;mapname=City (Residential)
+type=2;parentlocation=3,1;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=3,1;location=2,2;mapname=Moonscape #1
+type=2;parentlocation=3,1;location=2,3;mapname=Blank sheet
+type=2;parentlocation=3,1;location=3,0;mapname=Blank sheet
+type=2;parentlocation=3,1;location=3,1;mapname=City (Residential)
+type=2;parentlocation=3,1;location=3,2;mapname=Box Canyon
+type=2;parentlocation=3,1;location=3,3;mapname=Box Canyon
+type=2;parentlocation=3,2;location=0,0;mapname=Open Terrain #2
+type=2;parentlocation=3,2;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=3,2;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=3,2;location=0,3;mapname=City Hills/Residential #1
+type=2;parentlocation=3,2;location=1,0;mapname=City Hills/Residential #1
+type=2;parentlocation=3,2;location=1,1;mapname=Rolling Hills #2
+type=2;parentlocation=3,2;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=3,2;location=1,3;mapname=Moonscape #1
+type=2;parentlocation=3,2;location=2,0;mapname=Citytech Map
+type=2;parentlocation=3,2;location=2,1;mapname=City Ruins
+type=2;parentlocation=3,2;location=2,2;mapname=City Ruins
+type=2;parentlocation=3,2;location=2,3;mapname=City Streets #2
+type=2;parentlocation=3,2;location=3,0;mapname=City Hills/Residential #2
+type=2;parentlocation=3,2;location=3,1;mapname=Battleforce 2
+type=2;parentlocation=3,2;location=3,2;mapname=City Streets #2
+type=2;parentlocation=3,2;location=3,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=3,3;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,3;location=0,1;mapname=Battleforce 2
+type=2;parentlocation=3,3;location=0,2;mapname=City Ruins
+type=2;parentlocation=3,3;location=0,3;mapname=Drainage Basin #1
+type=2;parentlocation=3,3;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=3,3;location=1,1;mapname=Woodland
+type=2;parentlocation=3,3;location=1,2;mapname=Desert Hills
+type=2;parentlocation=3,3;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=3,3;location=2,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,3;location=2,1;mapname=Citytech Map
+type=2;parentlocation=3,3;location=2,2;mapname=Citytech Map
+type=2;parentlocation=3,3;location=2,3;mapname=City Ruins
+type=2;parentlocation=3,3;location=3,0;mapname=Open Terrain #1
+type=2;parentlocation=3,3;location=3,1;mapname=Battleforce 2
+type=2;parentlocation=3,3;location=3,2;mapname=Drainage Basin #1
+type=2;parentlocation=3,3;location=3,3;mapname=Open Terrain #1
+type=2;parentlocation=3,4;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=3,4;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=3,4;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=3,4;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=3,4;location=1,0;mapname=City Ruins
+type=2;parentlocation=3,4;location=1,1;mapname=Large Mountain #2
+type=2;parentlocation=3,4;location=1,2;mapname=City Ruins
+type=2;parentlocation=3,4;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=3,4;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=3,4;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=3,4;location=2,2;mapname=Blank sheet
+type=2;parentlocation=3,4;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=3,4;location=3,0;mapname=Rolling Hills #1
+type=2;parentlocation=3,4;location=3,1;mapname=Open Terrain #1
+type=2;parentlocation=3,4;location=3,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,4;location=3,3;mapname=City Streets #1
+type=2;parentlocation=3,5;location=0,0;mapname=Large Mountain #1
+type=2;parentlocation=3,5;location=0,1;mapname=Large Mountain #2
+type=2;parentlocation=3,5;location=0,2;mapname=Large Mountain #2
+type=2;parentlocation=3,5;location=0,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,5;location=1,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,5;location=1,1;mapname=Box Canyon
+type=2;parentlocation=3,5;location=1,2;mapname=Box Canyon
+type=2;parentlocation=3,5;location=1,3;mapname=City (Residential)
+type=2;parentlocation=3,5;location=2,0;mapname=City (Residential)
+type=2;parentlocation=3,5;location=2,1;mapname=Large Mountain #1
+type=2;parentlocation=3,5;location=2,2;mapname=Desert Mountain #2
+type=2;parentlocation=3,5;location=2,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=3,5;location=3,0;mapname=Deep Canyon #2
+type=2;parentlocation=3,5;location=3,1;mapname=Blank sheet
+type=2;parentlocation=3,5;location=3,2;mapname=Deep Canyon #2
+type=2;parentlocation=3,5;location=3,3;mapname=Rolling Hills #2
+type=2;parentlocation=3,6;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=3,6;location=0,1;mapname=Blank sheet
+type=2;parentlocation=3,6;location=0,2;mapname=Heavy Forest #2
+type=2;parentlocation=3,6;location=0,3;mapname=Scattered woods
+type=2;parentlocation=3,6;location=1,0;mapname=City Streets #1
+type=2;parentlocation=3,6;location=1,1;mapname=Drainage Basin #1
+type=2;parentlocation=3,6;location=1,2;mapname=Drainage Basin #1
+type=2;parentlocation=3,6;location=1,3;mapname=City Streets #1
+type=2;parentlocation=3,6;location=2,0;mapname=Drainage Basin #2
+type=2;parentlocation=3,6;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=3,6;location=2,2;mapname=Heavy Forest #2
+type=2;parentlocation=3,6;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=3,6;location=3,0;mapname=Open Terrain #1
+type=2;parentlocation=3,6;location=3,1;mapname=Heavy Forest #1
+type=2;parentlocation=3,6;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=3,6;location=3,3;mapname=Drainage Basin #2
+type=2;parentlocation=3,7;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=3,7;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=3,7;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=3,7;location=0,3;mapname=City Hills/Residential #2
+type=2;parentlocation=3,7;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=3,7;location=1,1;mapname=City Ruins
+type=2;parentlocation=3,7;location=1,2;mapname=Blank sheet
+type=2;parentlocation=3,7;location=1,3;mapname=City Ruins
+type=2;parentlocation=3,7;location=2,0;mapname=Blank sheet
+type=2;parentlocation=3,7;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=3,7;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=3,7;location=2,3;mapname=City Hills/Residential #1
+type=2;parentlocation=3,7;location=3,0;mapname=Open Terrain #1
+type=2;parentlocation=3,7;location=3,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,7;location=3,2;mapname=Blank sheet
+type=2;parentlocation=3,7;location=3,3;mapname=Desert Hills
+type=2;parentlocation=3,8;location=0,0;mapname=Large Mountain #2
+type=2;parentlocation=3,8;location=0,1;mapname=City (Residential)
+type=2;parentlocation=3,8;location=0,2;mapname=Box Canyon
+type=2;parentlocation=3,8;location=0,3;mapname=Deep Canyon #2
+type=2;parentlocation=3,8;location=1,0;mapname=City (Residential)
+type=2;parentlocation=3,8;location=1,1;mapname=Large Mountain #2
+type=2;parentlocation=3,8;location=1,2;mapname=Blank sheet
+type=2;parentlocation=3,8;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=3,8;location=2,0;mapname=City Ruins
+type=2;parentlocation=3,8;location=2,1;mapname=Deep Canyon #2
+type=2;parentlocation=3,8;location=2,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,8;location=2,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=3,8;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=3,8;location=3,1;mapname=Desert Hills
+type=2;parentlocation=3,8;location=3,2;mapname=Box Canyon
+type=2;parentlocation=3,8;location=3,3;mapname=Blank sheet
+type=2;parentlocation=3,9;location=0,0;mapname=Desert Mountain #2
+type=2;parentlocation=3,9;location=0,1;mapname=Deep Canyon #1
+type=2;parentlocation=3,9;location=0,2;mapname=Rolling Hills #2
+type=2;parentlocation=3,9;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=3,9;location=1,0;mapname=City (Residential)
+type=2;parentlocation=3,9;location=1,1;mapname=Desert Mountain #2
+type=2;parentlocation=3,9;location=1,2;mapname=Box Canyon
+type=2;parentlocation=3,9;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=3,9;location=2,0;mapname=Deep Canyon #1
+type=2;parentlocation=3,9;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=3,9;location=2,2;mapname=Rolling Hills #2
+type=2;parentlocation=3,9;location=2,3;mapname=Moonscape #2
+type=2;parentlocation=3,9;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=3,9;location=3,1;mapname=Desert Mountain #1
+type=2;parentlocation=3,9;location=3,2;mapname=City (Residential)
+type=2;parentlocation=3,9;location=3,3;mapname=Box Canyon
+type=2;parentlocation=4,0;location=0,0;mapname=Large Mountain #1
+type=2;parentlocation=4,0;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=4,0;location=0,2;mapname=City (Residential)
+type=2;parentlocation=4,0;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=4,0;location=1,0;mapname=Moonscape #2
+type=2;parentlocation=4,0;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=4,0;location=1,2;mapname=Moonscape #1
+type=2;parentlocation=4,0;location=1,3;mapname=Large Mountain #2
+type=2;parentlocation=4,0;location=2,0;mapname=Deep Canyon #1
+type=2;parentlocation=4,0;location=2,1;mapname=Large Mountain #1
+type=2;parentlocation=4,0;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=4,0;location=2,3;mapname=Heavy Forest #1
+type=2;parentlocation=4,0;location=3,0;mapname=Box Canyon
+type=2;parentlocation=4,0;location=3,1;mapname=Box Canyon
+type=2;parentlocation=4,0;location=3,2;mapname=Deep Canyon #2
+type=2;parentlocation=4,0;location=3,3;mapname=Deep Canyon #1
+type=2;parentlocation=4,1;location=0,0;mapname=Deep Canyon #2
+type=2;parentlocation=4,1;location=0,1;mapname=Blank sheet
+type=2;parentlocation=4,1;location=0,2;mapname=City (Residential)
+type=2;parentlocation=4,1;location=0,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=4,1;location=1,0;mapname=Box Canyon
+type=2;parentlocation=4,1;location=1,1;mapname=Deep Canyon #2
+type=2;parentlocation=4,1;location=1,2;mapname=Box Canyon
+type=2;parentlocation=4,1;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=4,1;location=2,0;mapname=City (Residential)
+type=2;parentlocation=4,1;location=2,1;mapname=Blank sheet
+type=2;parentlocation=4,1;location=2,2;mapname=Large Mountain #1
+type=2;parentlocation=4,1;location=2,3;mapname=City Ruins
+type=2;parentlocation=4,1;location=3,0;mapname=Large Mountain #2
+type=2;parentlocation=4,1;location=3,1;mapname=Rolling Hills #2
+type=2;parentlocation=4,1;location=3,2;mapname=Battleforce 2
+type=2;parentlocation=4,1;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=4,2;location=0,0;mapname=City Streets #2
+type=2;parentlocation=4,2;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=4,2;location=0,2;mapname=Moonscape #2
+type=2;parentlocation=4,2;location=0,3;mapname=City Streets #2
+type=2;parentlocation=4,2;location=1,0;mapname=City Ruins
+type=2;parentlocation=4,2;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=4,2;location=1,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=4,2;location=1,3;mapname=City Ruins
+type=2;parentlocation=4,2;location=2,0;mapname=Open Terrain #2
+type=2;parentlocation=4,2;location=2,1;mapname=Rolling Hills #1
+type=2;parentlocation=4,2;location=2,2;mapname=Blank sheet
+type=2;parentlocation=4,2;location=2,3;mapname=Rolling Hills #1
+type=2;parentlocation=4,2;location=3,0;mapname=City Hills/Residential #1
+type=2;parentlocation=4,2;location=3,1;mapname=Desert Hills
+type=2;parentlocation=4,2;location=3,2;mapname=Blank sheet
+type=2;parentlocation=4,2;location=3,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=4,3;location=0,0;mapname=Drainage Basin #1
+type=2;parentlocation=4,3;location=0,1;mapname=City Ruins
+type=2;parentlocation=4,3;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=4,3;location=0,3;mapname=City Ruins
+type=2;parentlocation=4,3;location=1,0;mapname=Drainage Basin #1
+type=2;parentlocation=4,3;location=1,1;mapname=Open Terrain #1
+type=2;parentlocation=4,3;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=4,3;location=1,3;mapname=Open Terrain #1
+type=2;parentlocation=4,3;location=2,0;mapname=Open Terrain #2
+type=2;parentlocation=4,3;location=2,1;mapname=Citytech Map
+type=2;parentlocation=4,3;location=2,2;mapname=Battleforce 2
+type=2;parentlocation=4,3;location=2,3;mapname=Citytech Map
+type=2;parentlocation=4,3;location=3,0;mapname=Woodland
+type=2;parentlocation=4,3;location=3,1;mapname=Woodland
+type=2;parentlocation=4,3;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=4,3;location=3,3;mapname=Woodland
+type=2;parentlocation=4,4;location=0,0;mapname=City Hills/Residential #1
+type=2;parentlocation=4,4;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=4,4;location=0,2;mapname=City Ruins
+type=2;parentlocation=4,4;location=0,3;mapname=City Ruins
+type=2;parentlocation=4,4;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=4,4;location=1,1;mapname=City Hills/Residential #1
+type=2;parentlocation=4,4;location=1,2;mapname=Moonscape #1
+type=2;parentlocation=4,4;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=4,4;location=2,0;mapname=Moonscape #1
+type=2;parentlocation=4,4;location=2,1;mapname=Blank sheet
+type=2;parentlocation=4,4;location=2,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=4,4;location=2,3;mapname=Woodland
+type=2;parentlocation=4,4;location=3,0;mapname=Open Terrain #2
+type=2;parentlocation=4,4;location=3,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=4,4;location=3,2;mapname=Blank sheet
+type=2;parentlocation=4,4;location=3,3;mapname=Desert Hills
+type=2;parentlocation=4,5;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=4,5;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=4,5;location=0,2;mapname=City Ruins
+type=2;parentlocation=4,5;location=0,3;mapname=Rolling Hills #1
+type=2;parentlocation=4,5;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=4,5;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=4,5;location=1,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=4,5;location=1,3;mapname=City Ruins
+type=2;parentlocation=4,5;location=2,0;mapname=City Streets #2
+type=2;parentlocation=4,5;location=2,1;mapname=City Streets #2
+type=2;parentlocation=4,5;location=2,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=4,5;location=2,3;mapname=Open Terrain #1
+type=2;parentlocation=4,5;location=3,0;mapname=Blank sheet
+type=2;parentlocation=4,5;location=3,1;mapname=Box Canyon
+type=2;parentlocation=4,5;location=3,2;mapname=Moonscape #2
+type=2;parentlocation=4,5;location=3,3;mapname=City Hills/Residential #1
+type=2;parentlocation=4,6;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=4,6;location=0,1;mapname=Blank sheet
+type=2;parentlocation=4,6;location=0,2;mapname=City Ruins
+type=2;parentlocation=4,6;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=4,6;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=4,6;location=1,1;mapname=Moonscape #1
+type=2;parentlocation=4,6;location=1,2;mapname=Open Terrain #2
+type=2;parentlocation=4,6;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=4,6;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=4,6;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=4,6;location=2,2;mapname=City Ruins
+type=2;parentlocation=4,6;location=2,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=4,6;location=3,0;mapname=Desert Hills
+type=2;parentlocation=4,6;location=3,1;mapname=City Streets #1
+type=2;parentlocation=4,6;location=3,2;mapname=Blank sheet
+type=2;parentlocation=4,6;location=3,3;mapname=Rolling Hills #1
+type=2;parentlocation=4,7;location=0,0;mapname=Open Terrain #2
+type=2;parentlocation=4,7;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=4,7;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=4,7;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=4,7;location=1,0;mapname=Moonscape #1
+type=2;parentlocation=4,7;location=1,1;mapname=Blank sheet
+type=2;parentlocation=4,7;location=1,2;mapname=Blank sheet
+type=2;parentlocation=4,7;location=1,3;mapname=Deep Canyon #1
+type=2;parentlocation=4,7;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=4,7;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=4,7;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=4,7;location=2,3;mapname=Blank sheet
+type=2;parentlocation=4,7;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=4,7;location=3,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=4,7;location=3,2;mapname=Blank sheet
+type=2;parentlocation=4,7;location=3,3;mapname=City Ruins
+type=2;parentlocation=4,8;location=0,0;mapname=Large Mountain #2
+type=2;parentlocation=4,8;location=0,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=4,8;location=0,2;mapname=Large Mountain #1
+type=2;parentlocation=4,8;location=0,3;mapname=Large Mountain #2
+type=2;parentlocation=4,8;location=1,0;mapname=Blank sheet
+type=2;parentlocation=4,8;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=4,8;location=1,2;mapname=Deep Canyon #2
+type=2;parentlocation=4,8;location=1,3;mapname=Box Canyon
+type=2;parentlocation=4,8;location=2,0;mapname=Rolling Hills #1
+type=2;parentlocation=4,8;location=2,1;mapname=Rolling Hills #1
+type=2;parentlocation=4,8;location=2,2;mapname=City Ruins
+type=2;parentlocation=4,8;location=2,3;mapname=Deep Canyon #2
+type=2;parentlocation=4,8;location=3,0;mapname=City (Residential)
+type=2;parentlocation=4,8;location=3,1;mapname=Large Mountain #1
+type=2;parentlocation=4,8;location=3,2;mapname=Box Canyon
+type=2;parentlocation=4,8;location=3,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=4,9;location=0,0;mapname=Desert Mountain #2
+type=2;parentlocation=4,9;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=4,9;location=0,2;mapname=Deep Canyon #1
+type=2;parentlocation=4,9;location=0,3;mapname=Rolling Hills #2
+type=2;parentlocation=4,9;location=1,0;mapname=City (Residential)
+type=2;parentlocation=4,9;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=4,9;location=1,2;mapname=City (Residential)
+type=2;parentlocation=4,9;location=1,3;mapname=Desert Mountain #2
+type=2;parentlocation=4,9;location=2,0;mapname=Box Canyon
+type=2;parentlocation=4,9;location=2,1;mapname=Deep Canyon #1
+type=2;parentlocation=4,9;location=2,2;mapname=Moonscape #1
+type=2;parentlocation=4,9;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=4,9;location=3,0;mapname=Moonscape #1
+type=2;parentlocation=4,9;location=3,1;mapname=Box Canyon
+type=2;parentlocation=4,9;location=3,2;mapname=Blank sheet
+type=2;parentlocation=4,9;location=3,3;mapname=Large Mountain #1
+type=2;parentlocation=5,0;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=5,0;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=5,0;location=0,2;mapname=Desert Mountain #2
+type=2;parentlocation=5,0;location=0,3;mapname=Deep Canyon #2
+type=2;parentlocation=5,0;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=5,0;location=1,1;mapname=Desert Mountain #2
+type=2;parentlocation=5,0;location=1,2;mapname=Deep Canyon #1
+type=2;parentlocation=5,0;location=1,3;mapname=Deep Canyon #1
+type=2;parentlocation=5,0;location=2,0;mapname=City (Residential)
+type=2;parentlocation=5,0;location=2,1;mapname=City (Residential)
+type=2;parentlocation=5,0;location=2,2;mapname=Moonscape #1
+type=2;parentlocation=5,0;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=5,0;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=5,0;location=3,1;mapname=Rolling Hills #2
+type=2;parentlocation=5,0;location=3,2;mapname=Box Canyon
+type=2;parentlocation=5,0;location=3,3;mapname=Deep Canyon #2
+type=2;parentlocation=5,1;location=0,0;mapname=Large Mountain #1
+type=2;parentlocation=5,1;location=0,1;mapname=Box Canyon
+type=2;parentlocation=5,1;location=0,2;mapname=Large Mountain #2
+type=2;parentlocation=5,1;location=0,3;mapname=Large Mountain #1
+type=2;parentlocation=5,1;location=1,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,1;location=1,1;mapname=City (Residential)
+type=2;parentlocation=5,1;location=1,2;mapname=Deep Canyon #2
+type=2;parentlocation=5,1;location=1,3;mapname=Blank sheet
+type=2;parentlocation=5,1;location=2,0;mapname=City (Residential)
+type=2;parentlocation=5,1;location=2,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,1;location=2,2;mapname=Box Canyon
+type=2;parentlocation=5,1;location=2,3;mapname=Blank sheet
+type=2;parentlocation=5,1;location=3,0;mapname=Moonscape #2
+type=2;parentlocation=5,1;location=3,1;mapname=City Ruins
+type=2;parentlocation=5,1;location=3,2;mapname=City Ruins
+type=2;parentlocation=5,1;location=3,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=5,2;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=5,2;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=5,2;location=0,2;mapname=City Ruins
+type=2;parentlocation=5,2;location=0,3;mapname=City Ruins
+type=2;parentlocation=5,2;location=1,0;mapname=City Streets #2
+type=2;parentlocation=5,2;location=1,1;mapname=City Streets #2
+type=2;parentlocation=5,2;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=5,2;location=1,3;mapname=Rolling Hills #1
+type=2;parentlocation=5,2;location=2,0;mapname=Open Terrain #2
+type=2;parentlocation=5,2;location=2,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,2;location=2,2;mapname=Blank sheet
+type=2;parentlocation=5,2;location=2,3;mapname=River Valley
+type=2;parentlocation=5,2;location=3,0;mapname=Open Terrain #2
+type=2;parentlocation=5,2;location=3,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,2;location=3,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=5,2;location=3,3;mapname=Open Terrain #1
+type=2;parentlocation=5,3;location=0,0;mapname=Woodland
+type=2;parentlocation=5,3;location=0,1;mapname=Scattered woods
+type=2;parentlocation=5,3;location=0,2;mapname=City Streets #1
+type=2;parentlocation=5,3;location=0,3;mapname=Heavy Forest #2
+type=2;parentlocation=5,3;location=1,0;mapname=Drainage Basin #1
+type=2;parentlocation=5,3;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=5,3;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=5,3;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,3;location=2,0;mapname=Drainage Basin #1
+type=2;parentlocation=5,3;location=2,1;mapname=Open Terrain #2
+type=2;parentlocation=5,3;location=2,2;mapname=Drainage Basin #2
+type=2;parentlocation=5,3;location=2,3;mapname=Woodland
+type=2;parentlocation=5,3;location=3,0;mapname=Heavy Forest #1
+type=2;parentlocation=5,3;location=3,1;mapname=City Hills/Residential #1
+type=2;parentlocation=5,3;location=3,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,3;location=3,3;mapname=Rolling Hills #1
+type=2;parentlocation=5,4;location=0,0;mapname=Rolling Hills #1
+type=2;parentlocation=5,4;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=5,4;location=0,2;mapname=Moonscape #2
+type=2;parentlocation=5,4;location=0,3;mapname=Rolling Hills #1
+type=2;parentlocation=5,4;location=1,0;mapname=City Ruins
+type=2;parentlocation=5,4;location=1,1;mapname=City Ruins
+type=2;parentlocation=5,4;location=1,2;mapname=River Valley
+type=2;parentlocation=5,4;location=1,3;mapname=Heavy Forest #1
+type=2;parentlocation=5,4;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=5,4;location=2,1;mapname=City Streets #2
+type=2;parentlocation=5,4;location=2,2;mapname=Blank sheet
+type=2;parentlocation=5,4;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=5,4;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=5,4;location=3,1;mapname=City Hills/Residential #1
+type=2;parentlocation=5,4;location=3,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=5,4;location=3,3;mapname=City Streets #1
+type=2;parentlocation=5,5;location=0,0;mapname=Rolling Hills #1
+type=2;parentlocation=5,5;location=0,1;mapname=River Valley
+type=2;parentlocation=5,5;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=5,5;location=0,3;mapname=City Streets #2
+type=2;parentlocation=5,5;location=1,0;mapname=City Streets #2
+type=2;parentlocation=5,5;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=5,5;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=5,5;location=1,3;mapname=Heavy Forest #1
+type=2;parentlocation=5,5;location=2,0;mapname=City Hills/Residential #2
+type=2;parentlocation=5,5;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=5,5;location=2,2;mapname=City Ruins
+type=2;parentlocation=5,5;location=2,3;mapname=City Ruins
+type=2;parentlocation=5,5;location=3,0;mapname=Citytech Map
+type=2;parentlocation=5,5;location=3,1;mapname=Rolling Hills #1
+type=2;parentlocation=5,5;location=3,2;mapname=Desert Hills
+type=2;parentlocation=5,5;location=3,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=5,6;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=5,6;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=5,6;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=5,6;location=0,3;mapname=City Ruins
+type=2;parentlocation=5,6;location=1,0;mapname=City Ruins
+type=2;parentlocation=5,6;location=1,1;mapname=Desert Hills
+type=2;parentlocation=5,6;location=1,2;mapname=Open Terrain #2
+type=2;parentlocation=5,6;location=1,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=5,6;location=2,0;mapname=City Hills/Residential #2
+type=2;parentlocation=5,6;location=2,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,6;location=2,2;mapname=Blank sheet
+type=2;parentlocation=5,6;location=2,3;mapname=Open Terrain #1
+type=2;parentlocation=5,6;location=3,0;mapname=City Streets #2
+type=2;parentlocation=5,6;location=3,1;mapname=City Hills/Residential #1
+type=2;parentlocation=5,6;location=3,2;mapname=Large Mountain #1
+type=2;parentlocation=5,6;location=3,3;mapname=Blank sheet
+type=2;parentlocation=5,7;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=5,7;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=5,7;location=0,2;mapname=City Ruins
+type=2;parentlocation=5,7;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=5,7;location=1,0;mapname=City Ruins
+type=2;parentlocation=5,7;location=1,1;mapname=Open Terrain #2
+type=2;parentlocation=5,7;location=1,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,7;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=5,7;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=5,7;location=2,1;mapname=Open Terrain #2
+type=2;parentlocation=5,7;location=2,2;mapname=City Hills/Residential #1
+type=2;parentlocation=5,7;location=2,3;mapname=City Streets #2
+type=2;parentlocation=5,7;location=3,0;mapname=Desert Hills
+type=2;parentlocation=5,7;location=3,1;mapname=Citytech Map
+type=2;parentlocation=5,7;location=3,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,7;location=3,3;mapname=Blank sheet
+type=2;parentlocation=5,8;location=0,0;mapname=City Ruins
+type=2;parentlocation=5,8;location=0,1;mapname=Blank sheet
+type=2;parentlocation=5,8;location=0,2;mapname=Large Mountain #1
+type=2;parentlocation=5,8;location=0,3;mapname=Deep Canyon #2
+type=2;parentlocation=5,8;location=1,0;mapname=City (Residential)
+type=2;parentlocation=5,8;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,8;location=1,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=5,8;location=1,3;mapname=City (Residential)
+type=2;parentlocation=5,8;location=2,0;mapname=City Ruins
+type=2;parentlocation=5,8;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=5,8;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=5,8;location=2,3;mapname=Large Mountain #2
+type=2;parentlocation=5,8;location=3,0;mapname=Blank sheet
+type=2;parentlocation=5,8;location=3,1;mapname=Box Canyon
+type=2;parentlocation=5,8;location=3,2;mapname=Blank sheet
+type=2;parentlocation=5,8;location=3,3;mapname=Moonscape #2
+type=2;parentlocation=5,9;location=0,0;mapname=Desert Mountain #2
+type=2;parentlocation=5,9;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=5,9;location=0,2;mapname=Rolling Hills #2
+type=2;parentlocation=5,9;location=0,3;mapname=Large Mountain #1
+type=2;parentlocation=5,9;location=1,0;mapname=Box Canyon
+type=2;parentlocation=5,9;location=1,1;mapname=City (Residential)
+type=2;parentlocation=5,9;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=5,9;location=1,3;mapname=Blank sheet
+type=2;parentlocation=5,9;location=2,0;mapname=Deep Canyon #1
+type=2;parentlocation=5,9;location=2,1;mapname=Large Mountain #1
+type=2;parentlocation=5,9;location=2,2;mapname=Moonscape #2
+type=2;parentlocation=5,9;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=5,9;location=3,0;mapname=Desert Mountain #1
+type=2;parentlocation=5,9;location=3,1;mapname=Desert Mountain #1
+type=2;parentlocation=5,9;location=3,2;mapname=City (Residential)
+type=2;parentlocation=5,9;location=3,3;mapname=Box Canyon
+type=2;parentlocation=6,0;location=0,0;mapname=City (Residential)
+type=2;parentlocation=6,0;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=6,0;location=0,2;mapname=Desert Mountain #2
+type=2;parentlocation=6,0;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=6,0;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=6,0;location=1,1;mapname=Moonscape #1
+type=2;parentlocation=6,0;location=1,2;mapname=Large Mountain #1
+type=2;parentlocation=6,0;location=1,3;mapname=Box Canyon
+type=2;parentlocation=6,0;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=6,0;location=2,1;mapname=Moonscape #2
+type=2;parentlocation=6,0;location=2,2;mapname=Large Mountain #2
+type=2;parentlocation=6,0;location=2,3;mapname=Deep Canyon #1
+type=2;parentlocation=6,0;location=3,0;mapname=Rolling Hills #2
+type=2;parentlocation=6,0;location=3,1;mapname=Blank sheet
+type=2;parentlocation=6,0;location=3,2;mapname=City (Residential)
+type=2;parentlocation=6,0;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=6,1;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=6,1;location=0,1;mapname=Deep Canyon #2
+type=2;parentlocation=6,1;location=0,2;mapname=Box Canyon
+type=2;parentlocation=6,1;location=0,3;mapname=Large Mountain #2
+type=2;parentlocation=6,1;location=1,0;mapname=Box Canyon
+type=2;parentlocation=6,1;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=6,1;location=1,2;mapname=Blank sheet
+type=2;parentlocation=6,1;location=1,3;mapname=Blank sheet
+type=2;parentlocation=6,1;location=2,0;mapname=Blank sheet
+type=2;parentlocation=6,1;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=6,1;location=2,2;mapname=City Ruins
+type=2;parentlocation=6,1;location=2,3;mapname=City (Residential)
+type=2;parentlocation=6,1;location=3,0;mapname=Deep Canyon #1
+type=2;parentlocation=6,1;location=3,1;mapname=Blank sheet
+type=2;parentlocation=6,1;location=3,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=6,1;location=3,3;mapname=Large Mountain #1
+type=2;parentlocation=6,2;location=0,0;mapname=Open Terrain #2
+type=2;parentlocation=6,2;location=0,1;mapname=City Hills/Residential #1
+type=2;parentlocation=6,2;location=0,2;mapname=Blank sheet
+type=2;parentlocation=6,2;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=6,2;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=6,2;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=6,2;location=1,2;mapname=Moonscape #1
+type=2;parentlocation=6,2;location=1,3;mapname=Desert Hills
+type=2;parentlocation=6,2;location=2,0;mapname=City Ruins
+type=2;parentlocation=6,2;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=6,2;location=2,2;mapname=City Ruins
+type=2;parentlocation=6,2;location=2,3;mapname=Battleforce 2
+type=2;parentlocation=6,2;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=6,2;location=3,1;mapname=City Streets #2
+type=2;parentlocation=6,2;location=3,2;mapname=Battleforce 2
+type=2;parentlocation=6,2;location=3,3;mapname=Blank sheet
+type=2;parentlocation=6,3;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=6,3;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=6,3;location=0,2;mapname=Desert Hills
+type=2;parentlocation=6,3;location=0,3;mapname=City Hills/Residential #2
+type=2;parentlocation=6,3;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=6,3;location=1,1;mapname=City Ruins
+type=2;parentlocation=6,3;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=6,3;location=1,3;mapname=City Hills/Residential #1
+type=2;parentlocation=6,3;location=2,0;mapname=Open Terrain #2
+type=2;parentlocation=6,3;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=6,3;location=2,2;mapname=City Ruins
+type=2;parentlocation=6,3;location=2,3;mapname=City Hills/Residential #1
+type=2;parentlocation=6,3;location=3,0;mapname=Blank sheet
+type=2;parentlocation=6,3;location=3,1;mapname=Blank sheet
+type=2;parentlocation=6,3;location=3,2;mapname=Citytech Map
+type=2;parentlocation=6,3;location=3,3;mapname=Blank sheet
+type=2;parentlocation=6,4;location=0,0;mapname=Open Terrain #2
+type=2;parentlocation=6,4;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=6,4;location=0,2;mapname=Blank sheet
+type=2;parentlocation=6,4;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=6,4;location=1,0;mapname=Moonscape #1
+type=2;parentlocation=6,4;location=1,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=6,4;location=1,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=6,4;location=1,3;mapname=Blank sheet
+type=2;parentlocation=6,4;location=2,0;mapname=City Hills/Residential #2
+type=2;parentlocation=6,4;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=6,4;location=2,2;mapname=Blank sheet
+type=2;parentlocation=6,4;location=2,3;mapname=Blank sheet
+type=2;parentlocation=6,4;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=6,4;location=3,1;mapname=City Hills/Residential #1
+type=2;parentlocation=6,4;location=3,2;mapname=Blank sheet
+type=2;parentlocation=6,4;location=3,3;mapname=Battleforce 2
+type=2;parentlocation=6,5;location=0,0;mapname=City Ruins
+type=2;parentlocation=6,5;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=6,5;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=6,5;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=6,5;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=6,5;location=1,1;mapname=Moonscape #1
+type=2;parentlocation=6,5;location=1,2;mapname=Rolling Hills #1
+type=2;parentlocation=6,5;location=1,3;mapname=Moonscape #1
+type=2;parentlocation=6,5;location=2,0;mapname=City Ruins
+type=2;parentlocation=6,5;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=6,5;location=2,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=6,5;location=2,3;mapname=Blank sheet
+type=2;parentlocation=6,5;location=3,0;mapname=City Streets #2
+type=2;parentlocation=6,5;location=3,1;mapname=Blank sheet
+type=2;parentlocation=6,5;location=3,2;mapname=City Streets #1
+type=2;parentlocation=6,5;location=3,3;mapname=Blank sheet
+type=2;parentlocation=6,6;location=0,0;mapname=City (Residential)
+type=2;parentlocation=6,6;location=0,1;mapname=City Ruins
+type=2;parentlocation=6,6;location=0,2;mapname=Deep Canyon #2
+type=2;parentlocation=6,6;location=0,3;mapname=Box Canyon
+type=2;parentlocation=6,6;location=1,0;mapname=Large Mountain #2
+type=2;parentlocation=6,6;location=1,1;mapname=City (Residential)
+type=2;parentlocation=6,6;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=6,6;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=6,6;location=2,0;mapname=Box Canyon
+type=2;parentlocation=6,6;location=2,1;mapname=City Ruins
+type=2;parentlocation=6,6;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=6,6;location=2,3;mapname=Large Mountain #2
+type=2;parentlocation=6,6;location=3,0;mapname=Open Terrain #1
+type=2;parentlocation=6,6;location=3,1;mapname=Large Mountain #1
+type=2;parentlocation=6,6;location=3,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=6,6;location=3,3;mapname=Blank sheet
+type=2;parentlocation=6,7;location=0,0;mapname=Drainage Basin #1
+type=2;parentlocation=6,7;location=0,1;mapname=Woodland
+type=2;parentlocation=6,7;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=6,7;location=0,3;mapname=Citytech Map
+type=2;parentlocation=6,7;location=1,0;mapname=City Ruins
+type=2;parentlocation=6,7;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=6,7;location=1,2;mapname=Battleforce 2
+type=2;parentlocation=6,7;location=1,3;mapname=Woodland
+type=2;parentlocation=6,7;location=2,0;mapname=Citytech Map
+type=2;parentlocation=6,7;location=2,1;mapname=Woodland
+type=2;parentlocation=6,7;location=2,2;mapname=City Ruins
+type=2;parentlocation=6,7;location=2,3;mapname=Blank sheet
+type=2;parentlocation=6,7;location=3,0;mapname=Open Terrain #2
+type=2;parentlocation=6,7;location=3,1;mapname=Open Terrain #1
+type=2;parentlocation=6,7;location=3,2;mapname=Open Terrain #1
+type=2;parentlocation=6,7;location=3,3;mapname=Moonscape #1
+type=2;parentlocation=6,8;location=0,0;mapname=City Ruins
+type=2;parentlocation=6,8;location=0,1;mapname=City Ruins
+type=2;parentlocation=6,8;location=0,2;mapname=Deep Canyon #2
+type=2;parentlocation=6,8;location=0,3;mapname=Blank sheet
+type=2;parentlocation=6,8;location=1,0;mapname=Large Mountain #2
+type=2;parentlocation=6,8;location=1,1;mapname=City (Residential)
+type=2;parentlocation=6,8;location=1,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=6,8;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=6,8;location=2,0;mapname=Deep Canyon #2
+type=2;parentlocation=6,8;location=2,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=6,8;location=2,2;mapname=Moonscape #2
+type=2;parentlocation=6,8;location=2,3;mapname=Blank sheet
+type=2;parentlocation=6,8;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=6,8;location=3,1;mapname=City (Residential)
+type=2;parentlocation=6,8;location=3,2;mapname=Moonscape #1
+type=2;parentlocation=6,8;location=3,3;mapname=Moonscape #2
+type=2;parentlocation=6,9;location=0,0;mapname=City (Residential)
+type=2;parentlocation=6,9;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=6,9;location=0,2;mapname=Desert Mountain #2
+type=2;parentlocation=6,9;location=0,3;mapname=Blank sheet
+type=2;parentlocation=6,9;location=1,0;mapname=Rolling Hills #2
+type=2;parentlocation=6,9;location=1,1;mapname=City (Residential)
+type=2;parentlocation=6,9;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=6,9;location=1,3;mapname=Moonscape #1
+type=2;parentlocation=6,9;location=2,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=6,9;location=2,1;mapname=Rolling Hills #2
+type=2;parentlocation=6,9;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=6,9;location=2,3;mapname=Desert Mountain #2
+type=2;parentlocation=6,9;location=3,0;mapname=Desert Mountain #1
+type=2;parentlocation=6,9;location=3,1;mapname=Moonscape #1
+type=2;parentlocation=6,9;location=3,2;mapname=Large Mountain #2
+type=2;parentlocation=6,9;location=3,3;mapname=Large Mountain #1
+type=2;parentlocation=7,0;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=7,0;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=7,0;location=0,2;mapname=Blank sheet
+type=2;parentlocation=7,0;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=7,0;location=1,0;mapname=Desert Mountain #2
+type=2;parentlocation=7,0;location=1,1;mapname=Large Mountain #1
+type=2;parentlocation=7,0;location=1,2;mapname=Box Canyon
+type=2;parentlocation=7,0;location=1,3;mapname=City (Residential)
+type=2;parentlocation=7,0;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=7,0;location=2,1;mapname=Deep Canyon #1
+type=2;parentlocation=7,0;location=2,2;mapname=Large Mountain #2
+type=2;parentlocation=7,0;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=7,0;location=3,0;mapname=Deep Canyon #1
+type=2;parentlocation=7,0;location=3,1;mapname=Desert Mountain #1
+type=2;parentlocation=7,0;location=3,2;mapname=Box Canyon
+type=2;parentlocation=7,0;location=3,3;mapname=City (Residential)
+type=2;parentlocation=7,1;location=0,0;mapname=Box Canyon
+type=2;parentlocation=7,1;location=0,1;mapname=City (Residential)
+type=2;parentlocation=7,1;location=0,2;mapname=Blank sheet
+type=2;parentlocation=7,1;location=0,3;mapname=Blank sheet
+type=2;parentlocation=7,1;location=1,0;mapname=Deep Canyon #2
+type=2;parentlocation=7,1;location=1,1;mapname=Blank sheet
+type=2;parentlocation=7,1;location=1,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,1;location=1,3;mapname=City Ruins
+type=2;parentlocation=7,1;location=2,0;mapname=Box Canyon
+type=2;parentlocation=7,1;location=2,1;mapname=City (Residential)
+type=2;parentlocation=7,1;location=2,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,1;location=2,3;mapname=Desert Hills
+type=2;parentlocation=7,1;location=3,0;mapname=Rolling Hills #2
+type=2;parentlocation=7,1;location=3,1;mapname=Large Mountain #2
+type=2;parentlocation=7,1;location=3,2;mapname=Deep Canyon #2
+type=2;parentlocation=7,1;location=3,3;mapname=Rolling Hills #1
+type=2;parentlocation=7,2;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=7,2;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=7,2;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=7,2;location=0,3;mapname=City Hills/Residential #1
+type=2;parentlocation=7,2;location=1,0;mapname=Moonscape #1
+type=2;parentlocation=7,2;location=1,1;mapname=City Ruins
+type=2;parentlocation=7,2;location=1,2;mapname=City Ruins
+type=2;parentlocation=7,2;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=7,2;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=7,2;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=7,2;location=2,2;mapname=Citytech Map
+type=2;parentlocation=7,2;location=2,3;mapname=Desert Hills
+type=2;parentlocation=7,2;location=3,0;mapname=Blank sheet
+type=2;parentlocation=7,2;location=3,1;mapname=Open Terrain #1
+type=2;parentlocation=7,2;location=3,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,2;location=3,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,3;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=7,3;location=0,1;mapname=Citytech Map
+type=2;parentlocation=7,3;location=0,2;mapname=Open Terrain #1
+type=2;parentlocation=7,3;location=0,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=7,3;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=7,3;location=1,1;mapname=Woodland
+type=2;parentlocation=7,3;location=1,2;mapname=City Ruins
+type=2;parentlocation=7,3;location=1,3;mapname=Open Terrain #1
+type=2;parentlocation=7,3;location=2,0;mapname=Citytech Map
+type=2;parentlocation=7,3;location=2,1;mapname=Open Terrain #2
+type=2;parentlocation=7,3;location=2,2;mapname=City Ruins
+type=2;parentlocation=7,3;location=2,3;mapname=Drainage Basin #1
+type=2;parentlocation=7,3;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=7,3;location=3,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,3;location=3,2;mapname=Rolling Hills #1
+type=2;parentlocation=7,3;location=3,3;mapname=Drainage Basin #1
+type=2;parentlocation=7,4;location=0,0;mapname=Blank sheet
+type=2;parentlocation=7,4;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=7,4;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=7,4;location=0,3;mapname=City Ruins
+type=2;parentlocation=7,4;location=1,0;mapname=Blank sheet
+type=2;parentlocation=7,4;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=7,4;location=1,2;mapname=City Hills/Residential #1
+type=2;parentlocation=7,4;location=1,3;mapname=Blank sheet
+type=2;parentlocation=7,4;location=2,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=7,4;location=2,1;mapname=Open Terrain #2
+type=2;parentlocation=7,4;location=2,2;mapname=City Ruins
+type=2;parentlocation=7,4;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=7,4;location=3,0;mapname=Blank sheet
+type=2;parentlocation=7,4;location=3,1;mapname=Blank sheet
+type=2;parentlocation=7,4;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=7,4;location=3,3;mapname=Blank sheet
+type=2;parentlocation=7,5;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=7,5;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=7,5;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=7,5;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=7,5;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=7,5;location=1,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=7,5;location=1,2;mapname=Blank sheet
+type=2;parentlocation=7,5;location=1,3;mapname=City Hills/Residential #1
+type=2;parentlocation=7,5;location=2,0;mapname=City Hills/Residential #2
+type=2;parentlocation=7,5;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=7,5;location=2,2;mapname=Desert Hills
+type=2;parentlocation=7,5;location=2,3;mapname=City Streets #2
+type=2;parentlocation=7,5;location=3,0;mapname=City Streets #2
+type=2;parentlocation=7,5;location=3,1;mapname=City Ruins
+type=2;parentlocation=7,5;location=3,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,5;location=3,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,6;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=7,6;location=0,1;mapname=City Streets #2
+type=2;parentlocation=7,6;location=0,2;mapname=City Streets #2
+type=2;parentlocation=7,6;location=0,3;mapname=Rolling Hills #1
+type=2;parentlocation=7,6;location=1,0;mapname=City Ruins
+type=2;parentlocation=7,6;location=1,1;mapname=Rolling Hills #1
+type=2;parentlocation=7,6;location=1,2;mapname=City Ruins
+type=2;parentlocation=7,6;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=7,6;location=2,0;mapname=Moonscape #1
+type=2;parentlocation=7,6;location=2,1;mapname=Citytech Map
+type=2;parentlocation=7,6;location=2,2;mapname=River Valley
+type=2;parentlocation=7,6;location=2,3;mapname=Moonscape #2
+type=2;parentlocation=7,6;location=3,0;mapname=Citytech Map
+type=2;parentlocation=7,6;location=3,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=7,6;location=3,2;mapname=Moonscape #2
+type=2;parentlocation=7,6;location=3,3;mapname=Blank sheet
+type=2;parentlocation=7,7;location=0,0;mapname=Woodland
+type=2;parentlocation=7,7;location=0,1;mapname=Citytech Map
+type=2;parentlocation=7,7;location=0,2;mapname=Open Terrain #1
+type=2;parentlocation=7,7;location=0,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=7,7;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=7,7;location=1,1;mapname=Citytech Map
+type=2;parentlocation=7,7;location=1,2;mapname=Drainage Basin #1
+type=2;parentlocation=7,7;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,7;location=2,0;mapname=City Hills/Residential #2
+type=2;parentlocation=7,7;location=2,1;mapname=Open Terrain #1
+type=2;parentlocation=7,7;location=2,2;mapname=City Ruins
+type=2;parentlocation=7,7;location=2,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,7;location=3,0;mapname=Woodland
+type=2;parentlocation=7,7;location=3,1;mapname=Woodland
+type=2;parentlocation=7,7;location=3,2;mapname=City Ruins
+type=2;parentlocation=7,7;location=3,3;mapname=Open Terrain #2
+type=2;parentlocation=7,8;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,8;location=0,1;mapname=Large Mountain #2
+type=2;parentlocation=7,8;location=0,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=7,8;location=0,3;mapname=Box Canyon
+type=2;parentlocation=7,8;location=1,0;mapname=Box Canyon
+type=2;parentlocation=7,8;location=1,1;mapname=City (Residential)
+type=2;parentlocation=7,8;location=1,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=7,8;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=7,8;location=2,0;mapname=Blank sheet
+type=2;parentlocation=7,8;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=7,8;location=2,2;mapname=Mountain Lakes
+type=2;parentlocation=7,8;location=2,3;mapname=Desert Hills
+type=2;parentlocation=7,8;location=3,0;mapname=Deep Canyon #2
+type=2;parentlocation=7,8;location=3,1;mapname=City Ruins
+type=2;parentlocation=7,8;location=3,2;mapname=Deep Canyon #2
+type=2;parentlocation=7,8;location=3,3;mapname=Desert Mountain #2
+type=2;parentlocation=7,9;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=7,9;location=0,1;mapname=Large Mountain #1
+type=2;parentlocation=7,9;location=0,2;mapname=Desert Mountain #2
+type=2;parentlocation=7,9;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=7,9;location=1,0;mapname=Blank sheet
+type=2;parentlocation=7,9;location=1,1;mapname=Desert Mountain #2
+type=2;parentlocation=7,9;location=1,2;mapname=Large Mountain #1
+type=2;parentlocation=7,9;location=1,3;mapname=Deep Canyon #1
+type=2;parentlocation=7,9;location=2,0;mapname=Rolling Hills #1
+type=2;parentlocation=7,9;location=2,1;mapname=City (Residential)
+type=2;parentlocation=7,9;location=2,2;mapname=Moonscape #2
+type=2;parentlocation=7,9;location=2,3;mapname=Deep Canyon #1
+type=2;parentlocation=7,9;location=3,0;mapname=Rolling Hills #2
+type=2;parentlocation=7,9;location=3,1;mapname=City (Residential)
+type=2;parentlocation=7,9;location=3,2;mapname=Rolling Hills #2
+type=2;parentlocation=7,9;location=3,3;mapname=Moonscape #1
+type=2;parentlocation=8,0;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=8,0;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=8,0;location=0,2;mapname=Deep Canyon #1
+type=2;parentlocation=8,0;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=8,0;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=8,0;location=1,1;mapname=City (Residential)
+type=2;parentlocation=8,0;location=1,2;mapname=Large Mountain #1
+type=2;parentlocation=8,0;location=1,3;mapname=Box Canyon
+type=2;parentlocation=8,0;location=2,0;mapname=Box Canyon
+type=2;parentlocation=8,0;location=2,1;mapname=Moonscape #2
+type=2;parentlocation=8,0;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=8,0;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=8,0;location=3,0;mapname=Blank sheet
+type=2;parentlocation=8,0;location=3,1;mapname=Rolling Hills #2
+type=2;parentlocation=8,0;location=3,2;mapname=Desert Mountain #1
+type=2;parentlocation=8,0;location=3,3;mapname=City (Residential)
+type=2;parentlocation=8,1;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=8,1;location=0,1;mapname=Deep Canyon #2
+type=2;parentlocation=8,1;location=0,2;mapname=City Ruins
+type=2;parentlocation=8,1;location=0,3;mapname=Deep Canyon #2
+type=2;parentlocation=8,1;location=1,0;mapname=Box Canyon
+type=2;parentlocation=8,1;location=1,1;mapname=Large Mountain #2
+type=2;parentlocation=8,1;location=1,2;mapname=Blank sheet
+type=2;parentlocation=8,1;location=1,3;mapname=Rolling Hills #2
+type=2;parentlocation=8,1;location=2,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=8,1;location=2,1;mapname=City Ruins
+type=2;parentlocation=8,1;location=2,2;mapname=Blank sheet
+type=2;parentlocation=8,1;location=2,3;mapname=City (Residential)
+type=2;parentlocation=8,1;location=3,0;mapname=City (Residential)
+type=2;parentlocation=8,1;location=3,1;mapname=Desert Hills
+type=2;parentlocation=8,1;location=3,2;mapname=Blank sheet
+type=2;parentlocation=8,1;location=3,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=8,2;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=8,2;location=0,1;mapname=City Streets #2
+type=2;parentlocation=8,2;location=0,2;mapname=City Ruins
+type=2;parentlocation=8,2;location=0,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=8,2;location=1,0;mapname=Blank sheet
+type=2;parentlocation=8,2;location=1,1;mapname=Rolling Hills #1
+type=2;parentlocation=8,2;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=8,2;location=1,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=8,2;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=8,2;location=2,1;mapname=Rolling Hills #1
+type=2;parentlocation=8,2;location=2,2;mapname=City Ruins
+type=2;parentlocation=8,2;location=2,3;mapname=River Valley
+type=2;parentlocation=8,2;location=3,0;mapname=Moonscape #2
+type=2;parentlocation=8,2;location=3,1;mapname=Open Terrain #1
+type=2;parentlocation=8,2;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=8,2;location=3,3;mapname=City Streets #2
+type=2;parentlocation=8,3;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=8,3;location=0,1;mapname=Large Mountain #2
+type=2;parentlocation=8,3;location=0,2;mapname=River Valley
+type=2;parentlocation=8,3;location=0,3;mapname=Deep Canyon #2
+type=2;parentlocation=8,3;location=1,0;mapname=City (Residential)
+type=2;parentlocation=8,3;location=1,1;mapname=Box Canyon
+type=2;parentlocation=8,3;location=1,2;mapname=Box Canyon
+type=2;parentlocation=8,3;location=1,3;mapname=Deep Canyon #2
+type=2;parentlocation=8,3;location=2,0;mapname=Large Mountain #1
+type=2;parentlocation=8,3;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=8,3;location=2,2;mapname=Desert Mountain #1
+type=2;parentlocation=8,3;location=2,3;mapname=Large Mountain #1
+type=2;parentlocation=8,3;location=3,0;mapname=Blank sheet
+type=2;parentlocation=8,3;location=3,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=8,3;location=3,2;mapname=City (Residential)
+type=2;parentlocation=8,3;location=3,3;mapname=Desert Mountain #1
+type=2;parentlocation=8,4;location=0,0;mapname=Rolling Hills #2
+type=2;parentlocation=8,4;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=8,4;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=8,4;location=0,3;mapname=Citytech Map
+type=2;parentlocation=8,4;location=1,0;mapname=Open Terrain #1
+type=2;parentlocation=8,4;location=1,1;mapname=Open Terrain #1
+type=2;parentlocation=8,4;location=1,2;mapname=City Ruins
+type=2;parentlocation=8,4;location=1,3;mapname=City Ruins
+type=2;parentlocation=8,4;location=2,0;mapname=Blank sheet
+type=2;parentlocation=8,4;location=2,1;mapname=Citytech Map
+type=2;parentlocation=8,4;location=2,2;mapname=Drainage Basin #1
+type=2;parentlocation=8,4;location=2,3;mapname=Drainage Basin #1
+type=2;parentlocation=8,4;location=3,0;mapname=City Streets #2
+type=2;parentlocation=8,4;location=3,1;mapname=Rolling Hills #2
+type=2;parentlocation=8,4;location=3,2;mapname=Woodland
+type=2;parentlocation=8,4;location=3,3;mapname=City Streets #1
+type=2;parentlocation=8,5;location=0,0;mapname=City Hills/Residential #1
+type=2;parentlocation=8,5;location=0,1;mapname=City Ruins
+type=2;parentlocation=8,5;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=8,5;location=0,3;mapname=Blank sheet
+type=2;parentlocation=8,5;location=1,0;mapname=Moonscape #1
+type=2;parentlocation=8,5;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=8,5;location=1,2;mapname=Moonscape #1
+type=2;parentlocation=8,5;location=1,3;mapname=City Ruins
+type=2;parentlocation=8,5;location=2,0;mapname=Blank sheet
+type=2;parentlocation=8,5;location=2,1;mapname=Blank sheet
+type=2;parentlocation=8,5;location=2,2;mapname=Citytech Map
+type=2;parentlocation=8,5;location=2,3;mapname=Open Terrain #2
+type=2;parentlocation=8,5;location=3,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=8,5;location=3,1;mapname=Citytech Map
+type=2;parentlocation=8,5;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=8,5;location=3,3;mapname=City Hills/Residential #1
+type=2;parentlocation=8,6;location=0,0;mapname=City Streets #2
+type=2;parentlocation=8,6;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=8,6;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=8,6;location=0,3;mapname=City Hills/Residential #2
+type=2;parentlocation=8,6;location=1,0;mapname=River Valley
+type=2;parentlocation=8,6;location=1,1;mapname=City Streets #2
+type=2;parentlocation=8,6;location=1,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=8,6;location=1,3;mapname=City Streets #1
+type=2;parentlocation=8,6;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=8,6;location=2,1;mapname=Rolling Hills #1
+type=2;parentlocation=8,6;location=2,2;mapname=City Ruins
+type=2;parentlocation=8,6;location=2,3;mapname=City Ruins
+type=2;parentlocation=8,6;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=8,6;location=3,1;mapname=City Hills/Residential #1
+type=2;parentlocation=8,6;location=3,2;mapname=City Hills/Residential #1
+type=2;parentlocation=8,6;location=3,3;mapname=Deep Canyon #1
+type=2;parentlocation=8,7;location=0,0;mapname=City Ruins
+type=2;parentlocation=8,7;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=8,7;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=8,7;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=8,7;location=1,0;mapname=Blank sheet
+type=2;parentlocation=8,7;location=1,1;mapname=Blank sheet
+type=2;parentlocation=8,7;location=1,2;mapname=Battleforce 2
+type=2;parentlocation=8,7;location=1,3;mapname=City Hills/Residential #1
+type=2;parentlocation=8,7;location=2,0;mapname=City Ruins
+type=2;parentlocation=8,7;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=8,7;location=2,2;mapname=Moonscape #1
+type=2;parentlocation=8,7;location=2,3;mapname=City Streets #1
+type=2;parentlocation=8,7;location=3,0;mapname=City Hills/Residential #1
+type=2;parentlocation=8,7;location=3,1;mapname=Heavy Forest #1
+type=2;parentlocation=8,7;location=3,2;mapname=Rolling Hills #1
+type=2;parentlocation=8,7;location=3,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=8,8;location=0,0;mapname=Large Mountain #2
+type=2;parentlocation=8,8;location=0,1;mapname=Large Mountain #1
+type=2;parentlocation=8,8;location=0,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=8,8;location=0,3;mapname=Rolling Hills #2
+type=2;parentlocation=8,8;location=1,0;mapname=Deep Canyon #2
+type=2;parentlocation=8,8;location=1,1;mapname=Large Mountain #2
+type=2;parentlocation=8,8;location=1,2;mapname=Deep Canyon #2
+type=2;parentlocation=8,8;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=8,8;location=2,0;mapname=City (Residential)
+type=2;parentlocation=8,8;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=8,8;location=2,2;mapname=City Ruins
+type=2;parentlocation=8,8;location=2,3;mapname=City Ruins
+type=2;parentlocation=8,8;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=8,8;location=3,1;mapname=Rolling Hills #1
+type=2;parentlocation=8,8;location=3,2;mapname=City (Residential)
+type=2;parentlocation=8,8;location=3,3;mapname=Rolling Hills #2
+type=2;parentlocation=8,9;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=8,9;location=0,1;mapname=Deep Canyon #1
+type=2;parentlocation=8,9;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=8,9;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=8,9;location=1,0;mapname=Moonscape #2
+type=2;parentlocation=8,9;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=8,9;location=1,2;mapname=Desert Mountain #2
+type=2;parentlocation=8,9;location=1,3;mapname=Rolling Hills #2
+type=2;parentlocation=8,9;location=2,0;mapname=Large Mountain #1
+type=2;parentlocation=8,9;location=2,1;mapname=Box Canyon
+type=2;parentlocation=8,9;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=8,9;location=2,3;mapname=Desert Mountain #1
+type=2;parentlocation=8,9;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=8,9;location=3,1;mapname=Box Canyon
+type=2;parentlocation=8,9;location=3,2;mapname=Large Mountain #2
+type=2;parentlocation=8,9;location=3,3;mapname=Desert Hills
+type=2;parentlocation=9,0;location=0,0;mapname=Desert Mountain #2
+type=2;parentlocation=9,0;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=9,0;location=0,2;mapname=Desert Mountain #2
+type=2;parentlocation=9,0;location=0,3;mapname=Deep Canyon #1
+type=2;parentlocation=9,0;location=1,0;mapname=City (Residential)
+type=2;parentlocation=9,0;location=1,1;mapname=Large Mountain #1
+type=2;parentlocation=9,0;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=9,0;location=1,3;mapname=Moonscape #2
+type=2;parentlocation=9,0;location=2,0;mapname=City (Residential)
+type=2;parentlocation=9,0;location=2,1;mapname=Large Mountain #1
+type=2;parentlocation=9,0;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=9,0;location=2,3;mapname=Deep Canyon #2
+type=2;parentlocation=9,0;location=3,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=9,0;location=3,1;mapname=Blank sheet
+type=2;parentlocation=9,0;location=3,2;mapname=Large Mountain #2
+type=2;parentlocation=9,0;location=3,3;mapname=Box Canyon
+type=2;parentlocation=9,1;location=0,0;mapname=Deep Canyon #2
+type=2;parentlocation=9,1;location=0,1;mapname=Deep Canyon #2
+type=2;parentlocation=9,1;location=0,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=9,1;location=0,3;mapname=City (Residential)
+type=2;parentlocation=9,1;location=1,0;mapname=City (Residential)
+type=2;parentlocation=9,1;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=9,1;location=1,2;mapname=Large Mountain #1
+type=2;parentlocation=9,1;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=9,1;location=2,0;mapname=City Ruins
+type=2;parentlocation=9,1;location=2,1;mapname=Box Canyon
+type=2;parentlocation=9,1;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=9,1;location=2,3;mapname=City Ruins
+type=2;parentlocation=9,1;location=3,0;mapname=Desert Hills
+type=2;parentlocation=9,1;location=3,1;mapname=Open Terrain #1
+type=2;parentlocation=9,1;location=3,2;mapname=Large Mountain #2
+type=2;parentlocation=9,1;location=3,3;mapname=Box Canyon
+type=2;parentlocation=9,2;location=0,0;mapname=Woodland
+type=2;parentlocation=9,2;location=0,1;mapname=Drainage Basin #1
+type=2;parentlocation=9,2;location=0,2;mapname=Drainage Basin #1
+type=2;parentlocation=9,2;location=0,3;mapname=Open Terrain #1
+type=2;parentlocation=9,2;location=1,0;mapname=Battleforce 2
+type=2;parentlocation=9,2;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=9,2;location=1,2;mapname=City Ruins
+type=2;parentlocation=9,2;location=1,3;mapname=City Ruins
+type=2;parentlocation=9,2;location=2,0;mapname=Citytech Map
+type=2;parentlocation=9,2;location=2,1;mapname=Open Terrain #1
+type=2;parentlocation=9,2;location=2,2;mapname=Battleforce 2
+type=2;parentlocation=9,2;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=9,2;location=3,0;mapname=Citytech Map
+type=2;parentlocation=9,2;location=3,1;mapname=Open Terrain #2
+type=2;parentlocation=9,2;location=3,2;mapname=Blank sheet
+type=2;parentlocation=9,2;location=3,3;mapname=City Streets #1
+type=2;parentlocation=9,3;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=9,3;location=0,1;mapname=Heavy Forest #1
+type=2;parentlocation=9,3;location=0,2;mapname=City Hills/Residential #1
+type=2;parentlocation=9,3;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=9,3;location=1,0;mapname=Desert Hills
+type=2;parentlocation=9,3;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=9,3;location=1,2;mapname=Open Terrain #2
+type=2;parentlocation=9,3;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=9,3;location=2,0;mapname=Blank sheet
+type=2;parentlocation=9,3;location=2,1;mapname=Open Terrain #2
+type=2;parentlocation=9,3;location=2,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=9,3;location=2,3;mapname=City Ruins
+type=2;parentlocation=9,3;location=3,0;mapname=Citytech Map
+type=2;parentlocation=9,3;location=3,1;mapname=Open Terrain #1
+type=2;parentlocation=9,3;location=3,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=9,3;location=3,3;mapname=City Ruins
+type=2;parentlocation=9,4;location=0,0;mapname=Drainage Basin #1
+type=2;parentlocation=9,4;location=0,1;mapname=Citytech Map
+type=2;parentlocation=9,4;location=0,2;mapname=Open Terrain #1
+type=2;parentlocation=9,4;location=0,3;mapname=Woodland
+type=2;parentlocation=9,4;location=1,0;mapname=Drainage Basin #1
+type=2;parentlocation=9,4;location=1,1;mapname=Citytech Map
+type=2;parentlocation=9,4;location=1,2;mapname=Open Terrain #1
+type=2;parentlocation=9,4;location=1,3;mapname=City Ruins
+type=2;parentlocation=9,4;location=2,0;mapname=Blank sheet
+type=2;parentlocation=9,4;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=9,4;location=2,2;mapname=River Valley
+type=2;parentlocation=9,4;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=9,4;location=3,0;mapname=City Ruins
+type=2;parentlocation=9,4;location=3,1;mapname=Woodland
+type=2;parentlocation=9,4;location=3,2;mapname=Drainage Basin #2
+type=2;parentlocation=9,4;location=3,3;mapname=Woodland
+type=2;parentlocation=9,5;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=9,5;location=0,1;mapname=Woodland
+type=2;parentlocation=9,5;location=0,2;mapname=Drainage Basin #1
+type=2;parentlocation=9,5;location=0,3;mapname=Open Terrain #1
+type=2;parentlocation=9,5;location=1,0;mapname=Citytech Map
+type=2;parentlocation=9,5;location=1,1;mapname=Drainage Basin #1
+type=2;parentlocation=9,5;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=9,5;location=1,3;mapname=Citytech Map
+type=2;parentlocation=9,5;location=2,0;mapname=Woodland
+type=2;parentlocation=9,5;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=9,5;location=2,2;mapname=City Ruins
+type=2;parentlocation=9,5;location=2,3;mapname=Open Terrain #1
+type=2;parentlocation=9,5;location=3,0;mapname=City Streets #1
+type=2;parentlocation=9,5;location=3,1;mapname=City Ruins
+type=2;parentlocation=9,5;location=3,2;mapname=Large Mountain #2
+type=2;parentlocation=9,5;location=3,3;mapname=Blank sheet
+type=2;parentlocation=9,6;location=0,0;mapname=City Ruins
+type=2;parentlocation=9,6;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=9,6;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=9,6;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=9,6;location=1,0;mapname=Blank sheet
+type=2;parentlocation=9,6;location=1,1;mapname=Blank sheet
+type=2;parentlocation=9,6;location=1,2;mapname=Blank sheet
+type=2;parentlocation=9,6;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=9,6;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=9,6;location=2,1;mapname=Open Terrain #2
+type=2;parentlocation=9,6;location=2,2;mapname=Open Terrain #2
+type=2;parentlocation=9,6;location=2,3;mapname=Battleforce 2
+type=2;parentlocation=9,6;location=3,0;mapname=City Ruins
+type=2;parentlocation=9,6;location=3,1;mapname=Blank sheet
+type=2;parentlocation=9,6;location=3,2;mapname=City Streets #2
+type=2;parentlocation=9,6;location=3,3;mapname=City Hills/Residential #1
+type=2;parentlocation=9,7;location=0,0;mapname=Citytech Map
+type=2;parentlocation=9,7;location=0,1;mapname=Open Terrain #1
+type=2;parentlocation=9,7;location=0,2;mapname=City Ruins
+type=2;parentlocation=9,7;location=0,3;mapname=Woodland
+type=2;parentlocation=9,7;location=1,0;mapname=Drainage Basin #1
+type=2;parentlocation=9,7;location=1,1;mapname=Citytech Map
+type=2;parentlocation=9,7;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=9,7;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=9,7;location=2,0;mapname=Blank sheet
+type=2;parentlocation=9,7;location=2,1;mapname=Woodland
+type=2;parentlocation=9,7;location=2,2;mapname=City Ruins
+type=2;parentlocation=9,7;location=2,3;mapname=Woodland
+type=2;parentlocation=9,7;location=3,0;mapname=Open Terrain #1
+type=2;parentlocation=9,7;location=3,1;mapname=Scattered woods
+type=2;parentlocation=9,7;location=3,2;mapname=Battleforce 2
+type=2;parentlocation=9,7;location=3,3;mapname=Drainage Basin #1
+type=2;parentlocation=9,8;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=9,8;location=0,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=9,8;location=0,2;mapname=Box Canyon
+type=2;parentlocation=9,8;location=0,3;mapname=Large Mountain #2
+type=2;parentlocation=9,8;location=1,0;mapname=Large Mountain #2
+type=2;parentlocation=9,8;location=1,1;mapname=Desert Mountain #2
+type=2;parentlocation=9,8;location=1,2;mapname=Box Canyon
+type=2;parentlocation=9,8;location=1,3;mapname=City (Residential)
+type=2;parentlocation=9,8;location=2,0;mapname=Moonscape #1
+type=2;parentlocation=9,8;location=2,1;mapname=Heavy Forest #1
+type=2;parentlocation=9,8;location=2,2;mapname=City (Residential)
+type=2;parentlocation=9,8;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=9,8;location=3,0;mapname=Deep Canyon #1
+type=2;parentlocation=9,8;location=3,1;mapname=Large Mountain #1
+type=2;parentlocation=9,8;location=3,2;mapname=Desert Mountain #2
+type=2;parentlocation=9,8;location=3,3;mapname=City Ruins
+type=2;parentlocation=9,9;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=9,9;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=9,9;location=0,2;mapname=Deep Canyon #1
+type=2;parentlocation=9,9;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=9,9;location=1,0;mapname=Blank sheet
+type=2;parentlocation=9,9;location=1,1;mapname=Desert Mountain #2
+type=2;parentlocation=9,9;location=1,2;mapname=Large Mountain #1
+type=2;parentlocation=9,9;location=1,3;mapname=City (Residential)
+type=2;parentlocation=9,9;location=2,0;mapname=Large Mountain #1
+type=2;parentlocation=9,9;location=2,1;mapname=Deep Canyon #1
+type=2;parentlocation=9,9;location=2,2;mapname=Large Mountain #2
+type=2;parentlocation=9,9;location=2,3;mapname=City (Residential)
+type=2;parentlocation=9,9;location=3,0;mapname=Desert Mountain #1
+type=2;parentlocation=9,9;location=3,1;mapname=Rolling Hills #2
+type=2;parentlocation=9,9;location=3,2;mapname=Box Canyon
+type=2;parentlocation=9,9;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=10,0;location=0,0;mapname=Rolling Hills #2
+type=2;parentlocation=10,0;location=0,1;mapname=Large Mountain #1
+type=2;parentlocation=10,0;location=0,2;mapname=Desert Mountain #2
+type=2;parentlocation=10,0;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=10,0;location=1,0;mapname=Moonscape #2
+type=2;parentlocation=10,0;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=10,0;location=1,2;mapname=Rolling Hills #2
+type=2;parentlocation=10,0;location=1,3;mapname=City (Residential)
+type=2;parentlocation=10,0;location=2,0;mapname=Large Mountain #1
+type=2;parentlocation=10,0;location=2,1;mapname=City (Residential)
+type=2;parentlocation=10,0;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=10,0;location=2,3;mapname=Deep Canyon #1
+type=2;parentlocation=10,0;location=3,0;mapname=Deep Canyon #1
+type=2;parentlocation=10,0;location=3,1;mapname=Moonscape #1
+type=2;parentlocation=10,0;location=3,2;mapname=Moonscape #1
+type=2;parentlocation=10,0;location=3,3;mapname=Rolling Hills #1
+type=2;parentlocation=10,1;location=0,0;mapname=Large Mountain #1
+type=2;parentlocation=10,1;location=0,1;mapname=Large Mountain #2
+type=2;parentlocation=10,1;location=0,2;mapname=Large Mountain #2
+type=2;parentlocation=10,1;location=0,3;mapname=Box Canyon
+type=2;parentlocation=10,1;location=1,0;mapname=City Ruins
+type=2;parentlocation=10,1;location=1,1;mapname=City Ruins
+type=2;parentlocation=10,1;location=1,2;mapname=Blank sheet
+type=2;parentlocation=10,1;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,1;location=2,0;mapname=Mountain Lakes
+type=2;parentlocation=10,1;location=2,1;mapname=City (Residential)
+type=2;parentlocation=10,1;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=10,1;location=2,3;mapname=Blank sheet
+type=2;parentlocation=10,1;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=10,1;location=3,1;mapname=Deep Canyon #2
+type=2;parentlocation=10,1;location=3,2;mapname=Blank sheet
+type=2;parentlocation=10,1;location=3,3;mapname=City (Residential)
+type=2;parentlocation=10,2;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=10,2;location=0,1;mapname=City Ruins
+type=2;parentlocation=10,2;location=0,2;mapname=Woodland
+type=2;parentlocation=10,2;location=0,3;mapname=City Hills/Residential #2
+type=2;parentlocation=10,2;location=1,0;mapname=Drainage Basin #1
+type=2;parentlocation=10,2;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,2;location=1,2;mapname=Drainage Basin #1
+type=2;parentlocation=10,2;location=1,3;mapname=Open Terrain #1
+type=2;parentlocation=10,2;location=2,0;mapname=City Ruins
+type=2;parentlocation=10,2;location=2,1;mapname=Woodland
+type=2;parentlocation=10,2;location=2,2;mapname=Blank sheet
+type=2;parentlocation=10,2;location=2,3;mapname=Citytech Map
+type=2;parentlocation=10,2;location=3,0;mapname=Open Terrain #1
+type=2;parentlocation=10,2;location=3,1;mapname=Citytech Map
+type=2;parentlocation=10,2;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=10,2;location=3,3;mapname=City Streets #1
+type=2;parentlocation=10,3;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=10,3;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=10,3;location=0,2;mapname=City Streets #2
+type=2;parentlocation=10,3;location=0,3;mapname=River Valley
+type=2;parentlocation=10,3;location=1,0;mapname=Moonscape #2
+type=2;parentlocation=10,3;location=1,1;mapname=City Streets #2
+type=2;parentlocation=10,3;location=1,2;mapname=Rolling Hills #1
+type=2;parentlocation=10,3;location=1,3;mapname=Rolling Hills #1
+type=2;parentlocation=10,3;location=2,0;mapname=Open Terrain #1
+type=2;parentlocation=10,3;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=10,3;location=2,2;mapname=Moonscape #2
+type=2;parentlocation=10,3;location=2,3;mapname=City Ruins
+type=2;parentlocation=10,3;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=10,3;location=3,1;mapname=Citytech Map
+type=2;parentlocation=10,3;location=3,2;mapname=Blank sheet
+type=2;parentlocation=10,3;location=3,3;mapname=Rolling Hills #2
+type=2;parentlocation=10,4;location=0,0;mapname=Blank sheet
+type=2;parentlocation=10,4;location=0,1;mapname=City Ruins
+type=2;parentlocation=10,4;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=10,4;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=10,4;location=1,0;mapname=Moonscape #1
+type=2;parentlocation=10,4;location=1,1;mapname=City Ruins
+type=2;parentlocation=10,4;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=10,4;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=10,4;location=2,0;mapname=Desert Hills
+type=2;parentlocation=10,4;location=2,1;mapname=Large Mountain #1
+type=2;parentlocation=10,4;location=2,2;mapname=Moonscape #1
+type=2;parentlocation=10,4;location=2,3;mapname=Citytech Map
+type=2;parentlocation=10,4;location=3,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,4;location=3,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,4;location=3,2;mapname=Blank sheet
+type=2;parentlocation=10,4;location=3,3;mapname=City Hills/Residential #1
+type=2;parentlocation=10,5;location=0,0;mapname=Desert Hills
+type=2;parentlocation=10,5;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=10,5;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=10,5;location=0,3;mapname=Rolling Hills #2
+type=2;parentlocation=10,5;location=1,0;mapname=Open Terrain #2
+type=2;parentlocation=10,5;location=1,1;mapname=City Ruins
+type=2;parentlocation=10,5;location=1,2;mapname=Rolling Hills #2
+type=2;parentlocation=10,5;location=1,3;mapname=Blank sheet
+type=2;parentlocation=10,5;location=2,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=10,5;location=2,1;mapname=City Ruins
+type=2;parentlocation=10,5;location=2,2;mapname=Battleforce 2
+type=2;parentlocation=10,5;location=2,3;mapname=Deep Canyon #1
+type=2;parentlocation=10,5;location=3,0;mapname=Drainage Basin #1
+type=2;parentlocation=10,5;location=3,1;mapname=Open Terrain #2
+type=2;parentlocation=10,5;location=3,2;mapname=City Hills/Residential #1
+type=2;parentlocation=10,5;location=3,3;mapname=Woodland
+type=2;parentlocation=10,6;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=10,6;location=0,1;mapname=City Ruins
+type=2;parentlocation=10,6;location=0,2;mapname=Desert Hills
+type=2;parentlocation=10,6;location=0,3;mapname=Open Terrain #1
+type=2;parentlocation=10,6;location=1,0;mapname=Drainage Basin #1
+type=2;parentlocation=10,6;location=1,1;mapname=Drainage Basin #1
+type=2;parentlocation=10,6;location=1,2;mapname=Open Terrain #1
+type=2;parentlocation=10,6;location=1,3;mapname=City Ruins
+type=2;parentlocation=10,6;location=2,0;mapname=Citytech Map
+type=2;parentlocation=10,6;location=2,1;mapname=Citytech Map
+type=2;parentlocation=10,6;location=2,2;mapname=Woodland
+type=2;parentlocation=10,6;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=10,6;location=3,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,6;location=3,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,6;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=10,6;location=3,3;mapname=Drainage Basin #2
+type=2;parentlocation=10,7;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=10,7;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=10,7;location=0,2;mapname=City Ruins
+type=2;parentlocation=10,7;location=0,3;mapname=Open Terrain #1
+type=2;parentlocation=10,7;location=1,0;mapname=City Ruins
+type=2;parentlocation=10,7;location=1,1;mapname=Blank sheet
+type=2;parentlocation=10,7;location=1,2;mapname=Citytech Map
+type=2;parentlocation=10,7;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=10,7;location=2,0;mapname=Open Terrain #1
+type=2;parentlocation=10,7;location=2,1;mapname=Woodland
+type=2;parentlocation=10,7;location=2,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,7;location=2,3;mapname=Drainage Basin #2
+type=2;parentlocation=10,7;location=3,0;mapname=Citytech Map
+type=2;parentlocation=10,7;location=3,1;mapname=Rolling Hills #1
+type=2;parentlocation=10,7;location=3,2;mapname=City Streets #1
+type=2;parentlocation=10,7;location=3,3;mapname=City Streets #1
+type=2;parentlocation=10,8;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,8;location=0,1;mapname=Deep Canyon #2
+type=2;parentlocation=10,8;location=0,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=10,8;location=0,3;mapname=Deep Canyon #2
+type=2;parentlocation=10,8;location=1,0;mapname=City Ruins
+type=2;parentlocation=10,8;location=1,1;mapname=City (Residential)
+type=2;parentlocation=10,8;location=1,2;mapname=Large Mountain #2
+type=2;parentlocation=10,8;location=1,3;mapname=Blank sheet
+type=2;parentlocation=10,8;location=2,0;mapname=City Ruins
+type=2;parentlocation=10,8;location=2,1;mapname=City (Residential)
+type=2;parentlocation=10,8;location=2,2;mapname=Blank sheet
+type=2;parentlocation=10,8;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=10,8;location=3,0;mapname=Blank sheet
+type=2;parentlocation=10,8;location=3,1;mapname=Rolling Hills #1
+type=2;parentlocation=10,8;location=3,2;mapname=Large Mountain #2
+type=2;parentlocation=10,8;location=3,3;mapname=Large Mountain #1
+type=2;parentlocation=10,9;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=10,9;location=0,1;mapname=Rolling Hills #2
+type=2;parentlocation=10,9;location=0,2;mapname=City (Residential)
+type=2;parentlocation=10,9;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=10,9;location=1,0;mapname=Moonscape #2
+type=2;parentlocation=10,9;location=1,1;mapname=City (Residential)
+type=2;parentlocation=10,9;location=1,2;mapname=Desert Mountain #2
+type=2;parentlocation=10,9;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=10,9;location=2,0;mapname=Desert Mountain #2
+type=2;parentlocation=10,9;location=2,1;mapname=Deep Canyon #1
+type=2;parentlocation=10,9;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=10,9;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=10,9;location=3,0;mapname=Rolling Hills #2
+type=2;parentlocation=10,9;location=3,1;mapname=Large Mountain #1
+type=2;parentlocation=10,9;location=3,2;mapname=Desert Mountain #1
+type=2;parentlocation=10,9;location=3,3;mapname=River Valley
+type=2;parentlocation=11,0;location=0,0;mapname=Desert Mountain #2
+type=2;parentlocation=11,0;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=11,0;location=0,2;mapname=Deep Canyon #1
+type=2;parentlocation=11,0;location=0,3;mapname=Deep Canyon #1
+type=2;parentlocation=11,0;location=1,0;mapname=Desert Mountain #2
+type=2;parentlocation=11,0;location=1,1;mapname=City (Residential)
+type=2;parentlocation=11,0;location=1,2;mapname=Desert Mountain #1
+type=2;parentlocation=11,0;location=1,3;mapname=Moonscape #2
+type=2;parentlocation=11,0;location=2,0;mapname=Moonscape #1
+type=2;parentlocation=11,0;location=2,1;mapname=Rolling Hills #2
+type=2;parentlocation=11,0;location=2,2;mapname=City (Residential)
+type=2;parentlocation=11,0;location=2,3;mapname=Large Mountain #1
+type=2;parentlocation=11,0;location=3,0;mapname=Moonscape #1
+type=2;parentlocation=11,0;location=3,1;mapname=Deep Canyon #2
+type=2;parentlocation=11,0;location=3,2;mapname=Large Mountain #1
+type=2;parentlocation=11,0;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=11,1;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=11,1;location=0,1;mapname=City (Residential)
+type=2;parentlocation=11,1;location=0,2;mapname=City (Residential)
+type=2;parentlocation=11,1;location=0,3;mapname=Large Mountain #2
+type=2;parentlocation=11,1;location=1,0;mapname=City Ruins
+type=2;parentlocation=11,1;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=11,1;location=1,2;mapname=Deep Canyon #2
+type=2;parentlocation=11,1;location=1,3;mapname=Blank sheet
+type=2;parentlocation=11,1;location=2,0;mapname=Blank sheet
+type=2;parentlocation=11,1;location=2,1;mapname=Box Canyon
+type=2;parentlocation=11,1;location=2,2;mapname=Blank sheet
+type=2;parentlocation=11,1;location=2,3;mapname=Box Canyon
+type=2;parentlocation=11,1;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=11,1;location=3,1;mapname=Desert Mountain #2
+type=2;parentlocation=11,1;location=3,2;mapname=Deep Canyon #2
+type=2;parentlocation=11,1;location=3,3;mapname=Moonscape #2
+type=2;parentlocation=11,2;location=0,0;mapname=Desert Hills
+type=2;parentlocation=11,2;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=11,2;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=11,2;location=0,3;mapname=City Hills/Residential #1
+type=2;parentlocation=11,2;location=1,0;mapname=Moonscape #1
+type=2;parentlocation=11,2;location=1,1;mapname=Open Terrain #2
+type=2;parentlocation=11,2;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=11,2;location=1,3;mapname=Moonscape #1
+type=2;parentlocation=11,2;location=2,0;mapname=Blank sheet
+type=2;parentlocation=11,2;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=11,2;location=2,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=11,2;location=2,3;mapname=City Ruins
+type=2;parentlocation=11,2;location=3,0;mapname=Blank sheet
+type=2;parentlocation=11,2;location=3,1;mapname=City Ruins
+type=2;parentlocation=11,2;location=3,2;mapname=Battleforce 2
+type=2;parentlocation=11,2;location=3,3;mapname=Citytech Map
+type=2;parentlocation=11,3;location=0,0;mapname=Rolling Hills #1
+type=2;parentlocation=11,3;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=11,3;location=0,2;mapname=Rolling Hills #2
+type=2;parentlocation=11,3;location=0,3;mapname=River Valley
+type=2;parentlocation=11,3;location=1,0;mapname=Moonscape #2
+type=2;parentlocation=11,3;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=11,3;location=1,2;mapname=Large Mountain #2
+type=2;parentlocation=11,3;location=1,3;mapname=Deep Canyon #2
+type=2;parentlocation=11,3;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=11,3;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=11,3;location=2,2;mapname=Large Mountain #1
+type=2;parentlocation=11,3;location=2,3;mapname=Deep Canyon #1
+type=2;parentlocation=11,3;location=3,0;mapname=Deep Canyon #2
+type=2;parentlocation=11,3;location=3,1;mapname=City Hills/Residential #2
+type=2;parentlocation=11,3;location=3,2;mapname=City Streets #2
+type=2;parentlocation=11,3;location=3,3;mapname=City Streets #2
+type=2;parentlocation=11,4;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=11,4;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=11,4;location=0,2;mapname=City Ruins
+type=2;parentlocation=11,4;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=11,4;location=1,0;mapname=City Ruins
+type=2;parentlocation=11,4;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=11,4;location=1,2;mapname=Moonscape #1
+type=2;parentlocation=11,4;location=1,3;mapname=Blank sheet
+type=2;parentlocation=11,4;location=2,0;mapname=Moonscape #1
+type=2;parentlocation=11,4;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=11,4;location=2,2;mapname=City Streets #2
+type=2;parentlocation=11,4;location=2,3;mapname=Deep Canyon #1
+type=2;parentlocation=11,4;location=3,0;mapname=Battleforce 2
+type=2;parentlocation=11,4;location=3,1;mapname=Blank sheet
+type=2;parentlocation=11,4;location=3,2;mapname=Blank sheet
+type=2;parentlocation=11,4;location=3,3;mapname=Blank sheet
+type=2;parentlocation=11,5;location=0,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=11,5;location=0,1;mapname=Box Canyon
+type=2;parentlocation=11,5;location=0,2;mapname=Box Canyon
+type=2;parentlocation=11,5;location=0,3;mapname=Desert Hills
+type=2;parentlocation=11,5;location=1,0;mapname=Desert Mountain #2
+type=2;parentlocation=11,5;location=1,1;mapname=City (Residential)
+type=2;parentlocation=11,5;location=1,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=11,5;location=1,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=11,5;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=11,5;location=2,1;mapname=City Ruins
+type=2;parentlocation=11,5;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=11,5;location=2,3;mapname=Deep Canyon #2
+type=2;parentlocation=11,5;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=11,5;location=3,1;mapname=Large Mountain #1
+type=2;parentlocation=11,5;location=3,2;mapname=Large Mountain #2
+type=2;parentlocation=11,5;location=3,3;mapname=City (Residential)
+type=2;parentlocation=11,6;location=0,0;mapname=City Ruins
+type=2;parentlocation=11,6;location=0,1;mapname=City Ruins
+type=2;parentlocation=11,6;location=0,2;mapname=City Streets #1
+type=2;parentlocation=11,6;location=0,3;mapname=Drainage Basin #1
+type=2;parentlocation=11,6;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=11,6;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=11,6;location=1,2;mapname=Citytech Map
+type=2;parentlocation=11,6;location=1,3;mapname=Drainage Basin #1
+type=2;parentlocation=11,6;location=2,0;mapname=Open Terrain #1
+type=2;parentlocation=11,6;location=2,1;mapname=Citytech Map
+type=2;parentlocation=11,6;location=2,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=11,6;location=2,3;mapname=Open Terrain #1
+type=2;parentlocation=11,6;location=3,0;mapname=Woodland
+type=2;parentlocation=11,6;location=3,1;mapname=City Hills/Residential #1
+type=2;parentlocation=11,6;location=3,2;mapname=City Hills/Residential #1
+type=2;parentlocation=11,6;location=3,3;mapname=City Streets #1
+type=2;parentlocation=11,7;location=0,0;mapname=Open Terrain #1
+type=2;parentlocation=11,7;location=0,1;mapname=Scattered woods
+type=2;parentlocation=11,7;location=0,2;mapname=Drainage Basin #1
+type=2;parentlocation=11,7;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=11,7;location=1,0;mapname=Open Terrain #1
+type=2;parentlocation=11,7;location=1,1;mapname=Heavy Forest #2
+type=2;parentlocation=11,7;location=1,2;mapname=Heavy Forest #2
+type=2;parentlocation=11,7;location=1,3;mapname=Drainage Basin #1
+type=2;parentlocation=11,7;location=2,0;mapname=City Hills/Residential #2
+type=2;parentlocation=11,7;location=2,1;mapname=Blank sheet
+type=2;parentlocation=11,7;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=11,7;location=2,3;mapname=Heavy Forest #1
+type=2;parentlocation=11,7;location=3,0;mapname=Heavy Forest #1
+type=2;parentlocation=11,7;location=3,1;mapname=Blank sheet
+type=2;parentlocation=11,7;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=11,7;location=3,3;mapname=Drainage Basin #2
+type=2;parentlocation=11,8;location=0,0;mapname=City (Residential)
+type=2;parentlocation=11,8;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=11,8;location=0,2;mapname=City (Residential)
+type=2;parentlocation=11,8;location=0,3;mapname=Large Mountain #2
+type=2;parentlocation=11,8;location=1,0;mapname=Deep Canyon #2
+type=2;parentlocation=11,8;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=11,8;location=1,2;mapname=City Ruins
+type=2;parentlocation=11,8;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=11,8;location=2,0;mapname=Blank sheet
+type=2;parentlocation=11,8;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=11,8;location=2,2;mapname=Rolling Hills #1
+type=2;parentlocation=11,8;location=2,3;mapname=Large Mountain #1
+type=2;parentlocation=11,8;location=3,0;mapname=Desert Hills
+type=2;parentlocation=11,8;location=3,1;mapname=Rolling Hills #2
+type=2;parentlocation=11,8;location=3,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=11,8;location=3,3;mapname=Blank sheet
+type=2;parentlocation=11,9;location=0,0;mapname=Deep Canyon #1
+type=2;parentlocation=11,9;location=0,1;mapname=Blank sheet
+type=2;parentlocation=11,9;location=0,2;mapname=Moonscape #2
+type=2;parentlocation=11,9;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=11,9;location=1,0;mapname=Moonscape #2
+type=2;parentlocation=11,9;location=1,1;mapname=Desert Mountain #2
+type=2;parentlocation=11,9;location=1,2;mapname=Deep Canyon #1
+type=2;parentlocation=11,9;location=1,3;mapname=Box Canyon
+type=2;parentlocation=11,9;location=2,0;mapname=Deep Canyon #2
+type=2;parentlocation=11,9;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=11,9;location=2,2;mapname=Large Mountain #1
+type=2;parentlocation=11,9;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=11,9;location=3,0;mapname=City (Residential)
+type=2;parentlocation=11,9;location=3,1;mapname=Deep Canyon #2
+type=2;parentlocation=11,9;location=3,2;mapname=Moonscape #1
+type=2;parentlocation=11,9;location=3,3;mapname=Rolling Hills #2
+type=2;parentlocation=12,0;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=12,0;location=0,1;mapname=Rolling Hills #2
+type=2;parentlocation=12,0;location=0,2;mapname=Moonscape #2
+type=2;parentlocation=12,0;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=12,0;location=1,0;mapname=Desert Mountain #2
+type=2;parentlocation=12,0;location=1,1;mapname=City (Residential)
+type=2;parentlocation=12,0;location=1,2;mapname=Battleforce 2
+type=2;parentlocation=12,0;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,0;location=2,0;mapname=Large Mountain #1
+type=2;parentlocation=12,0;location=2,1;mapname=Deep Canyon #1
+type=2;parentlocation=12,0;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=12,0;location=2,3;mapname=Moonscape #1
+type=2;parentlocation=12,0;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=12,0;location=3,1;mapname=City (Residential)
+type=2;parentlocation=12,0;location=3,2;mapname=Blank sheet
+type=2;parentlocation=12,0;location=3,3;mapname=Desert Mountain #1
+type=2;parentlocation=12,1;location=0,0;mapname=City (Residential)
+type=2;parentlocation=12,1;location=0,1;mapname=Deep Canyon #2
+type=2;parentlocation=12,1;location=0,2;mapname=Deep Canyon #2
+type=2;parentlocation=12,1;location=0,3;mapname=City (Residential)
+type=2;parentlocation=12,1;location=1,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,1;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,1;location=1,2;mapname=Blank sheet
+type=2;parentlocation=12,1;location=1,3;mapname=Moonscape #2
+type=2;parentlocation=12,1;location=2,0;mapname=Large Mountain #2
+type=2;parentlocation=12,1;location=2,1;mapname=Blank sheet
+type=2;parentlocation=12,1;location=2,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=12,1;location=2,3;mapname=Large Mountain #1
+type=2;parentlocation=12,1;location=3,0;mapname=Moonscape #1
+type=2;parentlocation=12,1;location=3,1;mapname=Large Mountain #2
+type=2;parentlocation=12,1;location=3,2;mapname=Box Canyon
+type=2;parentlocation=12,1;location=3,3;mapname=Moonscape #2
+type=2;parentlocation=12,2;location=0,0;mapname=Scattered woods
+type=2;parentlocation=12,2;location=0,1;mapname=Drainage Basin #1
+type=2;parentlocation=12,2;location=0,2;mapname=City Ruins
+type=2;parentlocation=12,2;location=0,3;mapname=Drainage Basin #1
+type=2;parentlocation=12,2;location=1,0;mapname=Citytech Map
+type=2;parentlocation=12,2;location=1,1;mapname=Open Terrain #1
+type=2;parentlocation=12,2;location=1,2;mapname=Heavy Forest #2
+type=2;parentlocation=12,2;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=12,2;location=2,0;mapname=Heavy Forest #2
+type=2;parentlocation=12,2;location=2,1;mapname=Open Terrain #2
+type=2;parentlocation=12,2;location=2,2;mapname=Open Terrain #1
+type=2;parentlocation=12,2;location=2,3;mapname=Citytech Map
+type=2;parentlocation=12,2;location=3,0;mapname=Battleforce 2
+type=2;parentlocation=12,2;location=3,1;mapname=City Ruins
+type=2;parentlocation=12,2;location=3,2;mapname=Battleforce 2
+type=2;parentlocation=12,2;location=3,3;mapname=City Hills/Residential #2
+type=2;parentlocation=12,3;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=12,3;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=12,3;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=12,3;location=0,3;mapname=Moonscape #1
+type=2;parentlocation=12,3;location=1,0;mapname=Moonscape #1
+type=2;parentlocation=12,3;location=1,1;mapname=Open Terrain #2
+type=2;parentlocation=12,3;location=1,2;mapname=Rolling Hills #2
+type=2;parentlocation=12,3;location=1,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,3;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=12,3;location=2,1;mapname=City Hills/Residential #1
+type=2;parentlocation=12,3;location=2,2;mapname=Woodland
+type=2;parentlocation=12,3;location=2,3;mapname=City Ruins
+type=2;parentlocation=12,3;location=3,0;mapname=Blank sheet
+type=2;parentlocation=12,3;location=3,1;mapname=City Ruins
+type=2;parentlocation=12,3;location=3,2;mapname=Rolling Hills #1
+type=2;parentlocation=12,3;location=3,3;mapname=Blank sheet
+type=2;parentlocation=12,4;location=0,0;mapname=Citytech Map
+type=2;parentlocation=12,4;location=0,1;mapname=Citytech Map
+type=2;parentlocation=12,4;location=0,2;mapname=City Ruins
+type=2;parentlocation=12,4;location=0,3;mapname=Open Terrain #1
+type=2;parentlocation=12,4;location=1,0;mapname=City Ruins
+type=2;parentlocation=12,4;location=1,1;mapname=Drainage Basin #1
+type=2;parentlocation=12,4;location=1,2;mapname=Open Terrain #1
+type=2;parentlocation=12,4;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=12,4;location=2,0;mapname=Woodland
+type=2;parentlocation=12,4;location=2,1;mapname=Desert Hills
+type=2;parentlocation=12,4;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=12,4;location=2,3;mapname=Large Mountain #2
+type=2;parentlocation=12,4;location=3,0;mapname=Drainage Basin #2
+type=2;parentlocation=12,4;location=3,1;mapname=Open Terrain #2
+type=2;parentlocation=12,4;location=3,2;mapname=Drainage Basin #2
+type=2;parentlocation=12,4;location=3,3;mapname=Woodland
+type=2;parentlocation=12,5;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=12,5;location=0,1;mapname=City Ruins
+type=2;parentlocation=12,5;location=0,2;mapname=Rolling Hills #1
+type=2;parentlocation=12,5;location=0,3;mapname=Blank sheet
+type=2;parentlocation=12,5;location=1,0;mapname=River Valley
+type=2;parentlocation=12,5;location=1,1;mapname=Rolling Hills #1
+type=2;parentlocation=12,5;location=1,2;mapname=City Ruins
+type=2;parentlocation=12,5;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=12,5;location=2,0;mapname=City Hills/Residential #2
+type=2;parentlocation=12,5;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=12,5;location=2,2;mapname=Moonscape #2
+type=2;parentlocation=12,5;location=2,3;mapname=City Streets #2
+type=2;parentlocation=12,5;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=12,5;location=3,1;mapname=City Streets #2
+type=2;parentlocation=12,5;location=3,2;mapname=Rolling Hills #2
+type=2;parentlocation=12,5;location=3,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,6;location=0,0;mapname=Open Terrain #2
+type=2;parentlocation=12,6;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=12,6;location=0,2;mapname=Open Terrain #2
+type=2;parentlocation=12,6;location=0,3;mapname=City Hills/Residential #2
+type=2;parentlocation=12,6;location=1,0;mapname=City Hills/Residential #1
+type=2;parentlocation=12,6;location=1,1;mapname=City Hills/Residential #2
+type=2;parentlocation=12,6;location=1,2;mapname=Battleforce 2
+type=2;parentlocation=12,6;location=1,3;mapname=City Ruins
+type=2;parentlocation=12,6;location=2,0;mapname=Moonscape #1
+type=2;parentlocation=12,6;location=2,1;mapname=Desert Hills
+type=2;parentlocation=12,6;location=2,2;mapname=City Hills/Residential #1
+type=2;parentlocation=12,6;location=2,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,6;location=3,0;mapname=Blank sheet
+type=2;parentlocation=12,6;location=3,1;mapname=City Ruins
+type=2;parentlocation=12,6;location=3,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,6;location=3,3;mapname=Woodland
+type=2;parentlocation=12,7;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=12,7;location=0,1;mapname=City Ruins
+type=2;parentlocation=12,7;location=0,2;mapname=Rolling Hills #1
+type=2;parentlocation=12,7;location=0,3;mapname=City Ruins
+type=2;parentlocation=12,7;location=1,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=12,7;location=1,1;mapname=City Streets #2
+type=2;parentlocation=12,7;location=1,2;mapname=Rolling Hills #1
+type=2;parentlocation=12,7;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=12,7;location=2,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=12,7;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=12,7;location=2,2;mapname=River Valley
+type=2;parentlocation=12,7;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=12,7;location=3,0;mapname=City Streets #2
+type=2;parentlocation=12,7;location=3,1;mapname=Moonscape #2
+type=2;parentlocation=12,7;location=3,2;mapname=Desert Hills
+type=2;parentlocation=12,7;location=3,3;mapname=Blank sheet
+type=2;parentlocation=12,8;location=0,0;mapname=Large Mountain #2
+type=2;parentlocation=12,8;location=0,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,8;location=0,2;mapname=Box Canyon
+type=2;parentlocation=12,8;location=0,3;mapname=Deep Canyon #2
+type=2;parentlocation=12,8;location=1,0;mapname=City (Residential)
+type=2;parentlocation=12,8;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=12,8;location=1,2;mapname=Blank sheet
+type=2;parentlocation=12,8;location=1,3;mapname=City (Residential)
+type=2;parentlocation=12,8;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=12,8;location=2,1;mapname=Mountain Lakes
+type=2;parentlocation=12,8;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=12,8;location=2,3;mapname=Box Canyon
+type=2;parentlocation=12,8;location=3,0;mapname=Large Mountain #2
+type=2;parentlocation=12,8;location=3,1;mapname=Moonscape #1
+type=2;parentlocation=12,8;location=3,2;mapname=Moonscape #1
+type=2;parentlocation=12,8;location=3,3;mapname=Blank sheet
+type=2;parentlocation=12,9;location=0,0;mapname=Large Mountain #1
+type=2;parentlocation=12,9;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=12,9;location=0,2;mapname=Desert Mountain #2
+type=2;parentlocation=12,9;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=12,9;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=12,9;location=1,1;mapname=City (Residential)
+type=2;parentlocation=12,9;location=1,2;mapname=Box Canyon
+type=2;parentlocation=12,9;location=1,3;mapname=Moonscape #2
+type=2;parentlocation=12,9;location=2,0;mapname=Rolling Hills #2
+type=2;parentlocation=12,9;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=12,9;location=2,2;mapname=Box Canyon
+type=2;parentlocation=12,9;location=2,3;mapname=Deep Canyon #1
+type=2;parentlocation=12,9;location=3,0;mapname=Deep Canyon #1
+type=2;parentlocation=12,9;location=3,1;mapname=Blank sheet
+type=2;parentlocation=12,9;location=3,2;mapname=City (Residential)
+type=2;parentlocation=12,9;location=3,3;mapname=Blank sheet
+type=2;parentlocation=13,0;location=0,0;mapname=City (Residential)
+type=2;parentlocation=13,0;location=0,1;mapname=Deep Canyon #1
+type=2;parentlocation=13,0;location=0,2;mapname=Large Mountain #1
+type=2;parentlocation=13,0;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=13,0;location=1,0;mapname=Deep Canyon #1
+type=2;parentlocation=13,0;location=1,1;mapname=Desert Mountain #2
+type=2;parentlocation=13,0;location=1,2;mapname=Rolling Hills #2
+type=2;parentlocation=13,0;location=1,3;mapname=Moonscape #2
+type=2;parentlocation=13,0;location=2,0;mapname=Heavy Forest #1
+type=2;parentlocation=13,0;location=2,1;mapname=City (Residential)
+type=2;parentlocation=13,0;location=2,2;mapname=Large Mountain #1
+type=2;parentlocation=13,0;location=2,3;mapname=Box Canyon
+type=2;parentlocation=13,0;location=3,0;mapname=Box Canyon
+type=2;parentlocation=13,0;location=3,1;mapname=Moonscape #2
+type=2;parentlocation=13,0;location=3,2;mapname=Deep Canyon #2
+type=2;parentlocation=13,0;location=3,3;mapname=Rolling Hills #2
+type=2;parentlocation=13,1;location=0,0;mapname=City (Residential)
+type=2;parentlocation=13,1;location=0,1;mapname=Large Mountain #1
+type=2;parentlocation=13,1;location=0,2;mapname=Rolling Hills #2
+type=2;parentlocation=13,1;location=0,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=13,1;location=1,0;mapname=Blank sheet
+type=2;parentlocation=13,1;location=1,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=13,1;location=1,2;mapname=City (Residential)
+type=2;parentlocation=13,1;location=1,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=13,1;location=2,0;mapname=Box Canyon
+type=2;parentlocation=13,1;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=13,1;location=2,2;mapname=Large Mountain #2
+type=2;parentlocation=13,1;location=2,3;mapname=Blank sheet
+type=2;parentlocation=13,1;location=3,0;mapname=Mountain Lakes
+type=2;parentlocation=13,1;location=3,1;mapname=Blank sheet
+type=2;parentlocation=13,1;location=3,2;mapname=Blank sheet
+type=2;parentlocation=13,1;location=3,3;mapname=Blank sheet
+type=2;parentlocation=13,2;location=0,0;mapname=City Ruins
+type=2;parentlocation=13,2;location=0,1;mapname=City Ruins
+type=2;parentlocation=13,2;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=13,2;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=13,2;location=1,0;mapname=Large Mountain #2
+type=2;parentlocation=13,2;location=1,1;mapname=Moonscape #1
+type=2;parentlocation=13,2;location=1,2;mapname=River Valley
+type=2;parentlocation=13,2;location=1,3;mapname=Open Terrain #2
+type=2;parentlocation=13,2;location=2,0;mapname=Deep Canyon #2
+type=2;parentlocation=13,2;location=2,1;mapname=City (Residential)
+type=2;parentlocation=13,2;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=13,2;location=2,3;mapname=Deep Canyon #2
+type=2;parentlocation=13,2;location=3,0;mapname=Rolling Hills #2
+type=2;parentlocation=13,2;location=3,1;mapname=Scattered woods
+type=2;parentlocation=13,2;location=3,2;mapname=Rolling Hills #2
+type=2;parentlocation=13,2;location=3,3;mapname=City Hills/Residential #2
+type=2;parentlocation=13,3;location=0,0;mapname=Rolling Hills #1
+type=2;parentlocation=13,3;location=0,1;mapname=Moonscape #2
+type=2;parentlocation=13,3;location=0,2;mapname=Heavy Forest #1
+type=2;parentlocation=13,3;location=0,3;mapname=City Streets #2
+type=2;parentlocation=13,3;location=1,0;mapname=Rolling Hills #1
+type=2;parentlocation=13,3;location=1,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=13,3;location=1,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=13,3;location=1,3;mapname=Moonscape #2
+type=2;parentlocation=13,3;location=2,0;mapname=Desert Mountain #2
+type=2;parentlocation=13,3;location=2,1;mapname=City Ruins
+type=2;parentlocation=13,3;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=13,3;location=2,3;mapname=City Streets #2
+type=2;parentlocation=13,3;location=3,0;mapname=City Hills/Residential #2
+type=2;parentlocation=13,3;location=3,1;mapname=Desert Hills
+type=2;parentlocation=13,3;location=3,2;mapname=City (Residential)
+type=2;parentlocation=13,3;location=3,3;mapname=City Ruins
+type=2;parentlocation=13,4;location=0,0;mapname=Open Terrain #1
+type=2;parentlocation=13,4;location=0,1;mapname=City Ruins
+type=2;parentlocation=13,4;location=0,2;mapname=Citytech Map
+type=2;parentlocation=13,4;location=0,3;mapname=City Hills/Residential #2
+type=2;parentlocation=13,4;location=1,0;mapname=Open Terrain #1
+type=2;parentlocation=13,4;location=1,1;mapname=City Ruins
+type=2;parentlocation=13,4;location=1,2;mapname=Drainage Basin #1
+type=2;parentlocation=13,4;location=1,3;mapname=Citytech Map
+type=2;parentlocation=13,4;location=2,0;mapname=Woodland
+type=2;parentlocation=13,4;location=2,1;mapname=Drainage Basin #1
+type=2;parentlocation=13,4;location=2,2;mapname=City Hills/Residential #2
+type=2;parentlocation=13,4;location=2,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=13,4;location=3,0;mapname=Scattered woods
+type=2;parentlocation=13,4;location=3,1;mapname=City Streets #2
+type=2;parentlocation=13,4;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=13,4;location=3,3;mapname=Woodland
+type=2;parentlocation=13,5;location=0,0;mapname=Moonscape #1
+type=2;parentlocation=13,5;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=13,5;location=0,2;mapname=Moonscape #1
+type=2;parentlocation=13,5;location=0,3;mapname=City Hills/Residential #2
+type=2;parentlocation=13,5;location=1,0;mapname=City Hills/Residential #1
+type=2;parentlocation=13,5;location=1,1;mapname=Open Terrain #2
+type=2;parentlocation=13,5;location=1,2;mapname=City Ruins
+type=2;parentlocation=13,5;location=1,3;mapname=City Ruins
+type=2;parentlocation=13,5;location=2,0;mapname=City Hills/Residential #1
+type=2;parentlocation=13,5;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=13,5;location=2,2;mapname=Rolling Hills #2
+type=2;parentlocation=13,5;location=2,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=13,5;location=3,0;mapname=City Streets #2
+type=2;parentlocation=13,5;location=3,1;mapname=Blank sheet
+type=2;parentlocation=13,5;location=3,2;mapname=Open Terrain #1
+type=2;parentlocation=13,5;location=3,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=13,6;location=0,0;mapname=Open Terrain #2
+type=2;parentlocation=13,6;location=0,1;mapname=Moonscape #1
+type=2;parentlocation=13,6;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=13,6;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=13,6;location=1,0;mapname=Rolling Hills #2
+type=2;parentlocation=13,6;location=1,1;mapname=Open Terrain #1
+type=2;parentlocation=13,6;location=1,2;mapname=City Ruins
+type=2;parentlocation=13,6;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=13,6;location=2,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=13,6;location=2,1;mapname=River Valley
+type=2;parentlocation=13,6;location=2,2;mapname=Moonscape #1
+type=2;parentlocation=13,6;location=2,3;mapname=City Hills/Residential #1
+type=2;parentlocation=13,6;location=3,0;mapname=City Ruins
+type=2;parentlocation=13,6;location=3,1;mapname=Rolling Hills #2
+type=2;parentlocation=13,6;location=3,2;mapname=Moonscape #2
+type=2;parentlocation=13,6;location=3,3;mapname=Rolling Hills #1
+type=2;parentlocation=13,7;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=13,7;location=0,1;mapname=Rolling Hills #1
+type=2;parentlocation=13,7;location=0,2;mapname=City Ruins
+type=2;parentlocation=13,7;location=0,3;mapname=City Ruins
+type=2;parentlocation=13,7;location=1,0;mapname=City Streets #2
+type=2;parentlocation=13,7;location=1,1;mapname=Blank sheet
+type=2;parentlocation=13,7;location=1,2;mapname=Rolling Hills #1
+type=2;parentlocation=13,7;location=1,3;mapname=City Hills/Residential #2
+type=2;parentlocation=13,7;location=2,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=13,7;location=2,1;mapname=City Streets #2
+type=2;parentlocation=13,7;location=2,2;mapname=Desert Sinkhole #1
+type=2;parentlocation=13,7;location=2,3;mapname=City Hills/Residential #2
+type=2;parentlocation=13,7;location=3,0;mapname=City Streets #1
+type=2;parentlocation=13,7;location=3,1;mapname=River Valley
+type=2;parentlocation=13,7;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=13,7;location=3,3;mapname=Moonscape #1
+type=2;parentlocation=13,8;location=0,0;mapname=City (Residential)
+type=2;parentlocation=13,8;location=0,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=13,8;location=0,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=13,8;location=0,3;mapname=Blank sheet
+type=2;parentlocation=13,8;location=1,0;mapname=Deep Canyon #2
+type=2;parentlocation=13,8;location=1,1;mapname=Deep Canyon #2
+type=2;parentlocation=13,8;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=13,8;location=1,3;mapname=City Ruins
+type=2;parentlocation=13,8;location=2,0;mapname=Large Mountain #2
+type=2;parentlocation=13,8;location=2,1;mapname=City (Residential)
+type=2;parentlocation=13,8;location=2,2;mapname=Large Mountain #2
+type=2;parentlocation=13,8;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=13,8;location=3,0;mapname=Rolling Hills #2
+type=2;parentlocation=13,8;location=3,1;mapname=City Ruins
+type=2;parentlocation=13,8;location=3,2;mapname=Desert Hills
+type=2;parentlocation=13,8;location=3,3;mapname=Blank sheet
+type=2;parentlocation=13,9;location=0,0;mapname=Large Mountain #1
+type=2;parentlocation=13,9;location=0,1;mapname=City (Residential)
+type=2;parentlocation=13,9;location=0,2;mapname=Large Mountain #1
+type=2;parentlocation=13,9;location=0,3;mapname=Desert Mountain #2
+type=2;parentlocation=13,9;location=1,0;mapname=Desert Mountain #2
+type=2;parentlocation=13,9;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=13,9;location=1,2;mapname=Moonscape #2
+type=2;parentlocation=13,9;location=1,3;mapname=Desert Mountain #1
+type=2;parentlocation=13,9;location=2,0;mapname=Box Canyon
+type=2;parentlocation=13,9;location=2,1;mapname=City (Residential)
+type=2;parentlocation=13,9;location=2,2;mapname=Deep Canyon #1
+type=2;parentlocation=13,9;location=2,3;mapname=Desert Mountain #1
+type=2;parentlocation=13,9;location=3,0;mapname=Box Canyon
+type=2;parentlocation=13,9;location=3,1;mapname=Blank sheet
+type=2;parentlocation=13,9;location=3,2;mapname=Deep Canyon #2
+type=2;parentlocation=13,9;location=3,3;mapname=Blank sheet
+type=2;parentlocation=14,0;location=0,0;mapname=Moonscape #2
+type=2;parentlocation=14,0;location=0,1;mapname=Large Mountain #1
+type=2;parentlocation=14,0;location=0,2;mapname=Heavy Forest #1
+type=2;parentlocation=14,0;location=0,3;mapname=Large Mountain #1
+type=2;parentlocation=14,0;location=1,0;mapname=Deep Canyon #1
+type=2;parentlocation=14,0;location=1,1;mapname=Deep Canyon #1
+type=2;parentlocation=14,0;location=1,2;mapname=Rolling Hills #2
+type=2;parentlocation=14,0;location=1,3;mapname=Moonscape #1
+type=2;parentlocation=14,0;location=2,0;mapname=Desert Mountain #2
+type=2;parentlocation=14,0;location=2,1;mapname=City (Residential)
+type=2;parentlocation=14,0;location=2,2;mapname=Moonscape #2
+type=2;parentlocation=14,0;location=2,3;mapname=Blank sheet
+type=2;parentlocation=14,0;location=3,0;mapname=Desert Mountain #2
+type=2;parentlocation=14,0;location=3,1;mapname=Large Mountain #2
+type=2;parentlocation=14,0;location=3,2;mapname=Moonscape #1
+type=2;parentlocation=14,0;location=3,3;mapname=Desert Mountain #1
+type=2;parentlocation=14,1;location=0,0;mapname=City Ruins
+type=2;parentlocation=14,1;location=0,1;mapname=City (Residential)
+type=2;parentlocation=14,1;location=0,2;mapname=City (Residential)
+type=2;parentlocation=14,1;location=0,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=14,1;location=1,0;mapname=Deep Canyon #2
+type=2;parentlocation=14,1;location=1,1;mapname=Box Canyon
+type=2;parentlocation=14,1;location=1,2;mapname=Box Canyon
+type=2;parentlocation=14,1;location=1,3;mapname=Desert Mountain #1
+type=2;parentlocation=14,1;location=2,0;mapname=Desert Sinkhole #2
+type=2;parentlocation=14,1;location=2,1;mapname=Rolling Hills #2
+type=2;parentlocation=14,1;location=2,2;mapname=Large Mountain #2
+type=2;parentlocation=14,1;location=2,3;mapname=Desert Sinkhole #1
+type=2;parentlocation=14,1;location=3,0;mapname=City Ruins
+type=2;parentlocation=14,1;location=3,1;mapname=Blank sheet
+type=2;parentlocation=14,1;location=3,2;mapname=Moonscape #1
+type=2;parentlocation=14,1;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=14,2;location=0,0;mapname=Rolling Hills #1
+type=2;parentlocation=14,2;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=14,2;location=0,2;mapname=Rolling Hills #1
+type=2;parentlocation=14,2;location=0,3;mapname=City Streets #2
+type=2;parentlocation=14,2;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=14,2;location=1,1;mapname=City Streets #2
+type=2;parentlocation=14,2;location=1,2;mapname=City Ruins
+type=2;parentlocation=14,2;location=1,3;mapname=City Ruins
+type=2;parentlocation=14,2;location=2,0;mapname=Open Terrain #1
+type=2;parentlocation=14,2;location=2,1;mapname=City Hills/Residential #2
+type=2;parentlocation=14,2;location=2,2;mapname=Open Terrain #1
+type=2;parentlocation=14,2;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=14,2;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=14,2;location=3,1;mapname=Moonscape #2
+type=2;parentlocation=14,2;location=3,2;mapname=Open Terrain #2
+type=2;parentlocation=14,2;location=3,3;mapname=River Valley
+type=2;parentlocation=14,3;location=0,0;mapname=City Streets #2
+type=2;parentlocation=14,3;location=0,1;mapname=City Hills/Residential #2
+type=2;parentlocation=14,3;location=0,2;mapname=City Ruins
+type=2;parentlocation=14,3;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=14,3;location=1,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=14,3;location=1,1;mapname=City Streets #2
+type=2;parentlocation=14,3;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=14,3;location=1,3;mapname=City Ruins
+type=2;parentlocation=14,3;location=2,0;mapname=City Streets #1
+type=2;parentlocation=14,3;location=2,1;mapname=Rolling Hills #1
+type=2;parentlocation=14,3;location=2,2;mapname=Rolling Hills #1
+type=2;parentlocation=14,3;location=2,3;mapname=Blank sheet
+type=2;parentlocation=14,3;location=3,0;mapname=City Hills/Residential #1
+type=2;parentlocation=14,3;location=3,1;mapname=Moonscape #2
+type=2;parentlocation=14,3;location=3,2;mapname=Desert Hills
+type=2;parentlocation=14,3;location=3,3;mapname=Deep Canyon #2
+type=2;parentlocation=14,4;location=0,0;mapname=Blank sheet
+type=2;parentlocation=14,4;location=0,1;mapname=Open Terrain #2
+type=2;parentlocation=14,4;location=0,2;mapname=City Ruins
+type=2;parentlocation=14,4;location=0,3;mapname=Open Terrain #2
+type=2;parentlocation=14,4;location=1,0;mapname=City Hills/Residential #2
+type=2;parentlocation=14,4;location=1,1;mapname=Moonscape #1
+type=2;parentlocation=14,4;location=1,2;mapname=City Hills/Residential #2
+type=2;parentlocation=14,4;location=1,3;mapname=Moonscape #1
+type=2;parentlocation=14,4;location=2,0;mapname=Blank sheet
+type=2;parentlocation=14,4;location=2,1;mapname=Blank sheet
+type=2;parentlocation=14,4;location=2,2;mapname=City Ruins
+type=2;parentlocation=14,4;location=2,3;mapname=Blank sheet
+type=2;parentlocation=14,4;location=3,0;mapname=Rolling Hills #2
+type=2;parentlocation=14,4;location=3,1;mapname=Blank sheet
+type=2;parentlocation=14,4;location=3,2;mapname=Deep Canyon #1
+type=2;parentlocation=14,4;location=3,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=14,5;location=0,0;mapname=City Hills/Residential #2
+type=2;parentlocation=14,5;location=0,1;mapname=City Streets #2
+type=2;parentlocation=14,5;location=0,2;mapname=City Hills/Residential #2
+type=2;parentlocation=14,5;location=0,3;mapname=Rolling Hills #1
+type=2;parentlocation=14,5;location=1,0;mapname=Rolling Hills #1
+type=2;parentlocation=14,5;location=1,1;mapname=Blank sheet
+type=2;parentlocation=14,5;location=1,2;mapname=City (Residential)
+type=2;parentlocation=14,5;location=1,3;mapname=City Streets #2
+type=2;parentlocation=14,5;location=2,0;mapname=City Ruins
+type=2;parentlocation=14,5;location=2,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=14,5;location=2,2;mapname=City Hills/Residential #1
+type=2;parentlocation=14,5;location=2,3;mapname=Open Terrain #1
+type=2;parentlocation=14,5;location=3,0;mapname=Desert Sinkhole #1
+type=2;parentlocation=14,5;location=3,1;mapname=Desert Hills
+type=2;parentlocation=14,5;location=3,2;mapname=Moonscape #1
+type=2;parentlocation=14,5;location=3,3;mapname=Blank sheet
+type=2;parentlocation=14,6;location=0,0;mapname=Rolling Hills #1
+type=2;parentlocation=14,6;location=0,1;mapname=River Valley
+type=2;parentlocation=14,6;location=0,2;mapname=Desert Mountain #1
+type=2;parentlocation=14,6;location=0,3;mapname=Rolling Hills #1
+type=2;parentlocation=14,6;location=1,0;mapname=Large Mountain #2
+type=2;parentlocation=14,6;location=1,1;mapname=Deep Canyon #2
+type=2;parentlocation=14,6;location=1,2;mapname=City Streets #2
+type=2;parentlocation=14,6;location=1,3;mapname=City (Residential)
+type=2;parentlocation=14,6;location=2,0;mapname=Moonscape #2
+type=2;parentlocation=14,6;location=2,1;mapname=Large Mountain #2
+type=2;parentlocation=14,6;location=2,2;mapname=Deep Canyon #2
+type=2;parentlocation=14,6;location=2,3;mapname=City Streets #2
+type=2;parentlocation=14,6;location=3,0;mapname=City Hills/Residential #2
+type=2;parentlocation=14,6;location=3,1;mapname=Desert Sinkhole #1
+type=2;parentlocation=14,6;location=3,2;mapname=Large Mountain #1
+type=2;parentlocation=14,6;location=3,3;mapname=Box Canyon
+type=2;parentlocation=14,7;location=0,0;mapname=City Ruins
+type=2;parentlocation=14,7;location=0,1;mapname=Desert Sinkhole #2
+type=2;parentlocation=14,7;location=0,2;mapname=City (Residential)
+type=2;parentlocation=14,7;location=0,3;mapname=Desert Sinkhole #2
+type=2;parentlocation=14,7;location=1,0;mapname=Large Mountain #2
+type=2;parentlocation=14,7;location=1,1;mapname=City (Residential)
+type=2;parentlocation=14,7;location=1,2;mapname=Heavy Forest #1
+type=2;parentlocation=14,7;location=1,3;mapname=Large Mountain #2
+type=2;parentlocation=14,7;location=2,0;mapname=Deep Canyon #2
+type=2;parentlocation=14,7;location=2,1;mapname=Blank sheet
+type=2;parentlocation=14,7;location=2,2;mapname=Large Mountain #1
+type=2;parentlocation=14,7;location=2,3;mapname=Deep Canyon #2
+type=2;parentlocation=14,7;location=3,0;mapname=Box Canyon
+type=2;parentlocation=14,7;location=3,1;mapname=City Ruins
+type=2;parentlocation=14,7;location=3,2;mapname=Box Canyon
+type=2;parentlocation=14,7;location=3,3;mapname=Large Mountain #1
+type=2;parentlocation=14,8;location=0,0;mapname=Box Canyon
+type=2;parentlocation=14,8;location=0,1;mapname=City (Residential)
+type=2;parentlocation=14,8;location=0,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=14,8;location=0,3;mapname=Deep Canyon #2
+type=2;parentlocation=14,8;location=1,0;mapname=City (Residential)
+type=2;parentlocation=14,8;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=14,8;location=1,2;mapname=Desert Sinkhole #2
+type=2;parentlocation=14,8;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=14,8;location=2,0;mapname=Deep Canyon #2
+type=2;parentlocation=14,8;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=14,8;location=2,2;mapname=Rolling Hills #2
+type=2;parentlocation=14,8;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=14,8;location=3,0;mapname=Large Mountain #1
+type=2;parentlocation=14,8;location=3,1;mapname=Blank sheet
+type=2;parentlocation=14,8;location=3,2;mapname=Blank sheet
+type=2;parentlocation=14,8;location=3,3;mapname=Large Mountain #2
+type=2;parentlocation=14,9;location=0,0;mapname=Desert Mountain #2
+type=2;parentlocation=14,9;location=0,1;mapname=Desert Mountain #2
+type=2;parentlocation=14,9;location=0,2;mapname=Deep Canyon #1
+type=2;parentlocation=14,9;location=0,3;mapname=Moonscape #2
+type=2;parentlocation=14,9;location=1,0;mapname=Large Mountain #1
+type=2;parentlocation=14,9;location=1,1;mapname=Moonscape #2
+type=2;parentlocation=14,9;location=1,2;mapname=Blank sheet
+type=2;parentlocation=14,9;location=1,3;mapname=Large Mountain #1
+type=2;parentlocation=14,9;location=2,0;mapname=City (Residential)
+type=2;parentlocation=14,9;location=2,1;mapname=Moonscape #1
+type=2;parentlocation=14,9;location=2,2;mapname=Box Canyon
+type=2;parentlocation=14,9;location=2,3;mapname=Rolling Hills #2
+type=2;parentlocation=14,9;location=3,0;mapname=Desert Mountain #1
+type=2;parentlocation=14,9;location=3,1;mapname=Deep Canyon #1
+type=2;parentlocation=14,9;location=3,2;mapname=Desert Mountain #1
+type=2;parentlocation=14,9;location=3,3;mapname=City (Residential)

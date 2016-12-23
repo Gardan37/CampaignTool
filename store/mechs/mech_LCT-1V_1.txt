@@ -1,0 +1,19 @@
+type=mech;name=Locust;variant=LCT-1V;tonnage=20;heatsinks=10;movement=8/12/0
+loc=1;structure00=3;structure01=0;structure10=8;structure11=0;slot11=life support;slot12=sensors;slot13=cockpit;slot15=sensors;slot16=life support
+loc=2;structure00=6;structure01=0;structure10=10;structure11=0;structure20=2;structure21=0;slot11=engine;slot12=engine;slot13=engine;slot14=gyro;slot15=gyro;slot16=gyro;slot21=gyro;slot22=engine;slot23=engine;slot24=engine;slot25=MedLaser_1;slot26=MGAmmo_1
+loc=3;structure00=5;structure01=0;structure10=8;structure11=0;structure20=2;structure21=0;slot11=HS_1
+loc=4;structure00=5;structure01=0;structure10=8;structure11=0;structure20=2;structure21=0;slot11=HS_2
+loc=5;structure00=3;structure01=0;structure10=4;structure11=0;slot11=shoulder;slot12=upper arm actuator;slot13=MG_1;slot13=lower arm actuator;slot14=hand actuator
+loc=6;structure00=3;structure01=0;structure10=4;structure11=0;slot11=shoulder;slot12=upper arm actuator;slot13=MG_2;slot13=lower arm actuator;slot14=hand actuator
+loc=7;structure00=4;structure01=0;structure10=8;structure11=0;slot11=hip;slot12=upper leg actuator;slot13=lower leg actuator;slot14=foot actuator;slot15=HS_3
+loc=8;structure00=4;structure01=0;structure10=8;structure11=0;slot11=hip;slot12=upper leg actuator;slot13=lower leg actuator;slot14=foot actuator;slot15=HS_4
+Armor;L=8;A=4;ST=8/2;CT=10/2;H=8
+Engine;size=160;type=engine
+HS_1;crit=11;loc=3;type=HS
+HS_2;crit=11;loc=4;type=HS
+HS_3;crit=15;loc=7;type=HS
+HS_4;crit=15;loc=8;type=HS
+MGAmmo_1;crit=26;loc=2;type=MGAmmo
+MG_1;crit=13;loc=5;type=MG
+MG_2;crit=13;loc=6;type=MG
+MedLaser_1;crit=25;loc=2;type=MedLaser

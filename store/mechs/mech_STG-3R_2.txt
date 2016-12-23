@@ -1,0 +1,27 @@
+type=mech;name=Stinger;variant=STG-3R;tonnage=20;heatsinks=10;movement=6/9/6
+loc=1;structure00=3;structure01=0;structure10=4;structure11=0;slot11=life support;slot12=sensors;slot13=cockpit;slot15=sensors;slot16=life support
+loc=2;structure00=6;structure01=0;structure10=6;structure11=0;structure20=4;structure21=0;slot11=engine;slot12=engine;slot13=engine;slot14=gyro;slot15=gyro;slot16=gyro;slot21=gyro;slot22=engine;slot23=engine;slot24=engine;slot25=MGAmmo_1
+loc=3;structure00=5;structure01=0;structure10=6;structure11=0;structure20=2;structure21=0;slot11=JumpJet_1;slot12=JumpJet_2;slot13=JumpJet_3;slot14=HS_1;slot15=HS_2;slot16=HS_3
+loc=4;structure00=5;structure01=0;structure10=6;structure11=0;structure20=2;structure21=0;slot11=JumpJet_4;slot12=JumpJet_5;slot13=JumpJet_6;slot14=HS_4;slot15=HS_5;slot16=HS_6
+loc=5;structure00=3;structure01=0;structure10=4;structure11=0;slot11=shoulder;slot12=upper arm actuator;slot13=lower arm actuator;slot14=hand actuator;slot15=MedLaser_1;slot16=MG_1
+loc=6;structure00=3;structure01=0;structure10=4;structure11=0;slot11=shoulder;slot12=upper arm actuator;slot13=lower arm actuator;slot14=hand actuator;slot15=MG_2
+loc=7;structure00=4;structure01=0;structure10=5;structure11=0;slot11=hip;slot12=upper leg actuator;slot13=lower leg actuator;slot14=foot actuator
+loc=8;structure00=4;structure01=0;structure10=5;structure11=0;slot11=hip;slot12=upper leg actuator;slot13=lower leg actuator;slot14=foot actuator
+Armor;L=5;A=4;ST=6/2;CT=6/4;H=4
+Engine;size=120;type=engine
+HS_1;crit=14;loc=3;type=HS
+HS_2;crit=15;loc=3;type=HS
+HS_3;crit=16;loc=3;type=HS
+HS_4;crit=14;loc=4;type=HS
+HS_5;crit=15;loc=4;type=HS
+HS_6;crit=16;loc=4;type=HS
+JumpJet_1;crit=11;loc=3;type=JumpJet
+JumpJet_2;crit=12;loc=3;type=JumpJet
+JumpJet_3;crit=13;loc=3;type=JumpJet
+JumpJet_4;crit=11;loc=4;type=JumpJet
+JumpJet_5;crit=12;loc=4;type=JumpJet
+JumpJet_6;crit=13;loc=4;type=JumpJet
+MGAmmo_1;crit=25;loc=2;type=MGAmmo
+MG_1;crit=16;loc=5;type=MG
+MG_2;crit=15;loc=6;type=MG
+MedLaser_1;crit=15;loc=5;type=MedLaser
